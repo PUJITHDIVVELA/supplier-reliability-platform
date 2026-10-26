@@ -1,0 +1,1001 @@
+supplier_id,name,tier,category,status,country,founded_year,financial_stability_rating,created_at
+SUP-000001,Optima Industries GmbH #1,Tier-1,Precision Machining,Active,South Korea,1990,AAA,2022-09-05 08:00:00
+SUP-000002,Optima Optics Technologies #2,Tier-1,Precision Machining,Active,Japan,2004,AAA,2022-02-19 11:00:00
+SUP-000003,Vanguard Components Holdings #3,Tier-1,Assemblies,Active,India,2015,AAA,2022-09-28 08:00:00
+SUP-000004,Vanguard Silicon LLC #4,Tier-2,Electronics,Active,United States,2021,A,2021-01-13 16:00:00
+SUP-000005,Pacific Advanced Holdings #5,Tier-3,Logistics,Active,Netherlands,1997,BBB,2022-06-06 10:00:00
+SUP-000006,Titan Systems Holdings #6,Tier-2,Electronics,Active,Mexico,1981,A,2022-04-01 12:00:00
+SUP-000007,Hyperion Circuits Ltd #7,Tier-2,Electronics,Active,Taiwan,1986,BBB,2022-08-14 13:00:00
+SUP-000008,Vertex Circuits Corp #8,Tier-3,Precision Machining,Active,Canada,2017,A,2022-05-06 17:00:00
+SUP-000009,Vertex Components GmbH #9,Tier-2,Precision Machining,Active,Vietnam,2011,AA,2022-08-26 13:00:00
+SUP-000010,Titan Optics Inc #10,Tier-2,Packaging,Active,India,2006,AAA,2022-05-04 13:00:00
+SUP-000011,Vanguard Optics Corp #11,Tier-2,Assemblies,Active,Taiwan,1985,AA,2022-06-18 08:00:00
+SUP-000012,Global Components LLC #12,Tier-2,Precision Machining,Active,Vietnam,1980,AAA,2022-12-06 09:00:00
+SUP-000013,Quantum Circuits Holdings #13,Tier-2,Precision Machining,Active,Vietnam,1991,A,2022-12-22 09:00:00
+SUP-000014,Sterling Systems Holdings #14,Tier-2,Packaging,Active,Japan,1982,AA,2022-10-03 10:00:00
+SUP-000015,Micro Logistics GmbH #15,Tier-1,Packaging,Active,United States,1978,BBB,2022-07-24 12:00:00
+SUP-000016,Delta Foundry Technologies #16,Tier-3,Packaging,Active,Vietnam,1995,AA,2022-11-08 13:00:00
+SUP-000017,Vertex Industries LLC #17,Tier-3,Precision Machining,Active,South Korea,2000,AA,2022-09-16 10:00:00
+SUP-000018,Omni Robotics Holdings #18,Tier-2,Assemblies,Active,Vietnam,1989,BBB,2022-08-02 11:00:00
+SUP-000019,Global Systems GmbH #19,Tier-2,Logistics,Active,Taiwan,2016,AAA,2022-05-19 15:00:00
+SUP-000020,Titan Logistics Inc #20,Tier-2,Assemblies,Active,Germany,1991,AAA,2022-10-02 11:00:00
+SUP-000021,Precision Robotics LLC #21,Tier-3,Assemblies,Active,Taiwan,1980,AA,2022-06-08 10:00:00
+SUP-000022,Zenith Robotics Ltd #22,Tier-3,Raw Materials,Active,Netherlands,2021,B,2021-04-28 11:00:00
+SUP-000023,Summit Logistics Technologies #23,Tier-2,Logistics,Active,India,1983,AAA,2022-09-16 08:00:00
+SUP-000024,Sterling Materials Corp #24,Tier-2,Precision Machining,Active,Japan,2012,A,2022-12-08 15:00:00
+SUP-000025,Apex Dynamics S.A. #25,Tier-3,Logistics,Active,Mexico,1980,AA,2022-05-06 10:00:00
+SUP-000026,Summit Silicon Holdings #26,Tier-3,Precision Machining,Active,Netherlands,1984,A,2022-11-09 16:00:00
+SUP-000027,Synergy Electro Corp #27,Tier-2,Electronics,Active,South Korea,2008,BBB,2022-01-09 17:00:00
+SUP-000028,Optima Electro Technologies #28,Tier-1,Assemblies,Active,Mexico,2021,AA,2021-12-26 11:00:00
+SUP-000029,Micro Semiconductor Holdings #29,Tier-2,Raw Materials,Active,United States,1986,A,2022-11-04 08:00:00
+SUP-000030,Aero Semiconductor Inc #30,Tier-1,Packaging,Active,Taiwan,1976,AAA,2022-10-22 16:00:00
+SUP-000031,Precision Packaging GmbH #31,Tier-3,Assemblies,Active,South Korea,2018,AAA,2022-05-07 12:00:00
+SUP-000032,Nova Advanced GmbH #32,Tier-3,Electronics,Active,Taiwan,2017,A,2022-05-01 17:00:00
+SUP-000033,Pacific Semiconductor Inc #33,Tier-1,Assemblies,Active,South Korea,1981,BB,2022-11-23 17:00:00
+SUP-000034,Sterling Logistics GmbH #34,Tier-1,Packaging,Active,United States,2005,BBB,2022-09-19 12:00:00
+SUP-000035,Pacific Robotics Technologies #35,Tier-1,Logistics,Active,United States,1990,BB,2022-04-27 10:00:00
+SUP-000036,Optima Industries Ltd #36,Tier-1,Electronics,Active,Taiwan,1999,BBB,2022-11-16 16:00:00
+SUP-000037,Quantum Foundry Inc #37,Tier-3,Packaging,Active,India,1997,AAA,2022-08-23 09:00:00
+SUP-000038,Quantum Systems GmbH #38,Tier-1,Logistics,Active,Taiwan,2020,A,2020-08-16 08:00:00
+SUP-000039,Apex Packaging Corp #39,Tier-2,Precision Machining,Active,Japan,1976,AAA,2022-04-21 14:00:00
+SUP-000040,Nexus Dynamics Ltd #40,Tier-2,Logistics,Active,India,1977,AAA,2022-05-14 16:00:00
+SUP-000041,Vanguard Machining Inc #41,Tier-1,Assemblies,Active,Japan,2000,A,2022-07-12 16:00:00
+SUP-000042,Aero Components Technologies #42,Tier-2,Logistics,Active,United States,2013,A,2022-06-14 12:00:00
+SUP-000043,Summit Industries Corp #43,Tier-2,Logistics,Active,India,1990,A,2022-02-25 17:00:00
+SUP-000044,Optima Systems GmbH #44,Tier-2,Packaging,Under Review,Japan,2021,AA,2021-09-07 08:00:00
+SUP-000045,Global Circuits GmbH #45,Tier-3,Packaging,Active,Mexico,1996,BBB,2022-09-22 09:00:00
+SUP-000046,Omni Industries Inc #46,Tier-1,Electronics,Active,Taiwan,1982,A,2022-12-20 12:00:00
+SUP-000047,Pioneer Silicon Corp #47,Tier-2,Packaging,Active,Taiwan,2001,AA,2022-02-18 12:00:00
+SUP-000048,Global Advanced GmbH #48,Tier-2,Logistics,Active,India,2009,AA,2022-07-22 14:00:00
+SUP-000049,Hyperion Advanced Holdings #49,Tier-1,Assemblies,Active,Taiwan,1988,A,2022-01-17 10:00:00
+SUP-000050,Pioneer Semiconductor Inc #50,Tier-2,Precision Machining,Active,Canada,2008,A,2022-04-13 09:00:00
+SUP-000051,Omni Packaging Holdings #51,Tier-1,Electronics,Active,Vietnam,2006,A,2022-08-08 12:00:00
+SUP-000052,Pacific Microtech GmbH #52,Tier-1,Electronics,Active,Vietnam,1981,A,2022-07-26 10:00:00
+SUP-000053,Apex Advanced GmbH #53,Tier-2,Precision Machining,Active,United States,2009,BBB,2022-11-24 10:00:00
+SUP-000054,Apex Semiconductor Inc #54,Tier-3,Raw Materials,Active,Taiwan,2002,A,2022-02-16 10:00:00
+SUP-000055,Micro Logistics Holdings #55,Tier-3,Raw Materials,Active,India,2014,AA,2022-05-11 11:00:00
+SUP-000056,Sterling Optics Corp #56,Tier-3,Electronics,Active,Mexico,2007,A,2022-08-14 15:00:00
+SUP-000057,Aero Advanced Inc #57,Tier-1,Precision Machining,Active,Vietnam,1993,BBB,2022-11-03 14:00:00
+SUP-000058,Pacific Packaging S.A. #58,Tier-2,Electronics,Active,Mexico,1998,AAA,2022-03-07 13:00:00
+SUP-000059,Summit Foundry LLC #59,Tier-2,Electronics,Active,India,2006,A,2022-01-16 11:00:00
+SUP-000060,Delta Foundry LLC #60,Tier-1,Logistics,Active,Germany,2019,AA,2022-09-04 08:00:00
+SUP-000061,Optima Fabrication GmbH #61,Tier-3,Precision Machining,Active,Japan,1988,BBB,2022-03-11 15:00:00
+SUP-000062,Vanguard Fabrication Corp #62,Tier-3,Packaging,Active,Canada,1995,BBB,2022-07-20 11:00:00
+SUP-000063,Quantum Packaging GmbH #63,Tier-2,Assemblies,Active,Germany,1991,A,2022-05-19 13:00:00
+SUP-000064,Global Materials LLC #64,Tier-3,Packaging,Active,Germany,2013,BBB,2022-12-25 15:00:00
+SUP-000065,Atlantic Advanced Corp #65,Tier-1,Packaging,Active,India,1982,BBB,2022-12-06 09:00:00
+SUP-000066,Sterling Robotics GmbH #66,Tier-3,Electronics,Active,Germany,1977,AA,2022-09-17 16:00:00
+SUP-000067,Atlantic Systems Holdings #67,Tier-2,Packaging,Active,India,1997,A,2022-07-25 11:00:00
+SUP-000068,Synergy Fabrication GmbH #68,Tier-2,Assemblies,Active,Germany,2007,BBB,2022-02-28 16:00:00
+SUP-000069,Atlantic Circuits Technologies #69,Tier-1,Electronics,Active,Vietnam,2019,A,2022-07-10 16:00:00
+SUP-000070,Nova Silicon Inc #70,Tier-2,Logistics,Active,Netherlands,2018,BB,2022-04-26 15:00:00
+SUP-000071,Summit Semiconductor S.A. #71,Tier-1,Packaging,Active,Germany,1981,B,2022-06-01 14:00:00
+SUP-000072,Aero Dynamics Technologies #72,Tier-3,Electronics,Active,Netherlands,2005,AAA,2022-05-16 17:00:00
+SUP-000073,Zenith Silicon LLC #73,Tier-2,Packaging,Active,United States,2005,A,2022-09-10 10:00:00
+SUP-000074,Frontier Semiconductor Ltd #74,Tier-1,Raw Materials,Active,Germany,1985,BBB,2022-09-19 17:00:00
+SUP-000075,Sterling Robotics Holdings #75,Tier-3,Logistics,Active,United States,2015,A,2022-09-19 17:00:00
+SUP-000076,Quantum Advanced GmbH #76,Tier-1,Assemblies,Active,South Korea,2010,BBB,2022-06-07 09:00:00
+SUP-000077,Aero Materials LLC #77,Tier-2,Precision Machining,Active,South Korea,1998,AAA,2022-10-20 13:00:00
+SUP-000078,Atlantic Advanced Corp #78,Tier-3,Logistics,Active,India,2012,AAA,2022-11-05 14:00:00
+SUP-000079,Delta Robotics GmbH #79,Tier-2,Electronics,Active,Japan,2015,AA,2022-03-07 10:00:00
+SUP-000080,Sterling Silicon Holdings #80,Tier-2,Logistics,Active,Vietnam,1995,BBB,2022-03-25 15:00:00
+SUP-000081,Quantum Materials Inc #81,Tier-3,Packaging,Active,Japan,1977,A,2022-01-26 16:00:00
+SUP-000082,Titan Circuits Ltd #82,Tier-1,Precision Machining,Active,Mexico,1988,A,2022-12-27 16:00:00
+SUP-000083,Atlantic Materials LLC #83,Tier-3,Packaging,Active,Netherlands,1994,CCC,2022-12-02 17:00:00
+SUP-000084,Quantum Packaging Corp #84,Tier-1,Packaging,Active,Vietnam,1998,A,2022-06-17 09:00:00
+SUP-000085,Micro Silicon Holdings #85,Tier-2,Assemblies,Active,Mexico,2001,AA,2022-04-03 11:00:00
+SUP-000086,Nova Industries Inc #86,Tier-2,Assemblies,Active,Taiwan,1985,AA,2022-09-03 10:00:00
+SUP-000087,Apex Robotics GmbH #87,Tier-3,Raw Materials,Active,Netherlands,1988,AAA,2022-10-06 11:00:00
+SUP-000088,Omni Circuits S.A. #88,Tier-3,Raw Materials,Under Review,Germany,2017,BBB,2022-04-10 09:00:00
+SUP-000089,Vertex Electro Corp #89,Tier-2,Precision Machining,Active,India,1998,A,2022-07-28 14:00:00
+SUP-000090,Delta Silicon Corp #90,Tier-2,Electronics,Active,Taiwan,1987,A,2022-02-01 10:00:00
+SUP-000091,Sterling Semiconductor Holdings #91,Tier-3,Packaging,Active,South Korea,2021,AAA,2021-01-06 12:00:00
+SUP-000092,Nova Microtech Ltd #92,Tier-2,Precision Machining,Active,South Korea,2005,A,2022-09-02 17:00:00
+SUP-000093,Omni Industries Holdings #93,Tier-3,Assemblies,Active,Taiwan,2017,AA,2022-10-14 09:00:00
+SUP-000094,Pioneer Semiconductor S.A. #94,Tier-2,Precision Machining,Active,Japan,2001,AA,2022-02-11 15:00:00
+SUP-000095,Atlantic Dynamics Ltd #95,Tier-1,Assemblies,Active,Vietnam,1992,AA,2022-12-28 09:00:00
+SUP-000096,Frontier Packaging Corp #96,Tier-2,Precision Machining,Active,Japan,2011,A,2022-09-23 11:00:00
+SUP-000097,Synergy Optics Corp #97,Tier-2,Precision Machining,Active,Canada,1995,A,2022-08-07 14:00:00
+SUP-000098,Titan Systems Inc #98,Tier-2,Electronics,Active,Netherlands,1982,AAA,2022-10-28 08:00:00
+SUP-000099,Vanguard Components Technologies #99,Tier-2,Assemblies,Active,Canada,2004,AA,2022-06-28 17:00:00
+SUP-000100,Omni Silicon Technologies #100,Tier-1,Electronics,Active,Canada,1981,AAA,2022-03-01 15:00:00
+SUP-000101,Atlantic Circuits GmbH #101,Tier-3,Precision Machining,Active,Germany,1997,A,2022-02-12 11:00:00
+SUP-000102,Global Materials Technologies #102,Tier-3,Precision Machining,Active,United States,2021,BB,2021-05-04 15:00:00
+SUP-000103,Sterling Circuits Holdings #103,Tier-1,Logistics,Active,United States,2000,AA,2022-03-03 12:00:00
+SUP-000104,Atlantic Industries S.A. #104,Tier-3,Raw Materials,Active,Germany,2014,A,2022-11-24 10:00:00
+SUP-000105,Titan Advanced LLC #105,Tier-2,Precision Machining,Active,Netherlands,2012,BB,2022-10-21 10:00:00
+SUP-000106,Sterling Systems Inc #106,Tier-1,Raw Materials,Active,South Korea,1996,BB,2022-08-20 17:00:00
+SUP-000107,Atlantic Circuits GmbH #107,Tier-2,Logistics,Active,Mexico,2008,A,2022-09-17 13:00:00
+SUP-000108,Optima Materials Technologies #108,Tier-2,Logistics,Under Review,Canada,1982,AA,2022-02-26 15:00:00
+SUP-000109,Global Silicon GmbH #109,Tier-3,Precision Machining,Active,Mexico,1999,A,2022-09-13 15:00:00
+SUP-000110,Aero Microtech Holdings #110,Tier-3,Assemblies,Active,United States,2005,BB,2022-08-21 10:00:00
+SUP-000111,Synergy Fabrication Technologies #111,Tier-3,Assemblies,Active,United States,1993,AAA,2022-06-19 15:00:00
+SUP-000112,Quantum Foundry S.A. #112,Tier-2,Logistics,Active,Canada,2006,BB,2022-10-23 13:00:00
+SUP-000113,Hyperion Materials Ltd #113,Tier-2,Precision Machining,Active,Mexico,1991,AA,2022-10-14 17:00:00
+SUP-000114,Summit Machining Ltd #114,Tier-2,Precision Machining,Active,United States,2015,AA,2022-02-12 16:00:00
+SUP-000115,Global Advanced GmbH #115,Tier-2,Precision Machining,Active,South Korea,2008,BBB,2022-08-04 08:00:00
+SUP-000116,Global Machining GmbH #116,Tier-1,Packaging,Active,India,2016,AAA,2022-03-25 09:00:00
+SUP-000117,Summit Packaging Ltd #117,Tier-2,Packaging,Active,Canada,1995,BBB,2022-10-22 13:00:00
+SUP-000118,Optima Robotics LLC #118,Tier-1,Assemblies,Active,Taiwan,1981,AA,2022-07-01 11:00:00
+SUP-000119,Vanguard Optics Corp #119,Tier-3,Assemblies,Active,Canada,1978,AAA,2022-12-02 13:00:00
+SUP-000120,Frontier Advanced Ltd #120,Tier-2,Assemblies,Active,Mexico,2017,AAA,2022-02-19 12:00:00
+SUP-000121,Precision Silicon Technologies #121,Tier-3,Raw Materials,Active,United States,1999,A,2022-08-15 11:00:00
+SUP-000122,Pioneer Components S.A. #122,Tier-1,Logistics,Active,Japan,1997,BB,2022-07-27 08:00:00
+SUP-000123,Nexus Packaging Technologies #123,Tier-1,Precision Machining,Active,India,1988,BBB,2022-01-20 08:00:00
+SUP-000124,Synergy Systems GmbH #124,Tier-1,Packaging,Active,India,1991,A,2022-06-06 08:00:00
+SUP-000125,Atlantic Semiconductor Holdings #125,Tier-3,Precision Machining,Active,Mexico,1979,B,2022-03-27 15:00:00
+SUP-000126,Global Robotics S.A. #126,Tier-2,Precision Machining,Active,Germany,1981,AAA,2022-04-10 13:00:00
+SUP-000127,Omni Optics LLC #127,Tier-2,Logistics,Active,Vietnam,1997,BBB,2022-03-24 09:00:00
+SUP-000128,Nexus Circuits S.A. #128,Tier-1,Precision Machining,Active,Japan,2008,BBB,2022-08-19 08:00:00
+SUP-000129,Quantum Electro S.A. #129,Tier-2,Logistics,Active,Canada,1987,A,2022-08-06 12:00:00
+SUP-000130,Synergy Silicon Ltd #130,Tier-3,Assemblies,Active,Mexico,1975,A,2022-09-10 13:00:00
+SUP-000131,Summit Semiconductor Holdings #131,Tier-2,Logistics,Active,United States,1995,BBB,2022-05-18 08:00:00
+SUP-000132,Global Optics LLC #132,Tier-1,Electronics,Active,Vietnam,2000,A,2022-11-20 11:00:00
+SUP-000133,Micro Silicon Holdings #133,Tier-3,Precision Machining,Active,Taiwan,1975,AA,2022-05-07 09:00:00
+SUP-000134,Omni Robotics Inc #134,Tier-1,Assemblies,Active,Netherlands,1976,AAA,2022-03-15 15:00:00
+SUP-000135,Atlantic Materials Ltd #135,Tier-1,Logistics,Active,Japan,2014,A,2022-07-16 11:00:00
+SUP-000136,Optima Materials GmbH #136,Tier-2,Precision Machining,Active,Germany,2001,A,2022-01-09 15:00:00
+SUP-000137,Frontier Semiconductor S.A. #137,Tier-2,Assemblies,Active,India,1990,A,2022-07-09 12:00:00
+SUP-000138,Zenith Advanced Holdings #138,Tier-1,Raw Materials,Active,India,1994,A,2022-12-18 10:00:00
+SUP-000139,Delta Dynamics Technologies #139,Tier-2,Packaging,Active,Netherlands,1988,BBB,2022-06-13 08:00:00
+SUP-000140,Delta Packaging S.A. #140,Tier-1,Logistics,Active,Canada,1984,AAA,2022-12-02 11:00:00
+SUP-000141,Pioneer Microtech S.A. #141,Tier-2,Precision Machining,Active,Netherlands,2014,BBB,2022-03-22 08:00:00
+SUP-000142,Nexus Foundry Holdings #142,Tier-1,Precision Machining,Active,Taiwan,2018,CCC,2022-06-10 14:00:00
+SUP-000143,Summit Advanced S.A. #143,Tier-2,Assemblies,Active,Germany,2014,A,2022-07-22 16:00:00
+SUP-000144,Precision Circuits GmbH #144,Tier-2,Assemblies,Active,Mexico,2007,BBB,2022-12-02 11:00:00
+SUP-000145,Zenith Silicon GmbH #145,Tier-1,Logistics,Active,Vietnam,2005,AA,2022-07-27 17:00:00
+SUP-000146,Delta Components LLC #146,Tier-2,Assemblies,Active,Netherlands,1989,AA,2022-09-08 08:00:00
+SUP-000147,Pacific Microtech Ltd #147,Tier-2,Raw Materials,Active,Canada,1987,BBB,2022-08-20 10:00:00
+SUP-000148,Synergy Circuits GmbH #148,Tier-3,Precision Machining,Active,Taiwan,2013,AA,2022-09-15 15:00:00
+SUP-000149,Omni Semiconductor Holdings #149,Tier-3,Electronics,Active,India,1998,BBB,2022-03-15 12:00:00
+SUP-000150,Global Silicon Ltd #150,Tier-2,Precision Machining,Active,Mexico,1980,BBB,2022-12-21 09:00:00
+SUP-000151,Delta Electro Inc #151,Tier-3,Precision Machining,Active,India,1982,AAA,2022-05-26 16:00:00
+SUP-000152,Nexus Electro Inc #152,Tier-3,Precision Machining,Active,Mexico,2013,AA,2022-03-19 16:00:00
+SUP-000153,Summit Silicon Corp #153,Tier-3,Raw Materials,Active,Taiwan,2003,AA,2022-03-08 10:00:00
+SUP-000154,Vertex Microtech Corp #154,Tier-3,Electronics,Active,India,1983,AA,2022-09-11 09:00:00
+SUP-000155,Aero Electro Corp #155,Tier-2,Precision Machining,Active,United States,1996,A,2022-02-22 09:00:00
+SUP-000156,Omni Silicon Ltd #156,Tier-2,Packaging,Active,Vietnam,2015,AAA,2022-01-25 16:00:00
+SUP-000157,Frontier Fabrication Corp #157,Tier-2,Assemblies,Active,Japan,1992,BBB,2022-05-19 15:00:00
+SUP-000158,Hyperion Industries Inc #158,Tier-2,Logistics,Active,United States,1990,AA,2022-10-16 16:00:00
+SUP-000159,Sterling Semiconductor GmbH #159,Tier-1,Logistics,Active,Taiwan,1978,BBB,2022-10-14 13:00:00
+SUP-000160,Micro Semiconductor Corp #160,Tier-3,Electronics,Active,United States,1984,AA,2022-10-04 14:00:00
+SUP-000161,Synergy Dynamics Ltd #161,Tier-2,Logistics,Active,Japan,2001,AA,2022-02-20 14:00:00
+SUP-000162,Pacific Components LLC #162,Tier-2,Raw Materials,Active,Germany,2020,AA,2020-03-09 10:00:00
+SUP-000163,Pioneer Materials Ltd #163,Tier-2,Raw Materials,Active,Japan,1995,A,2022-10-10 13:00:00
+SUP-000164,Synergy Components Inc #164,Tier-2,Logistics,Under Review,Netherlands,1995,A,2022-02-14 16:00:00
+SUP-000165,Aero Electro Inc #165,Tier-2,Assemblies,Active,India,2012,A,2022-01-04 17:00:00
+SUP-000166,Titan Microtech Technologies #166,Tier-2,Logistics,Active,Mexico,1985,AAA,2022-01-11 10:00:00
+SUP-000167,Pacific Packaging Inc #167,Tier-2,Logistics,Active,United States,2002,BBB,2022-09-10 14:00:00
+SUP-000168,Aero Semiconductor Inc #168,Tier-2,Precision Machining,Active,Vietnam,1991,AA,2022-10-11 10:00:00
+SUP-000169,Aero Optics Technologies #169,Tier-2,Electronics,Active,Taiwan,1978,AA,2022-09-15 09:00:00
+SUP-000170,Pacific Advanced Ltd #170,Tier-2,Raw Materials,Active,United States,1989,A,2022-09-23 12:00:00
+SUP-000171,Summit Microtech Holdings #171,Tier-3,Assemblies,Active,Canada,2009,AA,2022-05-19 08:00:00
+SUP-000172,Hyperion Electro Inc #172,Tier-2,Raw Materials,Active,South Korea,1991,BBB,2022-01-02 13:00:00
+SUP-000173,Sterling Silicon LLC #173,Tier-3,Electronics,Active,Taiwan,2019,A,2022-09-03 15:00:00
+SUP-000174,Micro Logistics Corp #174,Tier-3,Packaging,Active,Mexico,1998,BBB,2022-08-26 13:00:00
+SUP-000175,Quantum Semiconductor LLC #175,Tier-2,Logistics,Active,Germany,2014,BBB,2022-03-25 08:00:00
+SUP-000176,Global Electro Technologies #176,Tier-3,Logistics,Active,United States,2010,AA,2022-05-27 15:00:00
+SUP-000177,Global Components Inc #177,Tier-3,Raw Materials,Active,Vietnam,2010,A,2022-10-07 14:00:00
+SUP-000178,Delta Silicon Corp #178,Tier-3,Packaging,Active,Germany,2020,A,2020-02-01 17:00:00
+SUP-000179,Hyperion Fabrication GmbH #179,Tier-2,Logistics,Active,Canada,2017,A,2022-06-18 16:00:00
+SUP-000180,Micro Silicon Inc #180,Tier-2,Packaging,Active,United States,2017,AA,2022-05-11 17:00:00
+SUP-000181,Precision Fabrication Corp #181,Tier-2,Logistics,Active,South Korea,1981,AAA,2022-05-22 12:00:00
+SUP-000182,Summit Advanced Holdings #182,Tier-1,Electronics,Active,Netherlands,2000,BB,2022-09-21 15:00:00
+SUP-000183,Vanguard Components Technologies #183,Tier-3,Electronics,Active,Taiwan,2004,BBB,2022-12-16 14:00:00
+SUP-000184,Vanguard Materials Corp #184,Tier-2,Precision Machining,Active,India,1996,BBB,2022-05-18 08:00:00
+SUP-000185,Optima Machining GmbH #185,Tier-3,Raw Materials,Active,Mexico,1978,AAA,2022-11-10 10:00:00
+SUP-000186,Nexus Circuits Inc #186,Tier-1,Packaging,Active,South Korea,2014,AA,2022-11-16 14:00:00
+SUP-000187,Precision Silicon Holdings #187,Tier-2,Logistics,Active,India,1979,CCC,2022-03-06 16:00:00
+SUP-000188,Frontier Advanced S.A. #188,Tier-2,Logistics,Active,Germany,1995,A,2022-12-03 14:00:00
+SUP-000189,Summit Foundry Holdings #189,Tier-2,Packaging,Active,South Korea,1991,AA,2022-05-16 08:00:00
+SUP-000190,Precision Advanced Inc #190,Tier-1,Precision Machining,Active,South Korea,2019,AA,2022-06-15 13:00:00
+SUP-000191,Apex Dynamics S.A. #191,Tier-2,Assemblies,Active,Germany,1994,A,2022-03-27 14:00:00
+SUP-000192,Nexus Microtech S.A. #192,Tier-2,Packaging,Active,Vietnam,2005,BBB,2022-06-18 12:00:00
+SUP-000193,Nexus Machining Ltd #193,Tier-3,Precision Machining,Active,Vietnam,2007,A,2022-07-27 14:00:00
+SUP-000194,Nexus Logistics Inc #194,Tier-1,Raw Materials,Active,India,2009,A,2022-03-10 15:00:00
+SUP-000195,Zenith Dynamics GmbH #195,Tier-3,Precision Machining,Active,United States,1981,A,2022-06-11 08:00:00
+SUP-000196,Sterling Circuits Ltd #196,Tier-2,Raw Materials,Active,Taiwan,1979,BBB,2022-05-07 14:00:00
+SUP-000197,Pioneer Packaging Corp #197,Tier-2,Packaging,Active,South Korea,1994,AA,2022-09-02 11:00:00
+SUP-000198,Precision Packaging GmbH #198,Tier-2,Electronics,Active,Vietnam,1977,AAA,2022-11-19 09:00:00
+SUP-000199,Delta Advanced S.A. #199,Tier-1,Assemblies,Active,Vietnam,2001,BB,2022-01-14 09:00:00
+SUP-000200,Quantum Fabrication Holdings #200,Tier-3,Assemblies,Active,India,1990,BB,2022-06-13 10:00:00
+SUP-000201,Sterling Circuits Holdings #201,Tier-2,Raw Materials,Active,United States,1986,AA,2022-08-17 16:00:00
+SUP-000202,Vanguard Microtech Holdings #202,Tier-3,Packaging,Active,Japan,1993,AA,2022-08-09 14:00:00
+SUP-000203,Precision Packaging S.A. #203,Tier-3,Raw Materials,Active,Vietnam,2004,AA,2022-03-03 15:00:00
+SUP-000204,Optima Dynamics Ltd #204,Tier-2,Precision Machining,Active,Taiwan,2006,A,2022-10-15 08:00:00
+SUP-000205,Pioneer Packaging GmbH #205,Tier-2,Electronics,Active,Germany,1990,AAA,2022-02-15 15:00:00
+SUP-000206,Delta Semiconductor Technologies #206,Tier-3,Packaging,Active,India,2013,AAA,2022-10-23 14:00:00
+SUP-000207,Zenith Industries Corp #207,Tier-3,Electronics,Active,South Korea,1975,AA,2022-12-28 16:00:00
+SUP-000208,Synergy Advanced Holdings #208,Tier-1,Logistics,Active,India,2009,A,2022-02-17 16:00:00
+SUP-000209,Frontier Foundry LLC #209,Tier-3,Raw Materials,Active,Taiwan,2018,BBB,2022-07-10 13:00:00
+SUP-000210,Nova Circuits Technologies #210,Tier-1,Raw Materials,Active,Canada,1986,AA,2022-10-27 17:00:00
+SUP-000211,Nexus Optics LLC #211,Tier-1,Electronics,Active,Japan,2010,A,2022-01-28 11:00:00
+SUP-000212,Delta Silicon Corp #212,Tier-1,Assemblies,Active,Vietnam,2013,AAA,2022-09-04 10:00:00
+SUP-000213,Omni Machining Ltd #213,Tier-2,Logistics,Active,Vietnam,1982,AA,2022-07-05 08:00:00
+SUP-000214,Summit Materials Ltd #214,Tier-3,Assemblies,Active,Netherlands,1991,AA,2022-09-22 08:00:00
+SUP-000215,Global Foundry GmbH #215,Tier-2,Packaging,Active,Mexico,1982,BB,2022-03-19 17:00:00
+SUP-000216,Atlantic Systems Inc #216,Tier-2,Raw Materials,Active,Mexico,2003,A,2022-01-05 17:00:00
+SUP-000217,Frontier Components Inc #217,Tier-3,Packaging,Active,Japan,1997,AAA,2022-01-16 17:00:00
+SUP-000218,Synergy Microtech Inc #218,Tier-2,Raw Materials,Active,Canada,1975,AA,2022-06-21 14:00:00
+SUP-000219,Synergy Logistics Technologies #219,Tier-3,Raw Materials,Active,Taiwan,2016,AA,2022-12-22 12:00:00
+SUP-000220,Synergy Robotics Holdings #220,Tier-3,Raw Materials,Active,Mexico,2011,BBB,2022-11-01 08:00:00
+SUP-000221,Summit Circuits Ltd #221,Tier-1,Assemblies,Active,United States,2011,A,2022-11-05 17:00:00
+SUP-000222,Sterling Robotics Holdings #222,Tier-1,Packaging,Active,Japan,2019,AA,2022-11-20 13:00:00
+SUP-000223,Aero Advanced Holdings #223,Tier-2,Raw Materials,Active,Mexico,2002,AAA,2022-05-25 16:00:00
+SUP-000224,Micro Components Inc #224,Tier-1,Assemblies,Active,South Korea,2004,AA,2022-07-15 15:00:00
+SUP-000225,Quantum Logistics Holdings #225,Tier-2,Raw Materials,Active,Canada,1987,AAA,2022-01-01 12:00:00
+SUP-000226,Vertex Packaging Holdings #226,Tier-1,Logistics,Active,Mexico,2014,A,2022-10-20 12:00:00
+SUP-000227,Omni Advanced GmbH #227,Tier-1,Electronics,Active,Canada,1999,A,2022-01-03 13:00:00
+SUP-000228,Sterling Components LLC #228,Tier-3,Logistics,Active,Netherlands,1989,A,2022-06-20 11:00:00
+SUP-000229,Omni Components S.A. #229,Tier-2,Precision Machining,Active,India,2018,A,2022-09-22 14:00:00
+SUP-000230,Optima Electro S.A. #230,Tier-2,Electronics,Under Review,South Korea,1983,BBB,2022-07-20 15:00:00
+SUP-000231,Hyperion Foundry LLC #231,Tier-2,Assemblies,Active,Netherlands,2010,AA,2022-01-23 16:00:00
+SUP-000232,Synergy Robotics Corp #232,Tier-2,Logistics,Active,South Korea,2000,B,2022-11-11 12:00:00
+SUP-000233,Optima Advanced Holdings #233,Tier-1,Logistics,Active,Japan,2021,A,2021-05-26 15:00:00
+SUP-000234,Nexus Foundry Technologies #234,Tier-1,Raw Materials,Active,Japan,2005,AA,2022-10-22 13:00:00
+SUP-000235,Omni Microtech GmbH #235,Tier-3,Logistics,Under Review,Japan,1987,AAA,2022-12-01 08:00:00
+SUP-000236,Frontier Logistics Holdings #236,Tier-1,Electronics,Active,United States,1991,BBB,2022-08-13 08:00:00
+SUP-000237,Hyperion Optics S.A. #237,Tier-2,Precision Machining,Under Review,Canada,2001,AAA,2022-09-02 14:00:00
+SUP-000238,Global Microtech Corp #238,Tier-3,Logistics,Active,Canada,1988,A,2022-08-10 17:00:00
+SUP-000239,Precision Systems LLC #239,Tier-2,Packaging,Active,Canada,1999,AAA,2022-04-13 09:00:00
+SUP-000240,Nexus Materials Corp #240,Tier-2,Logistics,Active,Canada,2015,B,2022-03-06 11:00:00
+SUP-000241,Omni Machining Holdings #241,Tier-2,Raw Materials,Active,Vietnam,2003,BBB,2022-12-08 10:00:00
+SUP-000242,Synergy Machining Ltd #242,Tier-2,Raw Materials,Active,South Korea,1975,BBB,2022-05-06 10:00:00
+SUP-000243,Atlantic Fabrication Inc #243,Tier-2,Electronics,Active,United States,1994,AAA,2022-11-13 12:00:00
+SUP-000244,Quantum Machining LLC #244,Tier-1,Assemblies,Active,Taiwan,1983,AA,2022-06-22 13:00:00
+SUP-000245,Synergy Industries Technologies #245,Tier-1,Precision Machining,Active,Vietnam,1995,CCC,2022-07-08 08:00:00
+SUP-000246,Titan Circuits Ltd #246,Tier-2,Assemblies,Active,Japan,1994,BB,2022-04-15 14:00:00
+SUP-000247,Quantum Fabrication Ltd #247,Tier-3,Logistics,Active,Germany,2012,BBB,2022-04-09 14:00:00
+SUP-000248,Vanguard Circuits Technologies #248,Tier-2,Assemblies,Active,Mexico,1989,AAA,2022-09-25 08:00:00
+SUP-000249,Summit Electro Holdings #249,Tier-1,Electronics,Active,United States,2001,A,2022-06-02 15:00:00
+SUP-000250,Aero Systems S.A. #250,Tier-2,Precision Machining,Active,United States,1975,AA,2022-11-17 13:00:00
+SUP-000251,Sterling Components Technologies #251,Tier-3,Precision Machining,Active,Netherlands,2009,AA,2022-12-02 17:00:00
+SUP-000252,Zenith Optics S.A. #252,Tier-1,Precision Machining,Active,Vietnam,2005,BBB,2022-05-16 14:00:00
+SUP-000253,Aero Robotics Corp #253,Tier-2,Raw Materials,Active,South Korea,1979,A,2022-05-13 14:00:00
+SUP-000254,Optima Advanced Ltd #254,Tier-3,Raw Materials,Active,Vietnam,2010,BB,2022-01-13 17:00:00
+SUP-000255,Apex Robotics Technologies #255,Tier-2,Raw Materials,Active,South Korea,2015,A,2022-11-12 09:00:00
+SUP-000256,Synergy Robotics GmbH #256,Tier-3,Logistics,Active,United States,2004,B,2022-06-20 16:00:00
+SUP-000257,Optima Circuits Inc #257,Tier-2,Assemblies,Active,South Korea,1978,AA,2022-11-05 15:00:00
+SUP-000258,Vertex Packaging LLC #258,Tier-2,Logistics,Active,South Korea,2019,AAA,2022-11-05 10:00:00
+SUP-000259,Hyperion Semiconductor Inc #259,Tier-2,Packaging,Under Review,United States,1986,BB,2022-05-10 10:00:00
+SUP-000260,Vanguard Components Ltd #260,Tier-2,Assemblies,Active,United States,1996,A,2022-03-08 17:00:00
+SUP-000261,Optima Optics Technologies #261,Tier-3,Raw Materials,Active,Japan,1987,A,2022-04-02 15:00:00
+SUP-000262,Apex Foundry Corp #262,Tier-2,Raw Materials,Active,Vietnam,2018,BBB,2022-08-07 10:00:00
+SUP-000263,Quantum Robotics Inc #263,Tier-1,Assemblies,Active,Canada,1993,AA,2022-08-07 15:00:00
+SUP-000264,Nexus Advanced Corp #264,Tier-2,Precision Machining,Active,South Korea,2011,AAA,2022-08-03 08:00:00
+SUP-000265,Nexus Packaging Ltd #265,Tier-2,Precision Machining,Active,Taiwan,2015,AA,2022-05-02 13:00:00
+SUP-000266,Sterling Packaging GmbH #266,Tier-1,Logistics,Active,South Korea,2014,AA,2022-11-17 11:00:00
+SUP-000267,Global Logistics LLC #267,Tier-2,Electronics,Active,Germany,2001,A,2022-11-13 14:00:00
+SUP-000268,Precision Silicon Holdings #268,Tier-2,Precision Machining,Active,Canada,2002,AAA,2022-12-16 17:00:00
+SUP-000269,Apex Logistics Technologies #269,Tier-2,Packaging,Active,South Korea,1988,A,2022-01-26 15:00:00
+SUP-000270,Pacific Robotics GmbH #270,Tier-3,Precision Machining,Active,Mexico,1997,BB,2022-01-09 08:00:00
+SUP-000271,Sterling Machining LLC #271,Tier-1,Logistics,Active,Mexico,1991,A,2022-11-15 08:00:00
+SUP-000272,Apex Packaging GmbH #272,Tier-3,Packaging,Active,Japan,2000,AA,2022-12-28 16:00:00
+SUP-000273,Frontier Components Holdings #273,Tier-2,Precision Machining,Active,United States,2011,A,2022-03-03 14:00:00
+SUP-000274,Frontier Components S.A. #274,Tier-3,Precision Machining,Active,Germany,2003,BB,2022-09-05 12:00:00
+SUP-000275,Precision Industries Technologies #275,Tier-3,Packaging,Active,Japan,1994,BB,2022-10-09 16:00:00
+SUP-000276,Aero Microtech S.A. #276,Tier-3,Packaging,Active,India,1992,AAA,2022-01-01 10:00:00
+SUP-000277,Nexus Robotics GmbH #277,Tier-3,Logistics,Active,Canada,1987,A,2022-10-21 16:00:00
+SUP-000278,Zenith Robotics Ltd #278,Tier-2,Assemblies,Active,Japan,1992,AA,2022-06-27 11:00:00
+SUP-000279,Vanguard Materials Corp #279,Tier-1,Precision Machining,Active,Taiwan,1996,A,2022-06-23 15:00:00
+SUP-000280,Hyperion Silicon Holdings #280,Tier-2,Packaging,Active,Germany,2010,AA,2022-02-11 14:00:00
+SUP-000281,Quantum Components Ltd #281,Tier-3,Logistics,Active,Mexico,2005,A,2022-12-18 15:00:00
+SUP-000282,Frontier Microtech GmbH #282,Tier-2,Precision Machining,Active,Japan,2014,AA,2022-09-23 13:00:00
+SUP-000283,Nova Optics Inc #283,Tier-3,Precision Machining,Active,Germany,1993,A,2022-06-06 14:00:00
+SUP-000284,Omni Semiconductor S.A. #284,Tier-1,Electronics,Under Review,Japan,2018,AA,2022-11-26 10:00:00
+SUP-000285,Precision Silicon Inc #285,Tier-1,Precision Machining,Active,South Korea,1980,A,2022-02-10 11:00:00
+SUP-000286,Synergy Circuits S.A. #286,Tier-2,Raw Materials,Active,Vietnam,1992,B,2022-07-06 13:00:00
+SUP-000287,Pioneer Semiconductor Ltd #287,Tier-2,Packaging,Active,Mexico,1984,A,2022-06-15 15:00:00
+SUP-000288,Nexus Semiconductor Technologies #288,Tier-2,Assemblies,Active,Netherlands,2003,A,2022-05-15 14:00:00
+SUP-000289,Vanguard Foundry S.A. #289,Tier-2,Logistics,Active,Japan,2002,AA,2022-05-27 15:00:00
+SUP-000290,Sterling Systems Holdings #290,Tier-2,Packaging,Active,United States,2010,AAA,2022-07-06 17:00:00
+SUP-000291,Quantum Circuits Technologies #291,Tier-1,Raw Materials,Active,Taiwan,2000,A,2022-06-20 09:00:00
+SUP-000292,Sterling Components Corp #292,Tier-2,Assemblies,Active,Netherlands,1995,A,2022-11-11 11:00:00
+SUP-000293,Titan Microtech LLC #293,Tier-1,Logistics,Active,Germany,1999,AA,2022-12-18 17:00:00
+SUP-000294,Quantum Industries Corp #294,Tier-2,Assemblies,Active,Taiwan,2017,CCC,2022-08-04 09:00:00
+SUP-000295,Synergy Packaging Technologies #295,Tier-2,Assemblies,Active,South Korea,1999,AAA,2022-09-03 10:00:00
+SUP-000296,Omni Materials Inc #296,Tier-2,Electronics,Active,United States,2020,AAA,2020-07-25 09:00:00
+SUP-000297,Pacific Dynamics GmbH #297,Tier-2,Assemblies,Active,Canada,2019,AAA,2022-05-09 13:00:00
+SUP-000298,Summit Industries Technologies #298,Tier-2,Logistics,Active,Taiwan,1981,A,2022-04-14 12:00:00
+SUP-000299,Delta Silicon S.A. #299,Tier-1,Raw Materials,Active,Taiwan,1983,AA,2022-05-20 10:00:00
+SUP-000300,Nova Dynamics Ltd #300,Tier-3,Assemblies,Active,Netherlands,2005,AA,2022-05-14 13:00:00
+SUP-000301,Apex Logistics GmbH #301,Tier-1,Assemblies,Active,South Korea,1985,A,2022-05-07 15:00:00
+SUP-000302,Optima Materials LLC #302,Tier-1,Raw Materials,Active,United States,1988,AA,2022-03-27 11:00:00
+SUP-000303,Atlantic Robotics LLC #303,Tier-2,Electronics,Active,Germany,2011,AA,2022-06-09 11:00:00
+SUP-000304,Quantum Systems S.A. #304,Tier-1,Precision Machining,Under Review,Vietnam,2015,BBB,2022-06-27 17:00:00
+SUP-000305,Delta Advanced LLC #305,Tier-3,Assemblies,Active,Germany,1992,AAA,2022-06-27 11:00:00
+SUP-000306,Global Materials Holdings #306,Tier-1,Assemblies,Active,South Korea,2003,BB,2022-07-22 11:00:00
+SUP-000307,Nexus Foundry Ltd #307,Tier-1,Precision Machining,Active,Japan,2013,BB,2022-04-19 09:00:00
+SUP-000308,Precision Optics Technologies #308,Tier-2,Electronics,Active,Netherlands,2019,AA,2022-10-05 16:00:00
+SUP-000309,Zenith Circuits GmbH #309,Tier-2,Raw Materials,Active,Netherlands,2018,AA,2022-12-27 16:00:00
+SUP-000310,Pioneer Semiconductor Ltd #310,Tier-3,Logistics,Active,India,1991,BBB,2022-10-17 14:00:00
+SUP-000311,Apex Silicon GmbH #311,Tier-3,Logistics,Active,India,2015,AA,2022-07-14 09:00:00
+SUP-000312,Omni Microtech Ltd #312,Tier-2,Logistics,Active,Germany,1975,BB,2022-01-01 12:00:00
+SUP-000313,Aero Components S.A. #313,Tier-1,Electronics,Active,United States,2011,AA,2022-11-14 14:00:00
+SUP-000314,Pioneer Packaging Inc #314,Tier-1,Logistics,Active,Vietnam,1979,BB,2022-04-17 12:00:00
+SUP-000315,Frontier Semiconductor LLC #315,Tier-3,Electronics,Active,Germany,2005,A,2022-08-08 11:00:00
+SUP-000316,Delta Advanced S.A. #316,Tier-1,Electronics,Active,Germany,1982,BBB,2022-04-23 09:00:00
+SUP-000317,Zenith Components Inc #317,Tier-2,Assemblies,Active,Vietnam,2021,A,2021-07-28 15:00:00
+SUP-000318,Global Machining Ltd #318,Tier-2,Logistics,Active,Germany,2020,BBB,2020-06-25 12:00:00
+SUP-000319,Micro Packaging Ltd #319,Tier-1,Electronics,Active,South Korea,2002,BBB,2022-05-25 10:00:00
+SUP-000320,Nexus Fabrication GmbH #320,Tier-3,Precision Machining,Active,India,1977,B,2022-04-28 14:00:00
+SUP-000321,Quantum Materials Inc #321,Tier-3,Logistics,Active,Netherlands,1993,BBB,2022-10-11 11:00:00
+SUP-000322,Atlantic Systems Technologies #322,Tier-3,Assemblies,Active,Japan,1976,AAA,2022-01-20 17:00:00
+SUP-000323,Micro Silicon Corp #323,Tier-2,Electronics,Active,Japan,2009,A,2022-01-03 16:00:00
+SUP-000324,Precision Optics S.A. #324,Tier-3,Electronics,Active,Canada,2018,BB,2022-11-24 15:00:00
+SUP-000325,Optima Components Ltd #325,Tier-3,Packaging,Active,Taiwan,2002,AAA,2022-04-14 12:00:00
+SUP-000326,Apex Industries S.A. #326,Tier-3,Precision Machining,Active,Germany,1993,AA,2022-05-19 12:00:00
+SUP-000327,Hyperion Electro Holdings #327,Tier-2,Logistics,Active,United States,2019,BBB,2022-12-13 14:00:00
+SUP-000328,Zenith Advanced LLC #328,Tier-2,Raw Materials,Active,Taiwan,2001,AA,2022-09-05 08:00:00
+SUP-000329,Precision Packaging LLC #329,Tier-1,Packaging,Active,Taiwan,2003,CCC,2022-01-24 11:00:00
+SUP-000330,Pacific Semiconductor GmbH #330,Tier-3,Packaging,Active,Netherlands,1996,AA,2022-08-16 12:00:00
+SUP-000331,Zenith Microtech GmbH #331,Tier-2,Electronics,Active,United States,1991,BB,2022-08-08 12:00:00
+SUP-000332,Atlantic Systems Technologies #332,Tier-2,Precision Machining,Active,South Korea,2009,B,2022-08-16 17:00:00
+SUP-000333,Vertex Electro S.A. #333,Tier-1,Assemblies,Active,Germany,1976,AA,2022-05-08 16:00:00
+SUP-000334,Apex Components Ltd #334,Tier-3,Packaging,Active,India,2010,AA,2022-09-18 12:00:00
+SUP-000335,Quantum Advanced LLC #335,Tier-2,Logistics,Active,Vietnam,1985,A,2022-03-10 16:00:00
+SUP-000336,Quantum Foundry Holdings #336,Tier-2,Electronics,Active,Mexico,2001,A,2022-12-12 15:00:00
+SUP-000337,Global Circuits Technologies #337,Tier-3,Raw Materials,Active,Japan,1988,A,2022-01-12 12:00:00
+SUP-000338,Atlantic Fabrication LLC #338,Tier-3,Electronics,Active,India,2005,AAA,2022-11-16 11:00:00
+SUP-000339,Precision Electro Holdings #339,Tier-2,Packaging,Active,Netherlands,1992,A,2022-03-15 14:00:00
+SUP-000340,Apex Foundry GmbH #340,Tier-2,Raw Materials,Active,Vietnam,2008,AA,2022-07-15 16:00:00
+SUP-000341,Apex Electro Ltd #341,Tier-2,Electronics,Active,Germany,1976,AA,2022-05-10 12:00:00
+SUP-000342,Quantum Robotics Corp #342,Tier-1,Raw Materials,Active,Vietnam,2006,BBB,2022-03-21 09:00:00
+SUP-000343,Frontier Advanced LLC #343,Tier-2,Logistics,Active,India,1994,BBB,2022-07-06 17:00:00
+SUP-000344,Nova Components S.A. #344,Tier-3,Packaging,Active,Taiwan,2006,A,2022-02-15 08:00:00
+SUP-000345,Pioneer Silicon Inc #345,Tier-2,Precision Machining,Active,Taiwan,1993,AA,2022-04-18 08:00:00
+SUP-000346,Vertex Dynamics Inc #346,Tier-1,Packaging,Active,South Korea,2001,BB,2022-10-21 08:00:00
+SUP-000347,Zenith Materials Inc #347,Tier-1,Precision Machining,Active,Mexico,1991,BBB,2022-03-16 13:00:00
+SUP-000348,Zenith Dynamics Corp #348,Tier-1,Precision Machining,Active,Mexico,2007,A,2022-06-22 12:00:00
+SUP-000349,Vertex Fabrication LLC #349,Tier-2,Logistics,Active,South Korea,1979,AAA,2022-02-20 09:00:00
+SUP-000350,Zenith Materials Inc #350,Tier-1,Logistics,Active,Mexico,1982,BB,2022-02-27 14:00:00
+SUP-000351,Pacific Advanced Ltd #351,Tier-2,Raw Materials,Active,Canada,1992,BBB,2022-04-27 10:00:00
+SUP-000352,Delta Logistics S.A. #352,Tier-2,Packaging,Active,Japan,1979,AA,2022-05-05 14:00:00
+SUP-000353,Synergy Machining S.A. #353,Tier-3,Raw Materials,Active,Canada,1981,A,2022-03-10 12:00:00
+SUP-000354,Quantum Logistics S.A. #354,Tier-2,Electronics,Active,Germany,1986,AAA,2022-12-20 10:00:00
+SUP-000355,Titan Optics Inc #355,Tier-1,Assemblies,Active,Japan,1985,A,2022-12-14 11:00:00
+SUP-000356,Atlantic Robotics GmbH #356,Tier-1,Packaging,Active,Vietnam,2015,A,2022-08-20 09:00:00
+SUP-000357,Sterling Materials Technologies #357,Tier-3,Raw Materials,Active,Germany,2017,AA,2022-02-12 14:00:00
+SUP-000358,Pioneer Optics Corp #358,Tier-2,Packaging,Active,South Korea,2003,AA,2022-06-24 15:00:00
+SUP-000359,Pacific Components GmbH #359,Tier-2,Packaging,Active,Netherlands,1991,BB,2022-03-04 16:00:00
+SUP-000360,Summit Optics Technologies #360,Tier-2,Electronics,Active,United States,1992,BB,2022-06-28 09:00:00
+SUP-000361,Atlantic Robotics Ltd #361,Tier-2,Electronics,Active,Germany,2018,A,2022-05-01 16:00:00
+SUP-000362,Nexus Electro S.A. #362,Tier-1,Logistics,Active,Japan,1980,AA,2022-08-28 11:00:00
+SUP-000363,Aero Foundry S.A. #363,Tier-1,Raw Materials,Active,South Korea,2012,BB,2022-07-28 16:00:00
+SUP-000364,Apex Logistics LLC #364,Tier-1,Precision Machining,Active,Taiwan,2016,AAA,2022-01-20 13:00:00
+SUP-000365,Omni Fabrication LLC #365,Tier-2,Packaging,Active,Germany,2010,BBB,2022-05-28 17:00:00
+SUP-000366,Optima Fabrication Ltd #366,Tier-2,Raw Materials,Active,Mexico,2014,BBB,2022-11-27 15:00:00
+SUP-000367,Vertex Fabrication LLC #367,Tier-3,Precision Machining,Active,Japan,2000,A,2022-01-14 08:00:00
+SUP-000368,Apex Components Corp #368,Tier-2,Logistics,Active,Germany,1996,A,2022-08-22 16:00:00
+SUP-000369,Nexus Materials Inc #369,Tier-1,Assemblies,Active,Netherlands,2014,AA,2022-06-19 09:00:00
+SUP-000370,Aero Advanced Holdings #370,Tier-3,Raw Materials,Active,Japan,1998,A,2022-08-13 13:00:00
+SUP-000371,Vertex Circuits Holdings #371,Tier-1,Raw Materials,Active,United States,1977,BBB,2022-02-06 10:00:00
+SUP-000372,Micro Industries Inc #372,Tier-3,Precision Machining,Active,Germany,1975,A,2022-04-24 09:00:00
+SUP-000373,Quantum Optics S.A. #373,Tier-1,Packaging,Active,India,1993,AA,2022-03-28 09:00:00
+SUP-000374,Quantum Industries Holdings #374,Tier-3,Logistics,Active,South Korea,2004,AAA,2022-11-26 17:00:00
+SUP-000375,Aero Silicon Technologies #375,Tier-3,Logistics,Active,Germany,1989,BBB,2022-06-18 12:00:00
+SUP-000376,Hyperion Machining GmbH #376,Tier-1,Electronics,Under Review,Netherlands,2006,BBB,2022-07-16 11:00:00
+SUP-000377,Delta Semiconductor Holdings #377,Tier-1,Electronics,Active,South Korea,2015,A,2022-08-24 08:00:00
+SUP-000378,Vanguard Semiconductor S.A. #378,Tier-2,Assemblies,Active,Taiwan,1999,BBB,2022-08-14 15:00:00
+SUP-000379,Micro Optics S.A. #379,Tier-1,Assemblies,Active,Mexico,2020,A,2020-10-14 09:00:00
+SUP-000380,Zenith Electro LLC #380,Tier-1,Precision Machining,Active,Taiwan,1998,A,2022-03-27 08:00:00
+SUP-000381,Zenith Materials LLC #381,Tier-2,Raw Materials,Active,Vietnam,1997,BBB,2022-11-07 17:00:00
+SUP-000382,Nova Fabrication Inc #382,Tier-2,Raw Materials,Active,Germany,1982,A,2022-05-18 14:00:00
+SUP-000383,Omni Foundry LLC #383,Tier-2,Raw Materials,Active,Netherlands,1990,A,2022-07-25 13:00:00
+SUP-000384,Pioneer Foundry Holdings #384,Tier-3,Packaging,Active,Mexico,2000,AA,2022-10-24 08:00:00
+SUP-000385,Optima Microtech S.A. #385,Tier-1,Precision Machining,Active,United States,1982,AA,2022-02-11 12:00:00
+SUP-000386,Aero Electro GmbH #386,Tier-3,Assemblies,Active,United States,2011,BBB,2022-05-12 15:00:00
+SUP-000387,Aero Dynamics S.A. #387,Tier-1,Packaging,Active,Vietnam,2005,A,2022-02-14 12:00:00
+SUP-000388,Precision Industries Inc #388,Tier-2,Electronics,Active,South Korea,1985,AAA,2022-10-25 08:00:00
+SUP-000389,Synergy Materials S.A. #389,Tier-3,Packaging,Active,Taiwan,2016,AA,2022-11-20 08:00:00
+SUP-000390,Nova Microtech Ltd #390,Tier-1,Packaging,Active,Taiwan,1976,BB,2022-11-18 09:00:00
+SUP-000391,Precision Dynamics Corp #391,Tier-3,Packaging,Active,Japan,1977,BBB,2022-12-10 13:00:00
+SUP-000392,Sterling Dynamics Technologies #392,Tier-2,Assemblies,Active,Taiwan,2009,AA,2022-08-20 11:00:00
+SUP-000393,Synergy Advanced S.A. #393,Tier-2,Logistics,Active,Germany,1978,BBB,2022-09-03 13:00:00
+SUP-000394,Apex Advanced Inc #394,Tier-2,Logistics,Active,India,1979,AAA,2022-04-21 14:00:00
+SUP-000395,Quantum Robotics S.A. #395,Tier-2,Precision Machining,Active,South Korea,1981,BB,2022-06-08 13:00:00
+SUP-000396,Vertex Fabrication Ltd #396,Tier-2,Electronics,Active,Vietnam,2008,A,2022-12-25 14:00:00
+SUP-000397,Quantum Systems Technologies #397,Tier-2,Raw Materials,Active,Germany,1991,AAA,2022-08-26 13:00:00
+SUP-000398,Pacific Optics Technologies #398,Tier-1,Assemblies,Active,South Korea,1976,A,2022-12-15 13:00:00
+SUP-000399,Titan Materials GmbH #399,Tier-1,Precision Machining,Active,United States,1978,AAA,2022-01-26 14:00:00
+SUP-000400,Global Fabrication Technologies #400,Tier-1,Raw Materials,Active,Japan,1997,A,2022-11-13 14:00:00
+SUP-000401,Global Semiconductor Ltd #401,Tier-2,Packaging,Active,United States,1994,AAA,2022-07-23 10:00:00
+SUP-000402,Titan Semiconductor S.A. #402,Tier-3,Raw Materials,Active,South Korea,2009,A,2022-05-19 13:00:00
+SUP-000403,Frontier Fabrication Ltd #403,Tier-1,Electronics,Active,Vietnam,2013,BBB,2022-08-20 15:00:00
+SUP-000404,Precision Circuits GmbH #404,Tier-3,Precision Machining,Active,Taiwan,1981,BBB,2022-08-27 15:00:00
+SUP-000405,Nexus Components LLC #405,Tier-3,Electronics,Active,Taiwan,2009,A,2022-04-13 15:00:00
+SUP-000406,Pacific Electro Corp #406,Tier-1,Electronics,Active,Netherlands,2001,BBB,2022-06-22 14:00:00
+SUP-000407,Optima Logistics LLC #407,Tier-1,Packaging,Active,Germany,2009,AA,2022-12-17 16:00:00
+SUP-000408,Zenith Machining Corp #408,Tier-2,Packaging,Active,Taiwan,1981,A,2022-04-14 08:00:00
+SUP-000409,Aero Fabrication Corp #409,Tier-3,Electronics,Active,Mexico,2016,AA,2022-12-18 08:00:00
+SUP-000410,Vanguard Electro Corp #410,Tier-2,Packaging,Active,Vietnam,2011,AA,2022-12-20 16:00:00
+SUP-000411,Aero Foundry Inc #411,Tier-1,Raw Materials,Active,India,2020,BBB,2020-07-09 09:00:00
+SUP-000412,Omni Packaging GmbH #412,Tier-3,Raw Materials,Under Review,Mexico,1991,AA,2022-07-16 12:00:00
+SUP-000413,Optima Industries Inc #413,Tier-1,Assemblies,Active,Mexico,2013,AA,2022-05-22 14:00:00
+SUP-000414,Atlantic Components S.A. #414,Tier-3,Assemblies,Active,United States,2011,AA,2022-04-13 12:00:00
+SUP-000415,Pacific Advanced LLC #415,Tier-1,Packaging,Active,Vietnam,2005,AAA,2022-07-15 17:00:00
+SUP-000416,Sterling Materials Corp #416,Tier-2,Electronics,Active,South Korea,1983,AA,2022-10-14 17:00:00
+SUP-000417,Quantum Foundry GmbH #417,Tier-2,Packaging,Active,Germany,2002,AA,2022-11-02 10:00:00
+SUP-000418,Titan Advanced Inc #418,Tier-3,Electronics,Active,Canada,1990,AAA,2022-07-25 16:00:00
+SUP-000419,Synergy Logistics Holdings #419,Tier-3,Logistics,Active,Germany,2016,AAA,2022-10-06 13:00:00
+SUP-000420,Titan Robotics LLC #420,Tier-3,Logistics,Active,South Korea,1996,BBB,2022-11-23 12:00:00
+SUP-000421,Precision Circuits Technologies #421,Tier-1,Packaging,Active,Taiwan,2016,A,2022-05-07 09:00:00
+SUP-000422,Optima Microtech Corp #422,Tier-2,Assemblies,Active,United States,2016,AA,2022-04-12 11:00:00
+SUP-000423,Nexus Systems Holdings #423,Tier-2,Precision Machining,Active,India,2021,B,2021-12-19 15:00:00
+SUP-000424,Pioneer Foundry Corp #424,Tier-3,Precision Machining,Active,Japan,1997,AA,2022-02-04 12:00:00
+SUP-000425,Synergy Semiconductor Technologies #425,Tier-2,Logistics,Active,Germany,1989,AAA,2022-08-09 16:00:00
+SUP-000426,Summit Dynamics S.A. #426,Tier-2,Assemblies,Active,Vietnam,1992,AA,2022-05-25 12:00:00
+SUP-000427,Titan Electro Technologies #427,Tier-3,Precision Machining,Active,India,1994,A,2022-02-27 13:00:00
+SUP-000428,Micro Materials Holdings #428,Tier-3,Assemblies,Active,South Korea,2019,AA,2022-07-15 13:00:00
+SUP-000429,Titan Electro S.A. #429,Tier-2,Logistics,Active,Vietnam,1999,BB,2022-01-22 10:00:00
+SUP-000430,Nexus Microtech Inc #430,Tier-1,Logistics,Active,Canada,2009,AA,2022-06-18 13:00:00
+SUP-000431,Sterling Robotics GmbH #431,Tier-1,Electronics,Active,Vietnam,1989,A,2022-10-06 08:00:00
+SUP-000432,Pioneer Dynamics GmbH #432,Tier-2,Precision Machining,Active,Canada,1976,A,2022-03-04 15:00:00
+SUP-000433,Frontier Semiconductor Corp #433,Tier-2,Precision Machining,Active,South Korea,2009,BBB,2022-04-25 13:00:00
+SUP-000434,Summit Industries Corp #434,Tier-3,Logistics,Active,Canada,2021,AA,2021-09-25 15:00:00
+SUP-000435,Optima Packaging S.A. #435,Tier-1,Raw Materials,Active,United States,1996,AA,2022-02-24 13:00:00
+SUP-000436,Quantum Logistics Holdings #436,Tier-2,Assemblies,Active,Japan,1989,BBB,2022-01-13 11:00:00
+SUP-000437,Summit Advanced S.A. #437,Tier-2,Packaging,Active,South Korea,1981,AAA,2022-10-16 09:00:00
+SUP-000438,Pioneer Electro Inc #438,Tier-1,Electronics,Active,Taiwan,2001,BBB,2022-10-12 11:00:00
+SUP-000439,Nova Circuits Inc #439,Tier-1,Logistics,Active,United States,1993,A,2022-01-13 15:00:00
+SUP-000440,Micro Logistics Ltd #440,Tier-3,Precision Machining,Active,South Korea,1982,AA,2022-05-08 15:00:00
+SUP-000441,Vertex Optics GmbH #441,Tier-3,Packaging,Active,Canada,2005,A,2022-05-25 16:00:00
+SUP-000442,Nova Systems GmbH #442,Tier-2,Logistics,Active,South Korea,2011,AA,2022-10-19 14:00:00
+SUP-000443,Optima Industries Technologies #443,Tier-3,Raw Materials,Active,Vietnam,1987,AA,2022-09-17 16:00:00
+SUP-000444,Micro Components Holdings #444,Tier-1,Assemblies,Active,Japan,2005,A,2022-03-07 17:00:00
+SUP-000445,Delta Materials Corp #445,Tier-1,Logistics,Under Review,India,2001,A,2022-01-27 15:00:00
+SUP-000446,Omni Industries Corp #446,Tier-3,Raw Materials,Active,Netherlands,1993,BB,2022-12-01 15:00:00
+SUP-000447,Precision Semiconductor Corp #447,Tier-3,Packaging,Active,Canada,2014,AAA,2022-05-04 10:00:00
+SUP-000448,Nexus Foundry Ltd #448,Tier-2,Logistics,Active,United States,1997,A,2022-06-15 16:00:00
+SUP-000449,Titan Electro S.A. #449,Tier-2,Precision Machining,Active,Mexico,2002,BBB,2022-05-23 13:00:00
+SUP-000450,Aero Systems GmbH #450,Tier-1,Assemblies,Active,Germany,1989,BBB,2022-08-23 16:00:00
+SUP-000451,Precision Electro Corp #451,Tier-2,Precision Machining,Active,Netherlands,1992,BBB,2022-05-22 15:00:00
+SUP-000452,Nova Machining LLC #452,Tier-1,Packaging,Active,Mexico,1991,BBB,2022-12-06 08:00:00
+SUP-000453,Vertex Robotics Holdings #453,Tier-1,Raw Materials,Active,South Korea,1998,A,2022-03-11 09:00:00
+SUP-000454,Micro Fabrication LLC #454,Tier-1,Raw Materials,Active,United States,1991,BB,2022-01-17 10:00:00
+SUP-000455,Pioneer Systems Ltd #455,Tier-2,Electronics,Active,Mexico,1976,AA,2022-07-08 16:00:00
+SUP-000456,Pioneer Robotics Holdings #456,Tier-1,Precision Machining,Active,India,2006,A,2022-04-04 17:00:00
+SUP-000457,Synergy Materials GmbH #457,Tier-1,Packaging,Under Review,India,1995,AA,2022-12-12 15:00:00
+SUP-000458,Pacific Fabrication LLC #458,Tier-2,Logistics,Active,Taiwan,1988,AA,2022-11-04 10:00:00
+SUP-000459,Apex Robotics LLC #459,Tier-1,Assemblies,Under Review,Canada,2006,AAA,2022-04-10 17:00:00
+SUP-000460,Delta Systems Technologies #460,Tier-2,Precision Machining,Active,Mexico,2006,AA,2022-06-02 15:00:00
+SUP-000461,Vertex Industries GmbH #461,Tier-3,Assemblies,Active,Vietnam,1997,A,2022-06-03 08:00:00
+SUP-000462,Summit Semiconductor LLC #462,Tier-1,Precision Machining,Active,India,2013,BBB,2022-06-17 16:00:00
+SUP-000463,Aero Systems S.A. #463,Tier-2,Electronics,Active,United States,1975,A,2022-12-22 14:00:00
+SUP-000464,Delta Microtech S.A. #464,Tier-2,Electronics,Active,United States,2009,A,2022-10-15 10:00:00
+SUP-000465,Pacific Materials Ltd #465,Tier-2,Packaging,Active,United States,2008,A,2022-11-17 15:00:00
+SUP-000466,Frontier Systems Technologies #466,Tier-3,Logistics,Active,Mexico,1991,AAA,2022-08-02 10:00:00
+SUP-000467,Nova Robotics Corp #467,Tier-3,Logistics,Active,Mexico,1979,BBB,2022-11-06 13:00:00
+SUP-000468,Optima Semiconductor Technologies #468,Tier-3,Raw Materials,Active,Vietnam,2003,A,2022-08-13 17:00:00
+SUP-000469,Delta Systems Corp #469,Tier-2,Logistics,Active,Vietnam,2016,B,2022-09-14 17:00:00
+SUP-000470,Delta Microtech LLC #470,Tier-2,Packaging,Active,Germany,2019,BBB,2022-04-06 10:00:00
+SUP-000471,Atlantic Semiconductor Holdings #471,Tier-2,Electronics,Active,Germany,1989,AAA,2022-11-01 10:00:00
+SUP-000472,Apex Materials Inc #472,Tier-2,Electronics,Active,United States,1998,AAA,2022-12-15 14:00:00
+SUP-000473,Frontier Circuits S.A. #473,Tier-2,Logistics,Active,India,2003,AAA,2022-09-02 11:00:00
+SUP-000474,Optima Packaging Inc #474,Tier-2,Logistics,Active,Japan,2017,AA,2022-10-09 11:00:00
+SUP-000475,Delta Packaging Corp #475,Tier-2,Raw Materials,Active,Taiwan,2020,BBB,2020-02-10 09:00:00
+SUP-000476,Nexus Materials Ltd #476,Tier-3,Logistics,Active,Vietnam,2005,BBB,2022-11-08 17:00:00
+SUP-000477,Summit Advanced Ltd #477,Tier-3,Packaging,Active,Taiwan,1975,AA,2022-06-11 10:00:00
+SUP-000478,Vanguard Robotics S.A. #478,Tier-3,Electronics,Active,Netherlands,2019,AA,2022-03-18 14:00:00
+SUP-000479,Precision Industries Corp #479,Tier-2,Assemblies,Active,Germany,1993,A,2022-03-23 14:00:00
+SUP-000480,Precision Machining Ltd #480,Tier-2,Raw Materials,Active,Germany,1986,BB,2022-07-18 11:00:00
+SUP-000481,Aero Silicon Corp #481,Tier-2,Raw Materials,Active,Germany,1983,AA,2022-08-17 13:00:00
+SUP-000482,Aero Silicon S.A. #482,Tier-2,Logistics,Active,Canada,2004,AA,2022-02-13 14:00:00
+SUP-000483,Optima Microtech LLC #483,Tier-3,Electronics,Active,Japan,2004,AAA,2022-05-02 17:00:00
+SUP-000484,Hyperion Advanced Inc #484,Tier-1,Electronics,Active,India,2016,AAA,2022-09-23 08:00:00
+SUP-000485,Sterling Foundry S.A. #485,Tier-2,Assemblies,Active,Germany,1998,AA,2022-10-22 17:00:00
+SUP-000486,Synergy Packaging S.A. #486,Tier-2,Raw Materials,Active,Canada,2004,AA,2022-12-17 09:00:00
+SUP-000487,Pioneer Advanced Technologies #487,Tier-2,Packaging,Active,Mexico,1978,AAA,2022-01-08 16:00:00
+SUP-000488,Frontier Materials Inc #488,Tier-2,Raw Materials,Active,South Korea,2008,B,2022-04-09 10:00:00
+SUP-000489,Summit Robotics Holdings #489,Tier-1,Electronics,Active,Taiwan,2019,AA,2022-11-09 12:00:00
+SUP-000490,Atlantic Machining LLC #490,Tier-3,Raw Materials,Active,India,2016,AA,2022-05-01 12:00:00
+SUP-000491,Nexus Logistics Inc #491,Tier-2,Logistics,Active,Vietnam,1990,A,2022-12-22 16:00:00
+SUP-000492,Precision Industries S.A. #492,Tier-2,Raw Materials,Active,Mexico,1981,BB,2022-08-20 14:00:00
+SUP-000493,Precision Semiconductor GmbH #493,Tier-2,Electronics,Active,Japan,2006,A,2022-02-12 17:00:00
+SUP-000494,Hyperion Materials Technologies #494,Tier-1,Assemblies,Active,Germany,2004,AA,2022-04-28 11:00:00
+SUP-000495,Pacific Electro Corp #495,Tier-3,Electronics,Active,United States,1995,AA,2022-08-03 15:00:00
+SUP-000496,Micro Advanced Ltd #496,Tier-3,Precision Machining,Active,South Korea,2002,BBB,2022-02-14 11:00:00
+SUP-000497,Nova Fabrication LLC #497,Tier-2,Electronics,Active,Vietnam,1993,AA,2022-09-23 14:00:00
+SUP-000498,Titan Fabrication Ltd #498,Tier-3,Electronics,Active,Mexico,1981,BBB,2022-11-24 16:00:00
+SUP-000499,Vertex Dynamics GmbH #499,Tier-2,Packaging,Active,United States,2008,AAA,2022-03-23 14:00:00
+SUP-000500,Zenith Materials Corp #500,Tier-3,Raw Materials,Active,Vietnam,2002,AAA,2022-12-12 11:00:00
+SUP-000501,Atlantic Systems Technologies #501,Tier-3,Raw Materials,Active,Netherlands,1990,BBB,2022-02-28 12:00:00
+SUP-000502,Synergy Dynamics Ltd #502,Tier-3,Assemblies,Active,Germany,2018,AA,2022-08-15 14:00:00
+SUP-000503,Vertex Logistics Technologies #503,Tier-3,Electronics,Active,Mexico,1999,AAA,2022-07-23 15:00:00
+SUP-000504,Nova Dynamics GmbH #504,Tier-3,Packaging,Active,Mexico,2020,AA,2020-10-14 17:00:00
+SUP-000505,Zenith Packaging Corp #505,Tier-3,Logistics,Active,South Korea,2007,AAA,2022-11-26 10:00:00
+SUP-000506,Vanguard Dynamics Technologies #506,Tier-2,Logistics,Active,India,1979,BBB,2022-12-05 17:00:00
+SUP-000507,Pacific Microtech GmbH #507,Tier-2,Assemblies,Active,India,2001,BBB,2022-11-17 11:00:00
+SUP-000508,Aero Packaging Holdings #508,Tier-3,Packaging,Active,Taiwan,1981,AA,2022-05-21 17:00:00
+SUP-000509,Pioneer Foundry Ltd #509,Tier-2,Packaging,Active,Mexico,1994,A,2022-01-06 15:00:00
+SUP-000510,Vanguard Packaging Ltd #510,Tier-1,Precision Machining,Active,Taiwan,2015,BBB,2022-12-06 15:00:00
+SUP-000511,Titan Robotics Inc #511,Tier-2,Packaging,Active,Mexico,2006,AA,2022-07-06 08:00:00
+SUP-000512,Synergy Systems S.A. #512,Tier-2,Packaging,Active,Germany,2000,AA,2022-07-05 12:00:00
+SUP-000513,Synergy Dynamics Technologies #513,Tier-2,Packaging,Active,Canada,2017,AAA,2022-02-05 14:00:00
+SUP-000514,Optima Robotics Technologies #514,Tier-3,Logistics,Active,Vietnam,1983,BB,2022-07-22 12:00:00
+SUP-000515,Delta Machining Holdings #515,Tier-1,Precision Machining,Active,Vietnam,1983,BBB,2022-08-17 11:00:00
+SUP-000516,Vanguard Fabrication Ltd #516,Tier-1,Electronics,Active,India,2013,AAA,2022-12-04 12:00:00
+SUP-000517,Aero Packaging Technologies #517,Tier-2,Raw Materials,Active,Taiwan,2000,A,2022-12-07 08:00:00
+SUP-000518,Precision Electro LLC #518,Tier-2,Assemblies,Active,Taiwan,2013,A,2022-12-06 16:00:00
+SUP-000519,Hyperion Microtech Corp #519,Tier-2,Electronics,Active,Canada,2007,BBB,2022-08-20 16:00:00
+SUP-000520,Optima Logistics Technologies #520,Tier-2,Packaging,Active,Japan,2020,BBB,2020-09-24 09:00:00
+SUP-000521,Aero Systems S.A. #521,Tier-3,Raw Materials,Active,Taiwan,1992,AA,2022-12-03 13:00:00
+SUP-000522,Global Optics GmbH #522,Tier-2,Precision Machining,Active,Canada,1996,A,2022-11-10 13:00:00
+SUP-000523,Optima Foundry Corp #523,Tier-2,Raw Materials,Active,Taiwan,2007,BBB,2022-04-21 09:00:00
+SUP-000524,Vanguard Foundry Inc #524,Tier-2,Packaging,Active,Netherlands,1998,AAA,2022-07-12 13:00:00
+SUP-000525,Sterling Robotics S.A. #525,Tier-3,Precision Machining,Active,Netherlands,2021,AAA,2021-12-05 09:00:00
+SUP-000526,Quantum Electro Holdings #526,Tier-1,Logistics,Active,South Korea,1982,BB,2022-11-24 11:00:00
+SUP-000527,Delta Dynamics Holdings #527,Tier-2,Logistics,Under Review,Netherlands,1983,AA,2022-10-07 17:00:00
+SUP-000528,Vanguard Semiconductor LLC #528,Tier-1,Raw Materials,Active,Japan,1982,AA,2022-04-01 13:00:00
+SUP-000529,Precision Fabrication LLC #529,Tier-2,Logistics,Active,South Korea,1978,A,2022-05-02 13:00:00
+SUP-000530,Pioneer Silicon Inc #530,Tier-3,Assemblies,Active,South Korea,2009,AA,2022-10-21 17:00:00
+SUP-000531,Delta Semiconductor Inc #531,Tier-1,Packaging,Active,Netherlands,2011,BBB,2022-04-25 13:00:00
+SUP-000532,Vertex Dynamics Ltd #532,Tier-2,Raw Materials,Active,Canada,1995,A,2022-04-16 17:00:00
+SUP-000533,Summit Foundry GmbH #533,Tier-1,Precision Machining,Active,Mexico,1975,A,2022-08-11 16:00:00
+SUP-000534,Synergy Electro Inc #534,Tier-3,Precision Machining,Active,India,1990,AAA,2022-12-11 17:00:00
+SUP-000535,Sterling Industries Inc #535,Tier-3,Raw Materials,Active,Mexico,2005,A,2022-11-05 09:00:00
+SUP-000536,Pioneer Materials GmbH #536,Tier-1,Precision Machining,Active,India,2001,AA,2022-12-15 12:00:00
+SUP-000537,Sterling Logistics S.A. #537,Tier-1,Logistics,Active,Germany,1995,AA,2022-05-21 12:00:00
+SUP-000538,Quantum Foundry Inc #538,Tier-2,Precision Machining,Active,Japan,1989,AAA,2022-08-16 16:00:00
+SUP-000539,Zenith Optics GmbH #539,Tier-3,Electronics,Active,Taiwan,1983,AA,2022-08-08 11:00:00
+SUP-000540,Zenith Advanced GmbH #540,Tier-3,Packaging,Active,United States,2015,AA,2022-08-04 14:00:00
+SUP-000541,Atlantic Materials Holdings #541,Tier-3,Logistics,Active,Mexico,1985,AA,2022-06-16 15:00:00
+SUP-000542,Atlantic Packaging Ltd #542,Tier-3,Raw Materials,Active,Vietnam,2021,BB,2021-04-23 14:00:00
+SUP-000543,Aero Robotics Ltd #543,Tier-2,Raw Materials,Active,Netherlands,1994,BB,2022-05-02 16:00:00
+SUP-000544,Aero Optics LLC #544,Tier-1,Electronics,Active,Vietnam,2006,AA,2022-01-12 12:00:00
+SUP-000545,Vanguard Circuits Technologies #545,Tier-2,Precision Machining,Active,India,1987,AA,2022-05-19 08:00:00
+SUP-000546,Summit Components Corp #546,Tier-2,Logistics,Active,Netherlands,2009,A,2022-11-21 10:00:00
+SUP-000547,Sterling Silicon Corp #547,Tier-2,Electronics,Active,Mexico,1986,A,2022-12-14 10:00:00
+SUP-000548,Nexus Materials LLC #548,Tier-1,Packaging,Active,Taiwan,1999,A,2022-07-10 09:00:00
+SUP-000549,Omni Systems LLC #549,Tier-2,Logistics,Active,Japan,2007,AA,2022-08-20 08:00:00
+SUP-000550,Summit Systems Inc #550,Tier-2,Raw Materials,Active,Vietnam,1980,AA,2022-05-13 10:00:00
+SUP-000551,Summit Silicon Technologies #551,Tier-2,Assemblies,Active,Japan,2021,A,2021-04-04 14:00:00
+SUP-000552,Pacific Circuits Inc #552,Tier-3,Logistics,Active,Vietnam,2007,A,2022-09-06 10:00:00
+SUP-000553,Delta Machining LLC #553,Tier-2,Logistics,Active,United States,1981,AA,2022-02-19 14:00:00
+SUP-000554,Nexus Logistics Corp #554,Tier-2,Raw Materials,Active,Japan,1975,BBB,2022-05-23 14:00:00
+SUP-000555,Sterling Dynamics S.A. #555,Tier-1,Assemblies,Active,Taiwan,1984,BBB,2022-08-15 15:00:00
+SUP-000556,Micro Logistics Holdings #556,Tier-3,Raw Materials,Active,South Korea,2004,CCC,2022-10-21 17:00:00
+SUP-000557,Titan Fabrication LLC #557,Tier-3,Raw Materials,Active,Taiwan,2021,AA,2021-07-21 09:00:00
+SUP-000558,Frontier Silicon Corp #558,Tier-2,Packaging,Active,South Korea,1982,AA,2022-11-27 17:00:00
+SUP-000559,Quantum Microtech Corp #559,Tier-1,Assemblies,Active,Germany,1991,A,2022-03-09 15:00:00
+SUP-000560,Titan Silicon GmbH #560,Tier-3,Electronics,Active,Netherlands,1999,BBB,2022-03-10 13:00:00
+SUP-000561,Vanguard Robotics LLC #561,Tier-3,Assemblies,Active,South Korea,2020,A,2020-06-01 16:00:00
+SUP-000562,Pacific Semiconductor LLC #562,Tier-1,Raw Materials,Active,Vietnam,1990,AAA,2022-05-02 09:00:00
+SUP-000563,Quantum Foundry Technologies #563,Tier-2,Electronics,Active,United States,2018,AA,2022-10-23 14:00:00
+SUP-000564,Nexus Foundry GmbH #564,Tier-1,Packaging,Active,United States,1982,AA,2022-06-27 10:00:00
+SUP-000565,Pacific Microtech Ltd #565,Tier-3,Electronics,Active,Netherlands,2017,A,2022-11-06 08:00:00
+SUP-000566,Summit Optics Corp #566,Tier-1,Precision Machining,Active,Germany,1979,AAA,2022-07-01 10:00:00
+SUP-000567,Precision Foundry GmbH #567,Tier-2,Raw Materials,Active,United States,1975,AA,2022-02-11 13:00:00
+SUP-000568,Global Electro Corp #568,Tier-1,Precision Machining,Active,Taiwan,2007,A,2022-07-17 10:00:00
+SUP-000569,Micro Optics Inc #569,Tier-2,Precision Machining,Active,Vietnam,2013,AA,2022-08-08 16:00:00
+SUP-000570,Omni Fabrication Ltd #570,Tier-1,Raw Materials,Active,South Korea,1975,AA,2022-09-09 16:00:00
+SUP-000571,Summit Components Corp #571,Tier-3,Packaging,Active,India,1994,BBB,2022-09-22 12:00:00
+SUP-000572,Pacific Components Corp #572,Tier-1,Raw Materials,Active,Taiwan,1982,A,2022-08-09 16:00:00
+SUP-000573,Delta Circuits Technologies #573,Tier-1,Logistics,Active,Netherlands,1987,AA,2022-05-14 16:00:00
+SUP-000574,Aero Robotics Inc #574,Tier-3,Raw Materials,Active,Germany,2016,B,2022-02-07 08:00:00
+SUP-000575,Optima Machining Ltd #575,Tier-1,Precision Machining,Active,United States,2021,A,2021-08-23 08:00:00
+SUP-000576,Synergy Electro Inc #576,Tier-3,Packaging,Active,India,1997,AA,2022-01-11 12:00:00
+SUP-000577,Synergy Foundry Inc #577,Tier-2,Precision Machining,Active,South Korea,2011,AA,2022-01-01 16:00:00
+SUP-000578,Frontier Logistics S.A. #578,Tier-2,Logistics,Active,India,2007,BBB,2022-04-17 09:00:00
+SUP-000579,Micro Dynamics GmbH #579,Tier-3,Logistics,Active,Japan,2020,BBB,2020-01-03 15:00:00
+SUP-000580,Delta Machining S.A. #580,Tier-2,Electronics,Active,United States,1997,A,2022-01-25 12:00:00
+SUP-000581,Global Electro Inc #581,Tier-1,Raw Materials,Active,India,2013,AA,2022-05-23 09:00:00
+SUP-000582,Hyperion Silicon GmbH #582,Tier-1,Logistics,Active,Vietnam,2000,A,2022-12-17 16:00:00
+SUP-000583,Nexus Components GmbH #583,Tier-2,Precision Machining,Active,Japan,2016,AAA,2022-11-18 17:00:00
+SUP-000584,Vertex Industries GmbH #584,Tier-3,Precision Machining,Active,Japan,2007,A,2022-01-26 13:00:00
+SUP-000585,Nova Packaging Ltd #585,Tier-2,Packaging,Active,India,2000,A,2022-10-02 09:00:00
+SUP-000586,Omni Industries S.A. #586,Tier-2,Raw Materials,Active,Canada,1997,BBB,2022-04-15 14:00:00
+SUP-000587,Vertex Electro Holdings #587,Tier-2,Assemblies,Active,South Korea,2000,AAA,2022-10-15 10:00:00
+SUP-000588,Titan Electro Technologies #588,Tier-3,Assemblies,Active,Mexico,1997,A,2022-01-23 08:00:00
+SUP-000589,Pioneer Materials Technologies #589,Tier-1,Electronics,Active,Japan,1986,AA,2022-11-28 14:00:00
+SUP-000590,Micro Materials Technologies #590,Tier-2,Logistics,Active,South Korea,1992,A,2022-12-06 09:00:00
+SUP-000591,Vanguard Systems S.A. #591,Tier-1,Raw Materials,Active,Netherlands,1994,BBB,2022-05-03 16:00:00
+SUP-000592,Nexus Packaging Technologies #592,Tier-1,Assemblies,Active,Japan,2019,BBB,2022-10-24 12:00:00
+SUP-000593,Delta Optics Technologies #593,Tier-2,Electronics,Active,India,2014,A,2022-02-22 15:00:00
+SUP-000594,Aero Circuits GmbH #594,Tier-3,Electronics,Active,Vietnam,2013,A,2022-02-02 13:00:00
+SUP-000595,Frontier Systems Technologies #595,Tier-3,Assemblies,Active,Taiwan,2000,A,2022-09-28 17:00:00
+SUP-000596,Vertex Packaging S.A. #596,Tier-3,Electronics,Active,Germany,1987,AA,2022-09-13 08:00:00
+SUP-000597,Quantum Semiconductor GmbH #597,Tier-3,Raw Materials,Active,Japan,2016,AA,2022-11-24 09:00:00
+SUP-000598,Summit Components GmbH #598,Tier-3,Logistics,Active,Germany,1986,AA,2022-06-15 16:00:00
+SUP-000599,Pioneer Advanced LLC #599,Tier-2,Electronics,Active,Canada,1975,AAA,2022-06-16 10:00:00
+SUP-000600,Precision Materials Ltd #600,Tier-3,Electronics,Active,Japan,1978,A,2022-12-17 15:00:00
+SUP-000601,Delta Advanced Technologies #601,Tier-2,Raw Materials,Under Review,India,1995,BBB,2022-12-14 16:00:00
+SUP-000602,Quantum Fabrication Inc #602,Tier-2,Precision Machining,Active,Japan,1993,BBB,2022-08-08 12:00:00
+SUP-000603,Precision Advanced Technologies #603,Tier-3,Raw Materials,Active,United States,2006,AAA,2022-12-25 11:00:00
+SUP-000604,Nova Advanced Holdings #604,Tier-1,Packaging,Active,South Korea,2018,A,2022-03-10 16:00:00
+SUP-000605,Synergy Microtech GmbH #605,Tier-1,Raw Materials,Active,Germany,1994,AAA,2022-06-20 11:00:00
+SUP-000606,Frontier Silicon Corp #606,Tier-1,Assemblies,Active,Canada,2007,AA,2022-06-14 11:00:00
+SUP-000607,Vertex Advanced S.A. #607,Tier-1,Logistics,Active,South Korea,1994,AA,2022-07-23 08:00:00
+SUP-000608,Summit Logistics Inc #608,Tier-3,Electronics,Active,Netherlands,2004,A,2022-08-04 14:00:00
+SUP-000609,Pacific Logistics GmbH #609,Tier-3,Precision Machining,Active,India,2016,A,2022-05-20 09:00:00
+SUP-000610,Apex Machining Ltd #610,Tier-2,Precision Machining,Active,India,2009,A,2022-04-26 17:00:00
+SUP-000611,Nexus Components LLC #611,Tier-1,Precision Machining,Active,United States,1979,AA,2022-07-20 16:00:00
+SUP-000612,Quantum Packaging Holdings #612,Tier-2,Electronics,Active,Germany,1975,A,2022-04-10 16:00:00
+SUP-000613,Vertex Industries Ltd #613,Tier-2,Packaging,Active,Netherlands,1981,AA,2022-08-17 09:00:00
+SUP-000614,Nexus Circuits Ltd #614,Tier-2,Precision Machining,Active,Taiwan,1981,A,2022-06-24 15:00:00
+SUP-000615,Vertex Dynamics Corp #615,Tier-2,Raw Materials,Active,Taiwan,2021,BB,2021-01-05 16:00:00
+SUP-000616,Nova Industries Corp #616,Tier-2,Raw Materials,Active,United States,2009,A,2022-09-13 15:00:00
+SUP-000617,Apex Logistics Holdings #617,Tier-3,Electronics,Active,Mexico,1980,AA,2022-06-20 09:00:00
+SUP-000618,Hyperion Dynamics Ltd #618,Tier-3,Precision Machining,Active,South Korea,1997,BBB,2022-11-01 10:00:00
+SUP-000619,Pioneer Industries Corp #619,Tier-2,Logistics,Active,Japan,1984,A,2022-01-16 10:00:00
+SUP-000620,Apex Semiconductor Ltd #620,Tier-1,Packaging,Active,India,1983,AA,2022-04-01 13:00:00
+SUP-000621,Nexus Electro Inc #621,Tier-3,Logistics,Active,Taiwan,1998,A,2022-02-01 09:00:00
+SUP-000622,Delta Electro GmbH #622,Tier-3,Packaging,Active,Germany,2008,AAA,2022-06-06 12:00:00
+SUP-000623,Hyperion Systems Inc #623,Tier-2,Packaging,Active,Netherlands,1979,AA,2022-12-12 12:00:00
+SUP-000624,Zenith Fabrication Technologies #624,Tier-1,Logistics,Active,Mexico,2004,A,2022-11-27 17:00:00
+SUP-000625,Pacific Dynamics LLC #625,Tier-1,Raw Materials,Active,Netherlands,2013,AA,2022-01-25 12:00:00
+SUP-000626,Pacific Dynamics Corp #626,Tier-1,Assemblies,Active,Taiwan,1981,BBB,2022-10-09 08:00:00
+SUP-000627,Vertex Dynamics Holdings #627,Tier-2,Electronics,Active,Mexico,2013,BBB,2022-06-02 09:00:00
+SUP-000628,Pacific Semiconductor Corp #628,Tier-1,Precision Machining,Under Review,Netherlands,1992,A,2022-02-01 10:00:00
+SUP-000629,Titan Dynamics LLC #629,Tier-2,Packaging,Active,Taiwan,1984,AA,2022-08-08 13:00:00
+SUP-000630,Apex Microtech Technologies #630,Tier-1,Precision Machining,Active,Netherlands,1975,BBB,2022-11-17 15:00:00
+SUP-000631,Nexus Packaging GmbH #631,Tier-3,Raw Materials,Active,India,2014,AAA,2022-11-19 15:00:00
+SUP-000632,Synergy Systems GmbH #632,Tier-2,Electronics,Active,Taiwan,2006,BBB,2022-05-16 10:00:00
+SUP-000633,Synergy Fabrication Corp #633,Tier-2,Packaging,Active,Japan,2012,A,2022-01-11 11:00:00
+SUP-000634,Summit Logistics Technologies #634,Tier-3,Precision Machining,Active,India,1975,A,2022-07-24 13:00:00
+SUP-000635,Hyperion Electro Inc #635,Tier-2,Logistics,Active,Netherlands,1998,AA,2022-10-03 14:00:00
+SUP-000636,Optima Systems Inc #636,Tier-1,Raw Materials,Active,United States,1980,B,2022-07-05 14:00:00
+SUP-000637,Zenith Microtech Corp #637,Tier-3,Logistics,Active,Taiwan,1982,BBB,2022-11-13 09:00:00
+SUP-000638,Micro Circuits Ltd #638,Tier-3,Assemblies,Active,United States,1988,A,2022-10-07 13:00:00
+SUP-000639,Frontier Dynamics Holdings #639,Tier-1,Precision Machining,Active,Mexico,1979,BB,2022-03-14 09:00:00
+SUP-000640,Vertex Logistics Ltd #640,Tier-1,Raw Materials,Active,India,2000,BB,2022-03-28 13:00:00
+SUP-000641,Summit Semiconductor S.A. #641,Tier-2,Electronics,Active,India,2012,A,2022-08-07 13:00:00
+SUP-000642,Frontier Systems GmbH #642,Tier-3,Electronics,Under Review,Mexico,1982,CCC,2022-05-19 09:00:00
+SUP-000643,Pacific Dynamics S.A. #643,Tier-2,Precision Machining,Active,United States,2008,AA,2022-06-08 08:00:00
+SUP-000644,Pioneer Robotics GmbH #644,Tier-2,Raw Materials,Active,Mexico,1982,A,2022-08-03 10:00:00
+SUP-000645,Pacific Advanced Holdings #645,Tier-3,Raw Materials,Active,Mexico,1996,AAA,2022-08-22 15:00:00
+SUP-000646,Apex Dynamics S.A. #646,Tier-3,Logistics,Active,United States,2019,AA,2022-09-02 16:00:00
+SUP-000647,Aero Microtech Ltd #647,Tier-1,Precision Machining,Active,Canada,1998,BBB,2022-12-04 16:00:00
+SUP-000648,Delta Foundry Corp #648,Tier-1,Assemblies,Active,Vietnam,1996,AAA,2022-08-04 13:00:00
+SUP-000649,Nexus Optics S.A. #649,Tier-1,Electronics,Active,Canada,2001,A,2022-04-04 09:00:00
+SUP-000650,Vertex Circuits S.A. #650,Tier-3,Packaging,Active,Netherlands,1993,AA,2022-09-21 15:00:00
+SUP-000651,Delta Advanced GmbH #651,Tier-2,Assemblies,Active,Canada,2008,AA,2022-12-21 13:00:00
+SUP-000652,Frontier Silicon Ltd #652,Tier-3,Packaging,Active,Canada,1993,BBB,2022-09-14 12:00:00
+SUP-000653,Global Systems LLC #653,Tier-2,Precision Machining,Active,Taiwan,1983,AA,2022-02-04 17:00:00
+SUP-000654,Vanguard Electro Holdings #654,Tier-3,Assemblies,Active,Mexico,2021,AA,2021-04-21 17:00:00
+SUP-000655,Vertex Semiconductor S.A. #655,Tier-2,Assemblies,Active,United States,2011,A,2022-07-09 13:00:00
+SUP-000656,Global Advanced GmbH #656,Tier-2,Precision Machining,Active,Taiwan,2021,AAA,2021-12-21 14:00:00
+SUP-000657,Apex Industries Technologies #657,Tier-3,Logistics,Active,Germany,1987,A,2022-10-05 11:00:00
+SUP-000658,Delta Logistics Ltd #658,Tier-3,Logistics,Active,Japan,1991,A,2022-06-05 09:00:00
+SUP-000659,Pacific Microtech S.A. #659,Tier-1,Packaging,Active,India,1978,A,2022-08-15 16:00:00
+SUP-000660,Frontier Optics Ltd #660,Tier-1,Raw Materials,Active,Netherlands,1977,A,2022-05-21 08:00:00
+SUP-000661,Aero Machining S.A. #661,Tier-2,Electronics,Active,United States,1999,AA,2022-11-21 14:00:00
+SUP-000662,Summit Systems GmbH #662,Tier-3,Raw Materials,Under Review,Netherlands,1994,A,2022-12-03 17:00:00
+SUP-000663,Atlantic Industries Technologies #663,Tier-2,Assemblies,Active,India,2008,BBB,2022-03-11 10:00:00
+SUP-000664,Apex Materials LLC #664,Tier-3,Electronics,Active,Taiwan,2007,AA,2022-10-19 13:00:00
+SUP-000665,Atlantic Materials Inc #665,Tier-3,Precision Machining,Active,Vietnam,2020,AA,2020-07-28 14:00:00
+SUP-000666,Nexus Microtech Corp #666,Tier-3,Assemblies,Active,South Korea,2013,A,2022-10-21 10:00:00
+SUP-000667,Global Electro Inc #667,Tier-2,Logistics,Active,Germany,2004,A,2022-05-01 13:00:00
+SUP-000668,Omni Semiconductor Inc #668,Tier-2,Assemblies,Active,Canada,2018,AA,2022-07-15 14:00:00
+SUP-000669,Delta Advanced LLC #669,Tier-2,Assemblies,Active,Vietnam,1987,AA,2022-08-27 09:00:00
+SUP-000670,Pacific Machining LLC #670,Tier-3,Logistics,Active,India,1977,CCC,2022-04-13 14:00:00
+SUP-000671,Nexus Semiconductor Inc #671,Tier-1,Electronics,Active,Canada,1981,A,2022-05-18 16:00:00
+SUP-000672,Precision Dynamics Corp #672,Tier-3,Packaging,Active,India,1977,A,2022-02-14 09:00:00
+SUP-000673,Delta Dynamics Holdings #673,Tier-2,Packaging,Active,India,2005,A,2022-05-22 13:00:00
+SUP-000674,Vertex Dynamics Ltd #674,Tier-3,Packaging,Active,Taiwan,1980,BB,2022-06-15 17:00:00
+SUP-000675,Nexus Machining Corp #675,Tier-2,Assemblies,Active,Netherlands,1990,AA,2022-06-11 12:00:00
+SUP-000676,Vertex Machining Ltd #676,Tier-1,Logistics,Active,Mexico,2002,AA,2022-07-12 13:00:00
+SUP-000677,Delta Systems Technologies #677,Tier-3,Assemblies,Active,Canada,1986,A,2022-11-22 10:00:00
+SUP-000678,Omni Circuits LLC #678,Tier-1,Assemblies,Active,South Korea,1985,AA,2022-10-24 13:00:00
+SUP-000679,Zenith Fabrication LLC #679,Tier-2,Precision Machining,Active,South Korea,2008,AA,2022-09-10 12:00:00
+SUP-000680,Omni Machining LLC #680,Tier-3,Raw Materials,Active,India,1993,AA,2022-09-22 08:00:00
+SUP-000681,Summit Circuits Corp #681,Tier-2,Assemblies,Active,Japan,2007,AA,2022-05-28 10:00:00
+SUP-000682,Apex Industries GmbH #682,Tier-2,Precision Machining,Active,Japan,1996,AAA,2022-06-10 13:00:00
+SUP-000683,Vanguard Foundry Holdings #683,Tier-3,Packaging,Active,Netherlands,1984,AAA,2022-06-27 14:00:00
+SUP-000684,Global Advanced Inc #684,Tier-1,Precision Machining,Active,Netherlands,1993,A,2022-08-25 10:00:00
+SUP-000685,Frontier Industries Technologies #685,Tier-1,Precision Machining,Active,Japan,2010,AAA,2022-04-17 14:00:00
+SUP-000686,Nova Robotics Holdings #686,Tier-3,Logistics,Under Review,South Korea,2012,A,2022-07-23 08:00:00
+SUP-000687,Hyperion Robotics LLC #687,Tier-3,Packaging,Active,Japan,1991,A,2022-11-03 10:00:00
+SUP-000688,Vertex Robotics Inc #688,Tier-1,Logistics,Active,Taiwan,1989,B,2022-06-23 16:00:00
+SUP-000689,Hyperion Industries Ltd #689,Tier-3,Raw Materials,Active,Mexico,2017,A,2022-02-02 11:00:00
+SUP-000690,Micro Electro Inc #690,Tier-2,Logistics,Active,Vietnam,2012,AA,2022-05-18 11:00:00
+SUP-000691,Frontier Fabrication Corp #691,Tier-1,Precision Machining,Active,Netherlands,1988,AA,2022-03-23 17:00:00
+SUP-000692,Vertex Electro Inc #692,Tier-1,Assemblies,Active,Vietnam,1990,A,2022-10-25 08:00:00
+SUP-000693,Titan Advanced GmbH #693,Tier-3,Raw Materials,Active,South Korea,2021,A,2021-04-12 15:00:00
+SUP-000694,Pacific Materials Corp #694,Tier-3,Raw Materials,Active,Netherlands,1990,A,2022-09-19 13:00:00
+SUP-000695,Atlantic Electro Corp #695,Tier-2,Packaging,Active,Mexico,2010,A,2022-10-05 13:00:00
+SUP-000696,Summit Microtech GmbH #696,Tier-2,Packaging,Active,Netherlands,2012,BBB,2022-08-15 10:00:00
+SUP-000697,Pacific Systems Holdings #697,Tier-3,Electronics,Active,Mexico,1998,A,2022-11-15 14:00:00
+SUP-000698,Omni Dynamics LLC #698,Tier-2,Precision Machining,Active,Japan,2001,AA,2022-09-26 08:00:00
+SUP-000699,Titan Silicon Holdings #699,Tier-2,Precision Machining,Active,Netherlands,1979,AA,2022-10-02 15:00:00
+SUP-000700,Vertex Systems Technologies #700,Tier-2,Precision Machining,Active,Vietnam,1995,B,2022-12-14 09:00:00
+SUP-000701,Quantum Electro Technologies #701,Tier-2,Logistics,Active,South Korea,1975,AAA,2022-04-04 14:00:00
+SUP-000702,Micro Logistics S.A. #702,Tier-3,Assemblies,Active,Taiwan,2005,A,2022-10-11 08:00:00
+SUP-000703,Nova Fabrication Holdings #703,Tier-3,Packaging,Active,United States,2006,BB,2022-07-22 17:00:00
+SUP-000704,Nexus Microtech Inc #704,Tier-1,Assemblies,Active,Canada,1982,AA,2022-08-07 17:00:00
+SUP-000705,Omni Microtech S.A. #705,Tier-2,Electronics,Active,Mexico,2003,CCC,2022-01-19 12:00:00
+SUP-000706,Omni Foundry S.A. #706,Tier-1,Assemblies,Active,Taiwan,2015,A,2022-12-13 08:00:00
+SUP-000707,Vanguard Robotics LLC #707,Tier-2,Packaging,Active,Vietnam,1975,AA,2022-03-12 08:00:00
+SUP-000708,Pacific Fabrication Corp #708,Tier-1,Raw Materials,Active,Vietnam,1991,A,2022-09-02 08:00:00
+SUP-000709,Apex Dynamics Technologies #709,Tier-2,Precision Machining,Active,Mexico,2004,A,2022-06-11 14:00:00
+SUP-000710,Pacific Dynamics LLC #710,Tier-1,Packaging,Active,Taiwan,2021,AA,2021-03-18 12:00:00
+SUP-000711,Hyperion Advanced Inc #711,Tier-2,Assemblies,Active,Netherlands,2021,A,2021-10-06 08:00:00
+SUP-000712,Nova Machining GmbH #712,Tier-3,Packaging,Active,Germany,1982,BB,2022-10-19 15:00:00
+SUP-000713,Sterling Advanced Ltd #713,Tier-3,Logistics,Active,Taiwan,2016,AA,2022-03-09 12:00:00
+SUP-000714,Optima Materials Inc #714,Tier-2,Electronics,Active,Canada,1981,AA,2022-12-28 13:00:00
+SUP-000715,Nova Dynamics LLC #715,Tier-2,Electronics,Active,Germany,1989,AA,2022-04-14 16:00:00
+SUP-000716,Synergy Logistics S.A. #716,Tier-1,Assemblies,Active,Germany,1986,A,2022-03-21 12:00:00
+SUP-000717,Apex Semiconductor Holdings #717,Tier-1,Precision Machining,Active,Vietnam,2018,A,2022-11-04 13:00:00
+SUP-000718,Precision Optics GmbH #718,Tier-3,Assemblies,Active,India,2004,BB,2022-07-24 11:00:00
+SUP-000719,Aero Electro LLC #719,Tier-2,Precision Machining,Active,India,1992,A,2022-08-26 12:00:00
+SUP-000720,Summit Microtech Corp #720,Tier-2,Assemblies,Active,Vietnam,2007,BBB,2022-05-03 13:00:00
+SUP-000721,Atlantic Electro Ltd #721,Tier-1,Logistics,Active,Mexico,2010,A,2022-06-11 15:00:00
+SUP-000722,Nexus Components Inc #722,Tier-3,Precision Machining,Active,Taiwan,2015,BB,2022-05-04 14:00:00
+SUP-000723,Omni Semiconductor Inc #723,Tier-2,Raw Materials,Active,United States,2009,AA,2022-05-13 15:00:00
+SUP-000724,Apex Components Holdings #724,Tier-3,Packaging,Active,Canada,2011,AA,2022-08-14 16:00:00
+SUP-000725,Synergy Foundry Ltd #725,Tier-2,Packaging,Active,Mexico,2020,AAA,2020-12-11 10:00:00
+SUP-000726,Hyperion Fabrication GmbH #726,Tier-3,Packaging,Active,Canada,2011,AAA,2022-08-16 14:00:00
+SUP-000727,Aero Silicon LLC #727,Tier-2,Electronics,Active,Vietnam,2011,BBB,2022-07-13 16:00:00
+SUP-000728,Omni Advanced Corp #728,Tier-3,Electronics,Active,Canada,2003,AA,2022-08-15 12:00:00
+SUP-000729,Pacific Semiconductor Inc #729,Tier-1,Raw Materials,Active,Taiwan,1996,A,2022-04-18 10:00:00
+SUP-000730,Atlantic Semiconductor Technologies #730,Tier-3,Electronics,Active,South Korea,1989,A,2022-07-15 10:00:00
+SUP-000731,Sterling Circuits Ltd #731,Tier-3,Packaging,Active,India,2015,BBB,2022-07-20 16:00:00
+SUP-000732,Pacific Semiconductor S.A. #732,Tier-2,Electronics,Active,Mexico,2001,BBB,2022-04-27 16:00:00
+SUP-000733,Pioneer Machining Inc #733,Tier-3,Logistics,Active,United States,1992,AAA,2022-12-03 09:00:00
+SUP-000734,Titan Robotics LLC #734,Tier-2,Logistics,Active,Netherlands,1987,AAA,2022-03-13 13:00:00
+SUP-000735,Titan Silicon LLC #735,Tier-2,Electronics,Active,South Korea,2003,BBB,2022-11-19 10:00:00
+SUP-000736,Sterling Electro S.A. #736,Tier-1,Precision Machining,Active,India,1984,A,2022-09-27 17:00:00
+SUP-000737,Nexus Logistics Inc #737,Tier-3,Logistics,Active,South Korea,1995,AA,2022-08-17 13:00:00
+SUP-000738,Vertex Foundry Corp #738,Tier-3,Packaging,Active,Netherlands,1978,A,2022-02-20 09:00:00
+SUP-000739,Hyperion Components LLC #739,Tier-1,Raw Materials,Active,United States,1985,BBB,2022-09-15 12:00:00
+SUP-000740,Omni Dynamics Corp #740,Tier-2,Raw Materials,Active,Mexico,2016,AA,2022-12-14 12:00:00
+SUP-000741,Vertex Foundry GmbH #741,Tier-1,Precision Machining,Active,Mexico,1975,AAA,2022-05-16 16:00:00
+SUP-000742,Nexus Fabrication Corp #742,Tier-2,Electronics,Active,Germany,2002,AA,2022-10-25 08:00:00
+SUP-000743,Hyperion Systems Technologies #743,Tier-3,Raw Materials,Active,India,1986,BBB,2022-07-10 13:00:00
+SUP-000744,Nova Logistics Inc #744,Tier-1,Precision Machining,Active,Taiwan,2001,AA,2022-01-20 09:00:00
+SUP-000745,Omni Circuits S.A. #745,Tier-1,Assemblies,Active,Mexico,2018,AA,2022-01-02 17:00:00
+SUP-000746,Frontier Foundry Technologies #746,Tier-2,Raw Materials,Active,Vietnam,1981,AA,2022-12-04 09:00:00
+SUP-000747,Sterling Machining GmbH #747,Tier-2,Packaging,Active,Japan,2015,AA,2022-05-10 14:00:00
+SUP-000748,Delta Foundry Technologies #748,Tier-2,Precision Machining,Under Review,Vietnam,1978,AA,2022-07-02 17:00:00
+SUP-000749,Apex Machining Holdings #749,Tier-3,Precision Machining,Active,Vietnam,2016,A,2022-07-21 09:00:00
+SUP-000750,Delta Materials LLC #750,Tier-2,Precision Machining,Active,India,2000,BB,2022-07-24 10:00:00
+SUP-000751,Hyperion Materials Technologies #751,Tier-2,Electronics,Active,India,1977,BB,2022-11-18 13:00:00
+SUP-000752,Atlantic Materials LLC #752,Tier-1,Assemblies,Active,Mexico,1979,A,2022-10-05 15:00:00
+SUP-000753,Aero Electro Ltd #753,Tier-3,Electronics,Active,Mexico,1977,A,2022-12-27 13:00:00
+SUP-000754,Hyperion Industries GmbH #754,Tier-1,Packaging,Active,South Korea,2020,AAA,2020-06-16 14:00:00
+SUP-000755,Vertex Foundry Corp #755,Tier-2,Raw Materials,Active,Mexico,1982,A,2022-10-17 10:00:00
+SUP-000756,Hyperion Silicon S.A. #756,Tier-2,Raw Materials,Active,South Korea,1993,BBB,2022-02-17 17:00:00
+SUP-000757,Nova Machining Ltd #757,Tier-2,Packaging,Active,Mexico,1975,BB,2022-06-06 09:00:00
+SUP-000758,Titan Foundry Corp #758,Tier-2,Raw Materials,Active,Mexico,2016,AA,2022-02-01 11:00:00
+SUP-000759,Synergy Advanced Ltd #759,Tier-3,Raw Materials,Active,Taiwan,2019,AA,2022-07-24 12:00:00
+SUP-000760,Pioneer Industries Inc #760,Tier-3,Precision Machining,Active,Vietnam,2016,AAA,2022-01-07 12:00:00
+SUP-000761,Apex Systems LLC #761,Tier-3,Electronics,Active,South Korea,1987,A,2022-09-23 10:00:00
+SUP-000762,Apex Fabrication Holdings #762,Tier-2,Packaging,Active,Germany,2011,AA,2022-08-24 13:00:00
+SUP-000763,Hyperion Advanced Inc #763,Tier-3,Assemblies,Under Review,Vietnam,2006,AA,2022-01-25 16:00:00
+SUP-000764,Hyperion Optics Corp #764,Tier-1,Electronics,Active,Taiwan,2015,AA,2022-02-07 17:00:00
+SUP-000765,Pioneer Systems S.A. #765,Tier-3,Electronics,Active,Mexico,1977,A,2022-03-10 12:00:00
+SUP-000766,Precision Foundry S.A. #766,Tier-2,Raw Materials,Active,Japan,2016,BBB,2022-12-18 13:00:00
+SUP-000767,Quantum Foundry Inc #767,Tier-2,Raw Materials,Active,Mexico,1982,A,2022-09-14 09:00:00
+SUP-000768,Global Logistics GmbH #768,Tier-3,Raw Materials,Active,India,2002,BBB,2022-12-27 10:00:00
+SUP-000769,Summit Silicon LLC #769,Tier-2,Assemblies,Active,Netherlands,2020,BBB,2020-03-23 16:00:00
+SUP-000770,Vertex Materials Inc #770,Tier-2,Assemblies,Active,Mexico,1982,A,2022-10-27 12:00:00
+SUP-000771,Micro Systems LLC #771,Tier-2,Logistics,Active,South Korea,1989,A,2022-01-03 14:00:00
+SUP-000772,Pacific Dynamics Corp #772,Tier-3,Precision Machining,Active,Netherlands,1999,A,2022-12-28 08:00:00
+SUP-000773,Hyperion Logistics GmbH #773,Tier-2,Assemblies,Active,Netherlands,1985,AA,2022-03-11 13:00:00
+SUP-000774,Vertex Components Inc #774,Tier-2,Precision Machining,Active,Canada,2011,BB,2022-01-07 12:00:00
+SUP-000775,Apex Systems S.A. #775,Tier-2,Assemblies,Active,United States,1983,AAA,2022-03-03 13:00:00
+SUP-000776,Vertex Industries S.A. #776,Tier-2,Logistics,Active,United States,1992,AAA,2022-12-12 13:00:00
+SUP-000777,Omni Components GmbH #777,Tier-3,Logistics,Active,Mexico,1993,A,2022-11-13 16:00:00
+SUP-000778,Vanguard Systems Holdings #778,Tier-2,Electronics,Active,South Korea,2010,A,2022-01-28 17:00:00
+SUP-000779,Vanguard Dynamics GmbH #779,Tier-2,Assemblies,Active,India,1983,BBB,2022-09-16 11:00:00
+SUP-000780,Omni Machining Ltd #780,Tier-1,Electronics,Active,Vietnam,2005,A,2022-01-15 08:00:00
+SUP-000781,Atlantic Packaging Corp #781,Tier-3,Raw Materials,Active,Vietnam,1988,BBB,2022-11-11 10:00:00
+SUP-000782,Global Advanced Ltd #782,Tier-1,Packaging,Active,Mexico,2010,A,2022-09-27 15:00:00
+SUP-000783,Atlantic Semiconductor Inc #783,Tier-1,Electronics,Active,Taiwan,1998,A,2022-03-23 10:00:00
+SUP-000784,Pioneer Machining Holdings #784,Tier-3,Precision Machining,Under Review,Japan,2016,AA,2022-04-16 09:00:00
+SUP-000785,Zenith Fabrication LLC #785,Tier-2,Precision Machining,Active,Germany,2014,BB,2022-10-21 14:00:00
+SUP-000786,Hyperion Materials LLC #786,Tier-1,Precision Machining,Active,Germany,2008,AA,2022-04-17 08:00:00
+SUP-000787,Frontier Advanced Holdings #787,Tier-1,Assemblies,Active,Netherlands,2003,A,2022-05-18 10:00:00
+SUP-000788,Global Components Technologies #788,Tier-3,Electronics,Active,Germany,1999,B,2022-07-26 09:00:00
+SUP-000789,Apex Machining GmbH #789,Tier-2,Raw Materials,Active,Canada,2020,A,2020-08-25 12:00:00
+SUP-000790,Delta Dynamics Corp #790,Tier-1,Electronics,Active,Canada,1987,BB,2022-03-07 11:00:00
+SUP-000791,Omni Silicon Corp #791,Tier-1,Precision Machining,Active,South Korea,2012,A,2022-07-24 08:00:00
+SUP-000792,Frontier Semiconductor Technologies #792,Tier-3,Logistics,Active,Canada,1981,AA,2022-11-23 08:00:00
+SUP-000793,Titan Advanced GmbH #793,Tier-1,Precision Machining,Active,Japan,2011,AA,2022-12-03 09:00:00
+SUP-000794,Frontier Robotics Corp #794,Tier-3,Packaging,Active,Netherlands,1985,A,2022-06-05 14:00:00
+SUP-000795,Micro Systems LLC #795,Tier-2,Assemblies,Active,Germany,1982,CCC,2022-02-04 11:00:00
+SUP-000796,Zenith Robotics S.A. #796,Tier-1,Electronics,Active,Canada,1985,BBB,2022-05-22 14:00:00
+SUP-000797,Vertex Systems GmbH #797,Tier-1,Packaging,Active,Netherlands,1990,AAA,2022-05-15 12:00:00
+SUP-000798,Optima Packaging Holdings #798,Tier-3,Logistics,Active,Canada,2007,AAA,2022-11-09 15:00:00
+SUP-000799,Atlantic Logistics Ltd #799,Tier-3,Precision Machining,Active,Vietnam,1985,AAA,2022-04-18 10:00:00
+SUP-000800,Synergy Robotics Corp #800,Tier-3,Precision Machining,Active,United States,1987,A,2022-09-25 14:00:00
+SUP-000801,Omni Industries Ltd #801,Tier-2,Raw Materials,Active,Germany,2020,AA,2020-12-03 10:00:00
+SUP-000802,Optima Semiconductor Technologies #802,Tier-3,Raw Materials,Active,Mexico,1993,AA,2022-01-13 11:00:00
+SUP-000803,Quantum Robotics LLC #803,Tier-2,Raw Materials,Active,Netherlands,1991,B,2022-05-21 14:00:00
+SUP-000804,Omni Materials S.A. #804,Tier-2,Raw Materials,Active,Germany,2018,AA,2022-07-08 11:00:00
+SUP-000805,Sterling Foundry LLC #805,Tier-2,Assemblies,Active,Taiwan,1994,A,2022-02-22 09:00:00
+SUP-000806,Delta Silicon LLC #806,Tier-2,Logistics,Active,Vietnam,1977,BBB,2022-02-20 12:00:00
+SUP-000807,Sterling Microtech Corp #807,Tier-1,Raw Materials,Active,Vietnam,1983,AA,2022-09-22 17:00:00
+SUP-000808,Precision Machining LLC #808,Tier-2,Packaging,Active,Japan,1988,BB,2022-06-10 08:00:00
+SUP-000809,Omni Systems Technologies #809,Tier-2,Packaging,Active,United States,2014,AA,2022-01-21 17:00:00
+SUP-000810,Omni Electro GmbH #810,Tier-3,Electronics,Active,South Korea,1997,AAA,2022-06-26 16:00:00
+SUP-000811,Vertex Microtech GmbH #811,Tier-3,Raw Materials,Active,Taiwan,2000,A,2022-01-27 16:00:00
+SUP-000812,Titan Semiconductor Ltd #812,Tier-1,Raw Materials,Active,South Korea,1989,A,2022-07-16 14:00:00
+SUP-000813,Titan Silicon Inc #813,Tier-2,Packaging,Active,Germany,1979,B,2022-07-17 10:00:00
+SUP-000814,Sterling Industries Ltd #814,Tier-2,Electronics,Active,Mexico,1979,BBB,2022-10-06 16:00:00
+SUP-000815,Apex Components Ltd #815,Tier-3,Assemblies,Active,Mexico,1976,AA,2022-04-06 16:00:00
+SUP-000816,Omni Semiconductor GmbH #816,Tier-3,Precision Machining,Active,Mexico,2021,AA,2021-11-28 16:00:00
+SUP-000817,Hyperion Advanced Inc #817,Tier-3,Packaging,Active,Vietnam,1980,AA,2022-06-02 14:00:00
+SUP-000818,Pioneer Machining Inc #818,Tier-3,Raw Materials,Active,Germany,2013,A,2022-02-06 16:00:00
+SUP-000819,Micro Machining Inc #819,Tier-2,Electronics,Active,India,1986,A,2022-03-06 13:00:00
+SUP-000820,Quantum Materials Holdings #820,Tier-2,Packaging,Active,India,2014,AA,2022-07-18 17:00:00
+SUP-000821,Sterling Advanced Holdings #821,Tier-2,Raw Materials,Active,United States,2013,AA,2022-11-07 10:00:00
+SUP-000822,Titan Foundry Corp #822,Tier-1,Raw Materials,Active,Japan,1992,A,2022-03-19 15:00:00
+SUP-000823,Titan Machining GmbH #823,Tier-2,Assemblies,Active,Mexico,1999,AAA,2022-09-13 16:00:00
+SUP-000824,Summit Foundry Ltd #824,Tier-1,Raw Materials,Active,Netherlands,1976,A,2022-01-09 11:00:00
+SUP-000825,Hyperion Microtech S.A. #825,Tier-3,Logistics,Active,India,2011,BBB,2022-05-11 14:00:00
+SUP-000826,Nova Fabrication Holdings #826,Tier-1,Precision Machining,Active,South Korea,2010,A,2022-03-15 12:00:00
+SUP-000827,Frontier Circuits S.A. #827,Tier-2,Logistics,Active,Mexico,2015,BBB,2022-04-21 14:00:00
+SUP-000828,Micro Advanced Holdings #828,Tier-2,Packaging,Active,Canada,1994,AA,2022-03-02 11:00:00
+SUP-000829,Vanguard Materials Technologies #829,Tier-1,Logistics,Active,Vietnam,1981,A,2022-06-26 11:00:00
+SUP-000830,Nova Silicon Corp #830,Tier-1,Precision Machining,Active,Vietnam,1999,A,2022-05-25 16:00:00
+SUP-000831,Optima Industries GmbH #831,Tier-2,Logistics,Active,Netherlands,1994,A,2022-01-28 13:00:00
+SUP-000832,Delta Silicon S.A. #832,Tier-2,Precision Machining,Under Review,Japan,2016,A,2022-08-21 16:00:00
+SUP-000833,Global Packaging Inc #833,Tier-2,Electronics,Active,Netherlands,2000,B,2022-06-26 12:00:00
+SUP-000834,Optima Dynamics Ltd #834,Tier-1,Precision Machining,Active,Vietnam,1996,AA,2022-08-14 14:00:00
+SUP-000835,Apex Optics Corp #835,Tier-1,Logistics,Active,Japan,1991,AAA,2022-05-02 11:00:00
+SUP-000836,Quantum Materials LLC #836,Tier-1,Precision Machining,Active,Canada,2009,BBB,2022-06-11 15:00:00
+SUP-000837,Nexus Fabrication S.A. #837,Tier-2,Assemblies,Active,Vietnam,2015,AA,2022-06-01 16:00:00
+SUP-000838,Quantum Systems Holdings #838,Tier-2,Assemblies,Active,Vietnam,1985,AA,2022-06-14 10:00:00
+SUP-000839,Zenith Materials Technologies #839,Tier-3,Precision Machining,Active,United States,2014,B,2022-03-25 12:00:00
+SUP-000840,Omni Advanced S.A. #840,Tier-2,Precision Machining,Active,Japan,1990,A,2022-05-05 11:00:00
+SUP-000841,Vanguard Machining S.A. #841,Tier-1,Packaging,Active,Canada,2002,AAA,2022-11-21 15:00:00
+SUP-000842,Omni Robotics LLC #842,Tier-2,Precision Machining,Active,Germany,1982,AAA,2022-08-03 15:00:00
+SUP-000843,Optima Packaging LLC #843,Tier-2,Raw Materials,Active,Vietnam,2010,AAA,2022-03-24 14:00:00
+SUP-000844,Global Materials Holdings #844,Tier-3,Precision Machining,Active,South Korea,1983,AA,2022-06-22 15:00:00
+SUP-000845,Precision Systems Corp #845,Tier-3,Assemblies,Active,Canada,2011,BB,2022-05-13 10:00:00
+SUP-000846,Nova Logistics Corp #846,Tier-2,Raw Materials,Active,Taiwan,1975,AAA,2022-09-12 13:00:00
+SUP-000847,Sterling Foundry Corp #847,Tier-2,Assemblies,Active,Germany,1990,B,2022-09-09 13:00:00
+SUP-000848,Nexus Fabrication GmbH #848,Tier-3,Logistics,Active,Canada,2019,AA,2022-06-14 13:00:00
+SUP-000849,Vertex Foundry LLC #849,Tier-2,Precision Machining,Active,South Korea,1997,AA,2022-07-10 11:00:00
+SUP-000850,Optima Microtech LLC #850,Tier-3,Electronics,Active,Japan,2000,BBB,2022-07-18 11:00:00
+SUP-000851,Hyperion Logistics Technologies #851,Tier-3,Raw Materials,Active,South Korea,2018,BB,2022-01-28 15:00:00
+SUP-000852,Atlantic Silicon GmbH #852,Tier-1,Precision Machining,Active,Netherlands,1989,BB,2022-11-25 15:00:00
+SUP-000853,Summit Electro Holdings #853,Tier-2,Packaging,Active,India,2005,AAA,2022-09-08 12:00:00
+SUP-000854,Aero Robotics Holdings #854,Tier-2,Raw Materials,Active,Japan,1996,AAA,2022-05-23 17:00:00
+SUP-000855,Vanguard Industries LLC #855,Tier-2,Electronics,Active,Vietnam,1990,BB,2022-03-03 12:00:00
+SUP-000856,Titan Materials LLC #856,Tier-3,Assemblies,Active,South Korea,2007,BB,2022-01-12 09:00:00
+SUP-000857,Delta Machining S.A. #857,Tier-3,Raw Materials,Active,Netherlands,2020,AA,2020-12-26 13:00:00
+SUP-000858,Pacific Foundry Ltd #858,Tier-3,Packaging,Active,Japan,1977,AAA,2022-10-24 08:00:00
+SUP-000859,Titan Systems GmbH #859,Tier-3,Assemblies,Active,Japan,2004,AAA,2022-09-16 13:00:00
+SUP-000860,Optima Machining GmbH #860,Tier-3,Packaging,Active,South Korea,2001,A,2022-04-24 09:00:00
+SUP-000861,Summit Electro Ltd #861,Tier-2,Raw Materials,Active,Netherlands,2020,AAA,2020-12-20 11:00:00
+SUP-000862,Sterling Logistics Corp #862,Tier-2,Packaging,Active,Germany,2008,BBB,2022-11-11 17:00:00
+SUP-000863,Nexus Industries LLC #863,Tier-2,Electronics,Active,South Korea,2005,AAA,2022-10-15 17:00:00
+SUP-000864,Sterling Systems Holdings #864,Tier-1,Packaging,Active,Canada,2005,A,2022-06-22 11:00:00
+SUP-000865,Titan Optics Holdings #865,Tier-2,Packaging,Active,Germany,1989,AA,2022-11-09 16:00:00
+SUP-000866,Vanguard Optics Corp #866,Tier-2,Raw Materials,Active,Taiwan,2010,BBB,2022-10-13 11:00:00
+SUP-000867,Pacific Industries S.A. #867,Tier-3,Electronics,Active,United States,1994,AAA,2022-04-23 17:00:00
+SUP-000868,Optima Components Inc #868,Tier-3,Raw Materials,Active,Vietnam,2019,AAA,2022-04-07 16:00:00
+SUP-000869,Synergy Foundry Inc #869,Tier-2,Assemblies,Active,Japan,2006,AA,2022-01-03 13:00:00
+SUP-000870,Apex Industries Corp #870,Tier-2,Electronics,Active,Japan,1979,A,2022-06-03 13:00:00
+SUP-000871,Hyperion Robotics S.A. #871,Tier-1,Precision Machining,Active,United States,2004,AA,2022-02-07 13:00:00
+SUP-000872,Sterling Optics Inc #872,Tier-3,Logistics,Active,Canada,1982,BBB,2022-05-03 10:00:00
+SUP-000873,Vanguard Components LLC #873,Tier-2,Electronics,Active,Taiwan,1988,A,2022-12-07 08:00:00
+SUP-000874,Quantum Fabrication Inc #874,Tier-3,Logistics,Active,Canada,1996,A,2022-11-06 15:00:00
+SUP-000875,Nexus Logistics Holdings #875,Tier-3,Precision Machining,Active,South Korea,2000,AA,2022-07-07 17:00:00
+SUP-000876,Aero Logistics Ltd #876,Tier-2,Assemblies,Active,Netherlands,1979,BB,2022-10-20 16:00:00
+SUP-000877,Delta Packaging Corp #877,Tier-2,Logistics,Active,Canada,1998,A,2022-02-26 14:00:00
+SUP-000878,Delta Machining S.A. #878,Tier-2,Precision Machining,Active,India,2010,AAA,2022-03-14 16:00:00
+SUP-000879,Nexus Circuits Corp #879,Tier-2,Assemblies,Active,Taiwan,2016,BB,2022-11-19 16:00:00
+SUP-000880,Apex Machining GmbH #880,Tier-2,Electronics,Active,India,1996,AAA,2022-03-25 13:00:00
+SUP-000881,Micro Logistics Holdings #881,Tier-3,Packaging,Active,Vietnam,1976,BBB,2022-11-02 11:00:00
+SUP-000882,Hyperion Robotics Ltd #882,Tier-2,Assemblies,Active,India,1997,AAA,2022-11-21 10:00:00
+SUP-000883,Micro Circuits Holdings #883,Tier-3,Assemblies,Active,Germany,1985,AA,2022-11-09 17:00:00
+SUP-000884,Precision Fabrication Holdings #884,Tier-1,Logistics,Active,Mexico,1975,A,2022-10-04 11:00:00
+SUP-000885,Delta Robotics Ltd #885,Tier-2,Logistics,Active,South Korea,2016,BBB,2022-03-21 13:00:00
+SUP-000886,Omni Optics S.A. #886,Tier-3,Raw Materials,Active,India,1979,AAA,2022-09-05 09:00:00
+SUP-000887,Zenith Industries Corp #887,Tier-2,Raw Materials,Active,India,1999,BB,2022-05-03 15:00:00
+SUP-000888,Delta Packaging S.A. #888,Tier-3,Raw Materials,Active,United States,1998,A,2022-12-15 14:00:00
+SUP-000889,Atlantic Components Technologies #889,Tier-1,Raw Materials,Active,Mexico,1988,A,2022-12-22 17:00:00
+SUP-000890,Omni Packaging Holdings #890,Tier-2,Logistics,Active,South Korea,2005,AA,2022-12-16 14:00:00
+SUP-000891,Quantum Packaging Ltd #891,Tier-2,Packaging,Active,United States,1989,AAA,2022-12-06 08:00:00
+SUP-000892,Hyperion Fabrication Technologies #892,Tier-3,Packaging,Active,United States,1986,BB,2022-10-12 13:00:00
+SUP-000893,Zenith Logistics Ltd #893,Tier-2,Logistics,Active,Mexico,1976,AA,2022-11-12 09:00:00
+SUP-000894,Apex Fabrication Ltd #894,Tier-1,Precision Machining,Active,Taiwan,2010,AA,2022-08-19 10:00:00
+SUP-000895,Apex Industries LLC #895,Tier-1,Logistics,Active,South Korea,2014,BBB,2022-12-11 09:00:00
+SUP-000896,Quantum Materials Technologies #896,Tier-3,Precision Machining,Active,Vietnam,1990,A,2022-08-23 09:00:00
+SUP-000897,Titan Fabrication Holdings #897,Tier-1,Raw Materials,Active,United States,1979,B,2022-04-03 09:00:00
+SUP-000898,Sterling Optics Ltd #898,Tier-1,Precision Machining,Active,Mexico,2008,BBB,2022-09-03 14:00:00
+SUP-000899,Sterling Components Holdings #899,Tier-1,Raw Materials,Active,Japan,2017,AA,2022-09-04 08:00:00
+SUP-000900,Synergy Silicon Technologies #900,Tier-2,Raw Materials,Active,Vietnam,2004,BBB,2022-07-08 17:00:00
+SUP-000901,Nexus Machining GmbH #901,Tier-1,Electronics,Active,Japan,2014,A,2022-12-25 11:00:00
+SUP-000902,Zenith Foundry Technologies #902,Tier-2,Precision Machining,Active,Canada,1992,A,2022-11-14 15:00:00
+SUP-000903,Zenith Semiconductor Corp #903,Tier-2,Logistics,Active,United States,1993,BBB,2022-05-08 09:00:00
+SUP-000904,Micro Systems Holdings #904,Tier-1,Electronics,Active,Taiwan,1993,BBB,2022-08-15 13:00:00
+SUP-000905,Hyperion Silicon Ltd #905,Tier-2,Precision Machining,Active,Mexico,1999,AA,2022-05-28 14:00:00
+SUP-000906,Hyperion Silicon Technologies #906,Tier-2,Electronics,Under Review,Vietnam,1992,AAA,2022-06-24 08:00:00
+SUP-000907,Vanguard Logistics Ltd #907,Tier-2,Assemblies,Active,Mexico,1979,AAA,2022-07-03 16:00:00
+SUP-000908,Frontier Foundry Inc #908,Tier-1,Electronics,Under Review,South Korea,1984,AA,2022-06-19 16:00:00
+SUP-000909,Pacific Robotics Corp #909,Tier-1,Assemblies,Active,Germany,2013,AA,2022-12-07 09:00:00
+SUP-000910,Nexus Industries S.A. #910,Tier-2,Raw Materials,Active,Netherlands,2004,BB,2022-12-13 17:00:00
+SUP-000911,Pacific Optics Holdings #911,Tier-3,Logistics,Active,Netherlands,1991,BBB,2022-02-01 11:00:00
+SUP-000912,Apex Silicon Holdings #912,Tier-1,Raw Materials,Active,Vietnam,2014,AAA,2022-06-09 09:00:00
+SUP-000913,Quantum Advanced Ltd #913,Tier-3,Electronics,Active,Germany,2010,A,2022-11-04 14:00:00
+SUP-000914,Zenith Industries Inc #914,Tier-3,Logistics,Active,Vietnam,1997,AA,2022-02-02 14:00:00
+SUP-000915,Precision Microtech LLC #915,Tier-2,Logistics,Active,United States,1977,BBB,2022-02-01 15:00:00
+SUP-000916,Hyperion Advanced LLC #916,Tier-2,Logistics,Active,Canada,1998,A,2022-02-20 16:00:00
+SUP-000917,Nexus Dynamics Holdings #917,Tier-2,Electronics,Active,India,1983,AA,2022-06-12 12:00:00
+SUP-000918,Summit Robotics Inc #918,Tier-2,Precision Machining,Active,Netherlands,1978,BBB,2022-08-26 15:00:00
+SUP-000919,Synergy Microtech GmbH #919,Tier-2,Packaging,Active,Germany,1994,AAA,2022-11-08 12:00:00
+SUP-000920,Micro Machining GmbH #920,Tier-3,Logistics,Active,Japan,2005,AAA,2022-09-15 08:00:00
+SUP-000921,Global Semiconductor LLC #921,Tier-2,Precision Machining,Active,Taiwan,2017,B,2022-02-14 10:00:00
+SUP-000922,Synergy Packaging S.A. #922,Tier-2,Assemblies,Active,Taiwan,2010,AA,2022-10-16 12:00:00
+SUP-000923,Optima Fabrication Technologies #923,Tier-2,Precision Machining,Active,Germany,1991,AA,2022-12-23 08:00:00
+SUP-000924,Synergy Materials Ltd #924,Tier-3,Precision Machining,Active,India,1978,AA,2022-03-11 16:00:00
+SUP-000925,Sterling Dynamics S.A. #925,Tier-3,Assemblies,Active,Netherlands,1998,AAA,2022-01-09 08:00:00
+SUP-000926,Omni Microtech Corp #926,Tier-3,Packaging,Active,Netherlands,2015,AA,2022-09-01 16:00:00
+SUP-000927,Titan Systems Inc #927,Tier-1,Packaging,Active,Netherlands,2010,A,2022-09-10 10:00:00
+SUP-000928,Summit Advanced S.A. #928,Tier-3,Assemblies,Active,Vietnam,2010,BBB,2022-09-28 08:00:00
+SUP-000929,Zenith Circuits Holdings #929,Tier-1,Packaging,Active,Germany,2009,AA,2022-11-02 11:00:00
+SUP-000930,Precision Materials Technologies #930,Tier-1,Logistics,Active,India,1988,AAA,2022-05-01 13:00:00
+SUP-000931,Micro Systems Inc #931,Tier-2,Packaging,Active,Vietnam,1977,BB,2022-01-13 10:00:00
+SUP-000932,Optima Optics S.A. #932,Tier-2,Precision Machining,Active,United States,2006,AAA,2022-08-23 12:00:00
+SUP-000933,Nexus Electro Ltd #933,Tier-2,Assemblies,Active,United States,1998,BBB,2022-04-15 10:00:00
+SUP-000934,Micro Silicon Inc #934,Tier-3,Raw Materials,Active,United States,2021,A,2021-06-07 16:00:00
+SUP-000935,Titan Circuits GmbH #935,Tier-2,Electronics,Active,India,1983,AAA,2022-02-28 13:00:00
+SUP-000936,Sterling Fabrication S.A. #936,Tier-3,Raw Materials,Active,Vietnam,2018,BBB,2022-07-17 16:00:00
+SUP-000937,Aero Electro Corp #937,Tier-1,Assemblies,Active,Mexico,2020,BB,2020-08-17 08:00:00
+SUP-000938,Global Advanced LLC #938,Tier-2,Electronics,Active,India,1991,AAA,2022-02-28 16:00:00
+SUP-000939,Atlantic Circuits Corp #939,Tier-3,Logistics,Active,Mexico,1998,A,2022-10-03 15:00:00
+SUP-000940,Atlantic Fabrication S.A. #940,Tier-3,Electronics,Active,South Korea,1991,AAA,2022-01-01 08:00:00
+SUP-000941,Summit Silicon Technologies #941,Tier-2,Raw Materials,Active,Mexico,2007,A,2022-12-20 17:00:00
+SUP-000942,Apex Circuits Corp #942,Tier-1,Assemblies,Active,Netherlands,2007,A,2022-11-05 09:00:00
+SUP-000943,Vanguard Electro Ltd #943,Tier-2,Assemblies,Active,Netherlands,1983,BBB,2022-01-03 15:00:00
+SUP-000944,Apex Silicon Corp #944,Tier-3,Assemblies,Active,Mexico,1990,A,2022-01-07 15:00:00
+SUP-000945,Omni Fabrication Corp #945,Tier-1,Logistics,Active,Taiwan,2010,A,2022-03-16 10:00:00
+SUP-000946,Omni Foundry GmbH #946,Tier-1,Packaging,Active,Vietnam,1984,AAA,2022-02-18 09:00:00
+SUP-000947,Zenith Dynamics S.A. #947,Tier-3,Raw Materials,Active,Mexico,1985,AA,2022-08-13 09:00:00
+SUP-000948,Apex Industries Holdings #948,Tier-1,Assemblies,Active,Mexico,1984,AA,2022-02-27 09:00:00
+SUP-000949,Quantum Foundry S.A. #949,Tier-2,Electronics,Active,Mexico,2007,BBB,2022-04-25 11:00:00
+SUP-000950,Vanguard Logistics S.A. #950,Tier-3,Electronics,Active,Taiwan,2006,BBB,2022-02-28 09:00:00
+SUP-000951,Global Silicon Holdings #951,Tier-2,Raw Materials,Active,Germany,2012,AA,2022-05-27 09:00:00
+SUP-000952,Apex Silicon Inc #952,Tier-3,Packaging,Active,Vietnam,2007,AA,2022-04-21 12:00:00
+SUP-000953,Sterling Industries Corp #953,Tier-1,Logistics,Active,Canada,2000,AA,2022-01-23 08:00:00
+SUP-000954,Hyperion Optics LLC #954,Tier-3,Packaging,Active,United States,1985,A,2022-05-27 14:00:00
+SUP-000955,Vanguard Components LLC #955,Tier-3,Logistics,Active,Japan,1985,A,2022-10-15 13:00:00
+SUP-000956,Nexus Circuits Ltd #956,Tier-2,Packaging,Active,United States,2018,AAA,2022-10-05 10:00:00
+SUP-000957,Quantum Dynamics Inc #957,Tier-1,Electronics,Active,Netherlands,2014,AA,2022-05-12 16:00:00
+SUP-000958,Titan Semiconductor S.A. #958,Tier-3,Precision Machining,Active,Vietnam,2005,A,2022-11-06 17:00:00
+SUP-000959,Titan Dynamics Holdings #959,Tier-2,Raw Materials,Active,Germany,2004,AA,2022-08-24 17:00:00
+SUP-000960,Synergy Electro Ltd #960,Tier-1,Assemblies,Active,Germany,1988,AA,2022-06-03 13:00:00
+SUP-000961,Pacific Silicon GmbH #961,Tier-3,Logistics,Active,United States,1982,A,2022-03-11 17:00:00
+SUP-000962,Nova Packaging LLC #962,Tier-1,Electronics,Active,Japan,2021,A,2021-09-06 10:00:00
+SUP-000963,Hyperion Circuits S.A. #963,Tier-3,Precision Machining,Active,Germany,2013,AAA,2022-04-23 16:00:00
+SUP-000964,Aero Robotics GmbH #964,Tier-2,Precision Machining,Active,Germany,2002,A,2022-03-03 15:00:00
+SUP-000965,Global Foundry GmbH #965,Tier-2,Packaging,Active,India,2018,AAA,2022-06-14 08:00:00
+SUP-000966,Titan Dynamics Technologies #966,Tier-1,Precision Machining,Active,Taiwan,1981,AA,2022-01-08 14:00:00
+SUP-000967,Sterling Industries S.A. #967,Tier-1,Raw Materials,Active,South Korea,1997,BBB,2022-09-24 14:00:00
+SUP-000968,Nova Logistics Technologies #968,Tier-2,Electronics,Active,United States,1983,AA,2022-12-10 14:00:00
+SUP-000969,Pioneer Logistics Holdings #969,Tier-1,Logistics,Active,Vietnam,2003,BB,2022-09-23 09:00:00
+SUP-000970,Micro Fabrication Inc #970,Tier-3,Packaging,Active,Canada,1981,A,2022-01-22 13:00:00
+SUP-000971,Hyperion Electro Technologies #971,Tier-3,Logistics,Active,Taiwan,1986,BB,2022-01-19 09:00:00
+SUP-000972,Optima Machining LLC #972,Tier-3,Precision Machining,Active,Vietnam,2017,AA,2022-10-21 15:00:00
+SUP-000973,Delta Systems Holdings #973,Tier-2,Precision Machining,Active,Mexico,2014,AA,2022-05-13 17:00:00
+SUP-000974,Aero Machining LLC #974,Tier-3,Assemblies,Active,Germany,2014,AAA,2022-05-14 17:00:00
+SUP-000975,Zenith Microtech Ltd #975,Tier-2,Precision Machining,Active,India,1995,BBB,2022-04-08 15:00:00
+SUP-000976,Pioneer Microtech Inc #976,Tier-2,Precision Machining,Active,India,1984,AA,2022-11-17 09:00:00
+SUP-000977,Sterling Packaging Corp #977,Tier-3,Assemblies,Active,Canada,1992,A,2022-12-11 13:00:00
+SUP-000978,Titan Optics S.A. #978,Tier-1,Precision Machining,Active,Netherlands,2008,AA,2022-06-26 11:00:00
+SUP-000979,Pacific Electro Technologies #979,Tier-1,Precision Machining,Active,South Korea,1992,BB,2022-10-23 13:00:00
+SUP-000980,Sterling Optics Ltd #980,Tier-3,Assemblies,Active,India,2005,BB,2022-11-08 17:00:00
+SUP-000981,Frontier Components Holdings #981,Tier-1,Raw Materials,Active,Japan,1996,A,2022-09-26 09:00:00
+SUP-000982,Sterling Industries GmbH #982,Tier-1,Precision Machining,Active,United States,2010,AA,2022-12-03 13:00:00
+SUP-000983,Synergy Advanced Ltd #983,Tier-1,Precision Machining,Active,South Korea,2016,BBB,2022-01-08 13:00:00
+SUP-000984,Hyperion Advanced Ltd #984,Tier-1,Electronics,Active,Taiwan,2018,AA,2022-05-19 16:00:00
+SUP-000985,Nexus Circuits LLC #985,Tier-3,Assemblies,Active,India,1990,A,2022-02-09 17:00:00
+SUP-000986,Atlantic Components Inc #986,Tier-2,Logistics,Active,India,1987,A,2022-11-09 14:00:00
+SUP-000987,Synergy Logistics Corp #987,Tier-1,Raw Materials,Active,Taiwan,2012,A,2022-09-05 17:00:00
+SUP-000988,Pacific Machining S.A. #988,Tier-2,Raw Materials,Active,Canada,1992,AA,2022-10-18 11:00:00
+SUP-000989,Vanguard Components Inc #989,Tier-2,Packaging,Active,South Korea,1985,A,2022-12-03 10:00:00
+SUP-000990,Precision Components GmbH #990,Tier-2,Electronics,Active,Taiwan,2000,AAA,2022-04-02 08:00:00
+SUP-000991,Hyperion Semiconductor GmbH #991,Tier-1,Raw Materials,Active,Vietnam,2002,A,2022-02-19 14:00:00
+SUP-000992,Apex Dynamics Holdings #992,Tier-3,Raw Materials,Active,Canada,1996,AA,2022-03-01 11:00:00
+SUP-000993,Atlantic Optics Ltd #993,Tier-3,Assemblies,Under Review,Taiwan,1975,BBB,2022-07-27 15:00:00
+SUP-000994,Synergy Dynamics Corp #994,Tier-2,Packaging,Active,Taiwan,1991,A,2022-01-14 17:00:00
+SUP-000995,Optima Circuits S.A. #995,Tier-2,Raw Materials,Active,Netherlands,1984,AA,2022-10-02 10:00:00
+SUP-000996,Delta Fabrication Technologies #996,Tier-3,Precision Machining,Active,Mexico,2000,A,2022-10-11 14:00:00
+SUP-000997,Delta Robotics GmbH #997,Tier-2,Precision Machining,Under Review,Canada,1995,BBB,2022-06-04 08:00:00
+SUP-000998,Delta Microtech Ltd #998,Tier-2,Packaging,Active,Taiwan,2004,A,2022-03-02 11:00:00
+SUP-000999,Micro Components Ltd #999,Tier-2,Packaging,Active,Japan,2016,A,2022-03-01 11:00:00
+SUP-001000,Atlantic Dynamics GmbH #1000,Tier-1,Packaging,Active,India,1975,BBB,2022-11-09 10:00:00

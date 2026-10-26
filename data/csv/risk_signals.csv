@@ -1,0 +1,801 @@
+signal_id,supplier_id,signal_type,severity,confidence_score,detected_at,source,status
+RSK-SUP-000300-2026-01,SUP-000300,Natural Disaster,Medium,0.82,2026-01-08 22:02:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000014-2026-01,SUP-000014,Cyber Breach,Low,0.8,2026-08-20 17:20:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000433-2026-01,SUP-000433,Geopolitical,Critical,0.97,2026-05-13 11:16:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000158-2026-01,SUP-000158,Financial Distress,Medium,0.66,2026-09-17 22:36:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000180-2026-01,SUP-000180,Financial Distress,Medium,0.87,2026-09-14 08:26:00,Port Authority Congestion Feed,Active
+RSK-SUP-000611-2026-01,SUP-000611,Regulatory Non-Compliance,Medium,0.65,2026-06-17 10:34:00,Port Authority Congestion Feed,Active
+RSK-SUP-000495-2026-01,SUP-000495,Cyber Breach,Medium,0.88,2026-05-27 18:21:00,National Labor Relations Watch,Active
+RSK-SUP-000332-2026-01,SUP-000332,Regulatory Non-Compliance,Medium,0.81,2026-02-21 21:06:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000275-2026-01,SUP-000275,Regulatory Non-Compliance,Medium,0.76,2026-04-08 09:47:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000632-2026-01,SUP-000632,Financial Distress,Low,0.66,2026-08-24 11:48:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000788-2026-01,SUP-000788,Financial Distress,Medium,0.74,2026-01-20 07:19:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000991-2026-01,SUP-000991,Financial Distress,Medium,0.7,2026-06-11 08:05:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000192-2026-01,SUP-000192,Financial Distress,Low,0.75,2026-06-10 22:17:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000451-2026-01,SUP-000451,Natural Disaster,Low,0.62,2026-06-24 22:37:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000857-2026-01,SUP-000857,Labor Strike,Low,0.78,2026-02-05 17:01:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000389-2026-01,SUP-000389,Financial Distress,Low,0.8,2026-05-02 15:58:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000275-2026-02,SUP-000275,Cyber Breach,Medium,0.73,2026-05-05 18:54:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000733-2026-01,SUP-000733,Labor Strike,Low,0.81,2026-02-16 07:20:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000483-2026-01,SUP-000483,Geopolitical,Low,0.61,2026-03-22 13:09:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000927-2026-01,SUP-000927,Regulatory Non-Compliance,Low,0.71,2026-07-21 20:40:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000654-2026-01,SUP-000654,Cyber Breach,Medium,0.86,2026-03-06 16:38:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000029-2026-01,SUP-000029,Cyber Breach,Medium,0.7,2026-03-20 11:17:00,Port Authority Congestion Feed,Active
+RSK-SUP-000843-2026-01,SUP-000843,Labor Strike,Low,0.73,2026-04-02 17:57:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000675-2026-01,SUP-000675,Cyber Breach,Medium,0.71,2026-03-30 07:40:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000964-2026-01,SUP-000964,Cyber Breach,Critical,0.79,2026-03-06 09:39:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000931-2026-01,SUP-000931,Geopolitical,Medium,0.79,2026-10-06 12:52:00,National Labor Relations Watch,Active
+RSK-SUP-000064-2026-01,SUP-000064,Cyber Breach,Low,0.76,2026-01-19 06:05:00,National Labor Relations Watch,Active
+RSK-SUP-000511-2026-01,SUP-000511,Regulatory Non-Compliance,Low,0.63,2026-04-20 21:26:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000025-2026-01,SUP-000025,Geopolitical,Low,0.65,2026-10-05 08:01:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000982-2026-01,SUP-000982,Cyber Breach,High,0.76,,,Mitigated
+RSK-SUP-000130-2026-01,SUP-000130,Financial Distress,Medium,0.72,2026-06-09 20:58:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000836-2026-01,SUP-000836,Geopolitical,Medium,0.73,2026-03-14 08:25:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000115-2026-01,SUP-000115,Regulatory Non-Compliance,Low,0.71,2026-03-05 13:59:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000708-2026-01,SUP-000708,Regulatory Non-Compliance,Medium,0.76,2026-05-31 07:06:00,National Labor Relations Watch,Active
+RSK-SUP-000913-2026-01,SUP-000913,Labor Strike,Low,0.77,2026-06-14 18:47:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000500-2026-01,SUP-000500,Geopolitical,Low,0.85,2026-09-22 10:46:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000975-2026-01,SUP-000975,Labor Strike,Medium,0.86,2026-05-10 19:44:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000878-2026-01,SUP-000878,Regulatory Non-Compliance,Medium,0.62,2026-05-01 09:40:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000366-2026-01,SUP-000366,Labor Strike,Medium,0.69,2026-05-18 22:38:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000349-2026-01,SUP-000349,Financial Distress,Low,0.61,2026-09-01 22:46:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000889-2026-01,SUP-000889,Regulatory Non-Compliance,High,0.8,2026-09-07 15:05:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000995-2026-01,SUP-000995,Natural Disaster,High,0.92,2026-02-15 13:26:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000696-2026-01,SUP-000696,Cyber Breach,Medium,0.66,2026-10-17 15:20:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000137-2026-01,SUP-000137,Financial Distress,Low,0.76,2026-08-22 16:01:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000965-2026-01,SUP-000965,Natural Disaster,Low,0.86,2026-05-13 16:59:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000516-2026-01,SUP-000516,Regulatory Non-Compliance,Medium,0.85,2026-08-08 15:56:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000730-2026-01,SUP-000730,Cyber Breach,Medium,0.85,2026-06-01 11:38:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000298-2026-01,SUP-000298,Regulatory Non-Compliance,Medium,0.82,2026-07-12 13:04:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000183-2026-01,SUP-000183,Financial Distress,High,0.83,2026-10-12 07:00:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000873-2026-01,SUP-000873,Cyber Breach,High,0.97,2026-01-21 17:19:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000721-2026-01,SUP-000721,Financial Distress,Low,0.65,2026-03-09 09:15:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000332-2026-02,SUP-000332,Regulatory Non-Compliance,Medium,0.84,2026-08-04 22:42:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000519-2026-01,SUP-000519,Regulatory Non-Compliance,Medium,0.8,2026-09-12 16:12:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000163-2026-01,SUP-000163,Natural Disaster,Low,0.85,2026-03-06 19:21:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000170-2026-01,SUP-000170,Labor Strike,High,0.76,2026-02-16 06:53:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000712-2026-01,SUP-000712,Natural Disaster,Low,0.84,2026-08-29 15:44:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000287-2026-01,SUP-000287,Natural Disaster,Low,0.71,2026-04-28 10:58:00,National Labor Relations Watch,Active
+RSK-SUP-000169-2026-01,SUP-000169,Financial Distress,Medium,0.79,2026-08-19 19:53:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000947-2026-01,SUP-000947,Regulatory Non-Compliance,Low,0.64,2026-06-30 22:31:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000989-2026-01,SUP-000989,Labor Strike,Low,0.72,2026-05-22 11:41:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000856-2026-01,SUP-000856,Cyber Breach,Medium,0.78,2026-06-05 18:31:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000310-2026-01,SUP-000310,Regulatory Non-Compliance,Low,0.73,2026-09-06 08:01:00,Port Authority Congestion Feed,Active
+RSK-SUP-000629-2026-01,SUP-000629,Cyber Breach,Medium,0.69,2026-10-14 17:12:00,Port Authority Congestion Feed,Active
+RSK-SUP-000032-2026-01,SUP-000032,Regulatory Non-Compliance,Medium,0.67,2026-02-18 16:32:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000012-2026-01,SUP-000012,Natural Disaster,Medium,0.95,2026-03-10 12:09:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000396-2026-01,SUP-000396,Labor Strike,Medium,0.78,2026-08-11 08:43:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000788-2026-02,SUP-000788,Natural Disaster,Medium,0.63,2026-08-12 18:51:00,National Labor Relations Watch,Active
+RSK-SUP-000142-2026-01,SUP-000142,Geopolitical,Medium,0.6,2026-03-04 16:48:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000922-2026-01,SUP-000922,Natural Disaster,Critical,0.81,2026-06-24 15:12:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000748-2026-01,SUP-000748,Financial Distress,Medium,0.95,2026-07-17 18:56:00,Port Authority Congestion Feed,Active
+RSK-SUP-000536-2026-01,SUP-000536,Geopolitical,Low,0.87,2026-06-07 10:16:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000693-2026-01,SUP-000693,Natural Disaster,Medium,0.69,2026-05-08 21:16:00,National Labor Relations Watch,Active
+RSK-SUP-000950-2026-01,SUP-000950,Labor Strike,Medium,0.75,2026-03-13 15:11:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000803-2026-01,SUP-000803,Geopolitical,Medium,0.76,2026-02-20 16:33:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000728-2026-01,SUP-000728,Regulatory Non-Compliance,Low,0.64,2026-08-26 12:14:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000076-2026-01,SUP-000076,Regulatory Non-Compliance,Low,0.75,2026-01-25 17:24:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000373-2026-01,SUP-000373,Labor Strike,Low,0.82,2026-09-26 20:44:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000651-2026-01,SUP-000651,Cyber Breach,Medium,0.77,2026-02-17 11:34:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000389-2026-02,SUP-000389,Natural Disaster,Medium,0.64,2026-03-03 06:25:00,Port Authority Congestion Feed,Active
+RSK-SUP-000484-2026-01,SUP-000484,Regulatory Non-Compliance,Medium,0.76,2026-09-22 13:24:00,National Labor Relations Watch,Active
+RSK-SUP-000566-2026-01,SUP-000566,Natural Disaster,Medium,0.81,2026-06-02 16:25:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000446-2026-01,SUP-000446,Geopolitical,High,0.77,2026-06-16 22:41:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000946-2026-01,SUP-000946,Cyber Breach,Medium,0.61,2026-04-16 07:35:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000151-2026-01,SUP-000151,Regulatory Non-Compliance,Medium,0.73,2026-08-11 20:33:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000300-2026-02,SUP-000300,Natural Disaster,Medium,0.77,2026-06-18 13:15:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000975-2026-02,SUP-000975,Financial Distress,Medium,0.82,2026-06-08 16:23:00,National Labor Relations Watch,Active
+RSK-SUP-000818-2026-01,SUP-000818,Regulatory Non-Compliance,Critical,0.78,2026-07-17 15:48:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000728-2026-02,SUP-000728,Natural Disaster,Low,0.74,2026-10-18 19:32:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000732-2026-01,SUP-000732,Regulatory Non-Compliance,Low,0.71,2026-05-31 21:52:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000024-2026-01,SUP-000024,Geopolitical,Medium,0.71,2026-09-12 20:51:00,Port Authority Congestion Feed,Active
+RSK-SUP-000884-2026-01,SUP-000884,Cyber Breach,Low,0.85,2026-07-08 21:09:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000739-2026-01,SUP-000739,Regulatory Non-Compliance,Medium,0.86,2026-10-16 09:18:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000290-2026-01,SUP-000290,Regulatory Non-Compliance,Low,0.73,2026-04-12 08:05:00,National Labor Relations Watch,Active
+RSK-SUP-000739-2026-02,SUP-000739,Geopolitical,Medium,0.87,2026-08-18 15:20:00,National Labor Relations Watch,Active
+RSK-SUP-000946-2026-02,SUP-000946,Geopolitical,Medium,0.85,2026-02-04 11:43:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000874-2026-01,SUP-000874,Financial Distress,Low,0.75,2026-01-22 16:34:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000741-2026-01,SUP-000741,Natural Disaster,Medium,0.87,2026-08-11 21:35:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000102-2026-01,SUP-000102,Financial Distress,Critical,0.94,2026-10-11 06:55:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000772-2026-01,SUP-000772,Natural Disaster,Medium,0.81,2026-03-02 20:30:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000498-2026-01,SUP-000498,Natural Disaster,Critical,0.82,2026-05-01 12:53:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000560-2026-01,SUP-000560,Financial Distress,Critical,0.8,2026-03-14 21:40:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000693-2026-02,SUP-000693,Financial Distress,Low,0.68,2026-10-12 20:13:00,Port Authority Congestion Feed,Active
+RSK-SUP-000476-2026-01,SUP-000476,Natural Disaster,Low,0.87,2026-01-26 07:17:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000134-2026-01,SUP-000134,Financial Distress,Low,0.83,2026-05-18 20:29:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000137-2026-02,SUP-000137,Natural Disaster,Medium,0.86,2026-02-25 20:28:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000916-2026-01,SUP-000916,Financial Distress,Medium,0.79,,,Mitigated
+RSK-SUP-000126-2026-01,SUP-000126,Cyber Breach,Low,0.75,2026-08-02 20:53:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000504-2026-01,SUP-000504,Labor Strike,Low,0.75,2026-02-11 15:46:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000365-2026-01,SUP-000365,Cyber Breach,Low,0.63,2026-02-19 08:27:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000764-2026-01,SUP-000764,Regulatory Non-Compliance,Low,0.72,2026-06-11 20:35:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000504-2026-02,SUP-000504,Labor Strike,Medium,0.67,2026-03-06 14:45:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000286-2026-01,SUP-000286,Cyber Breach,Low,0.78,2026-02-10 18:28:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000079-2026-01,SUP-000079,Financial Distress,Medium,0.7,2026-01-29 09:46:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000690-2026-01,SUP-000690,Labor Strike,Medium,0.7,2026-01-28 11:34:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000829-2026-01,SUP-000829,Financial Distress,Medium,0.62,2026-09-07 21:21:00,Port Authority Congestion Feed,Active
+RSK-SUP-000188-2026-01,SUP-000188,Natural Disaster,Low,0.79,2026-01-16 08:44:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000342-2026-01,SUP-000342,Natural Disaster,Low,0.73,2026-06-27 18:17:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000598-2026-01,SUP-000598,Financial Distress,High,0.92,2026-09-27 15:41:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000336-2026-01,SUP-000336,Labor Strike,Low,0.77,2026-01-25 18:12:00,Port Authority Congestion Feed,Active
+RSK-SUP-000740-2026-01,SUP-000740,Cyber Breach,Low,0.66,2026-03-16 16:31:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000826-2026-01,SUP-000826,Geopolitical,Medium,0.86,2026-01-28 16:05:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000616-2026-01,SUP-000616,Labor Strike,Low,0.8,2026-06-21 17:50:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000190-2026-01,SUP-000190,Geopolitical,Critical,0.96,2026-08-23 12:23:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000068-2026-01,SUP-000068,Geopolitical,Low,0.84,2026-07-03 19:42:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000405-2026-01,SUP-000405,Natural Disaster,Low,0.78,2026-02-20 14:34:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000122-2026-01,SUP-000122,Labor Strike,Medium,0.63,2026-01-11 21:25:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000199-2026-01,SUP-000199,Labor Strike,Medium,0.76,2026-08-23 18:26:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000150-2026-01,SUP-000150,Labor Strike,Low,0.83,2026-08-05 09:29:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000116-2026-01,SUP-000116,Labor Strike,Medium,0.82,2026-07-24 15:44:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000611-2026-02,SUP-000611,Financial Distress,Low,0.79,2026-10-14 15:13:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000019-2026-01,SUP-000019,Regulatory Non-Compliance,Low,0.65,2026-09-25 06:38:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000784-2026-01,SUP-000784,Natural Disaster,Medium,0.86,2026-05-17 06:38:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000376-2026-01,SUP-000376,Labor Strike,Critical,0.85,2026-07-21 06:18:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000368-2026-01,SUP-000368,Cyber Breach,Medium,0.69,2026-01-11 19:58:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000815-2026-01,SUP-000815,Financial Distress,Medium,0.73,2026-03-29 11:28:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000709-2026-01,SUP-000709,Cyber Breach,Medium,0.64,2026-07-28 19:54:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000737-2026-01,SUP-000737,Natural Disaster,Medium,0.63,2026-03-02 17:43:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000431-2026-01,SUP-000431,Cyber Breach,High,0.95,2026-01-17 09:07:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000080-2026-01,SUP-000080,Cyber Breach,Low,0.68,2026-07-27 13:46:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000560-2026-02,SUP-000560,Geopolitical,High,0.8,2026-10-03 06:14:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000296-2026-01,SUP-000296,Regulatory Non-Compliance,Medium,0.84,2026-04-01 07:20:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000513-2026-01,SUP-000513,Regulatory Non-Compliance,Medium,0.74,2026-05-18 12:26:00,Port Authority Congestion Feed,Active
+RSK-SUP-000376-2026-02,SUP-000376,Cyber Breach,High,0.77,2026-02-12 20:31:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000313-2026-01,SUP-000313,Labor Strike,Low,0.81,2026-06-23 06:08:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000009-2026-01,SUP-000009,Cyber Breach,Medium,0.63,2026-06-20 18:41:00,National Labor Relations Watch,Active
+RSK-SUP-000830-2026-01,SUP-000830,Labor Strike,High,0.93,2026-06-03 20:12:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000612-2026-01,SUP-000612,Geopolitical,High,0.81,2026-09-29 12:35:00,Port Authority Congestion Feed,Active
+RSK-SUP-000252-2026-01,SUP-000252,Geopolitical,Medium,0.63,2026-03-23 06:45:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000527-2026-01,SUP-000527,Labor Strike,Medium,0.81,2026-01-08 19:50:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000393-2026-01,SUP-000393,Labor Strike,Medium,0.6,2026-05-01 08:11:00,Port Authority Congestion Feed,Active
+RSK-SUP-000335-2026-01,SUP-000335,Cyber Breach,Medium,0.76,2026-01-25 11:24:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000901-2026-01,SUP-000901,Natural Disaster,Medium,0.61,2026-10-19 22:25:00,National Labor Relations Watch,Active
+RSK-SUP-000043-2026-01,SUP-000043,Labor Strike,Medium,0.76,2026-01-27 15:27:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000853-2026-01,SUP-000853,Geopolitical,Medium,0.7,2026-01-02 08:50:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000813-2026-01,SUP-000813,Cyber Breach,Low,0.64,2026-07-15 08:08:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000439-2026-01,SUP-000439,Natural Disaster,Low,0.72,,,Active
+RSK-SUP-000956-2026-01,SUP-000956,Geopolitical,Medium,0.81,2026-05-17 15:02:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000977-2026-01,SUP-000977,Regulatory Non-Compliance,Medium,0.86,2026-03-25 06:19:00,Port Authority Congestion Feed,Active
+RSK-SUP-000467-2026-01,SUP-000467,Natural Disaster,Medium,0.79,2026-05-17 12:30:00,Port Authority Congestion Feed,Active
+RSK-SUP-000851-2026-01,SUP-000851,Labor Strike,Low,0.83,2026-10-19 14:22:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000806-2026-01,SUP-000806,Geopolitical,Medium,0.7,2026-02-16 21:30:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000507-2026-01,SUP-000507,Financial Distress,Low,0.7,2026-08-21 19:42:00,National Labor Relations Watch,Active
+RSK-SUP-000479-2026-01,SUP-000479,Geopolitical,High,0.92,2026-09-14 18:57:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000447-2026-01,SUP-000447,Natural Disaster,Medium,0.79,2026-01-14 11:42:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000265-2026-01,SUP-000265,Labor Strike,Low,0.72,2026-01-17 17:52:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000859-2026-01,SUP-000859,Natural Disaster,Critical,0.79,2026-06-03 18:25:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000833-2026-01,SUP-000833,Cyber Breach,Critical,0.79,2026-05-24 14:38:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000434-2026-01,SUP-000434,Geopolitical,Medium,0.9,2026-03-14 09:56:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000061-2026-01,SUP-000061,Financial Distress,Medium,0.76,2026-01-15 21:34:00,Port Authority Congestion Feed,Active
+RSK-SUP-000784-2026-02,SUP-000784,Financial Distress,Medium,0.89,2026-08-11 08:01:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000708-2026-02,SUP-000708,Natural Disaster,Critical,0.87,2026-02-11 13:48:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000196-2026-01,SUP-000196,Cyber Breach,Low,0.75,2026-04-29 13:07:00,Port Authority Congestion Feed,Active
+RSK-SUP-000109-2026-01,SUP-000109,Cyber Breach,Medium,0.82,2026-03-26 08:11:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000334-2026-01,SUP-000334,Labor Strike,Low,0.79,2026-07-25 11:56:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000383-2026-01,SUP-000383,Financial Distress,Medium,0.63,2026-03-26 21:07:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000809-2026-01,SUP-000809,Geopolitical,Medium,0.8,2026-06-09 11:15:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000469-2026-01,SUP-000469,Geopolitical,Low,0.8,2026-10-19 06:57:00,National Labor Relations Watch,Active
+RSK-SUP-000336-2026-02,SUP-000336,Financial Distress,Medium,0.95,2026-10-03 06:22:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000587-2026-01,SUP-000587,Financial Distress,Medium,0.71,2026-06-13 08:02:00,National Labor Relations Watch,Active
+RSK-SUP-000804-2026-01,SUP-000804,Financial Distress,Low,0.63,2026-01-12 20:14:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000825-2026-01,SUP-000825,Labor Strike,Medium,0.86,,,Mitigated
+RSK-SUP-000867-2026-01,SUP-000867,Geopolitical,Medium,0.86,2026-05-20 21:03:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000350-2026-01,SUP-000350,Regulatory Non-Compliance,Low,0.66,2026-01-28 16:33:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000851-2026-02,SUP-000851,Geopolitical,Medium,0.81,2026-03-25 21:26:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000325-2026-01,SUP-000325,Financial Distress,Low,0.72,2026-05-28 09:13:00,Port Authority Congestion Feed,Active
+RSK-SUP-000662-2026-01,SUP-000662,Financial Distress,Medium,0.83,2026-04-29 12:27:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000657-2026-01,SUP-000657,Regulatory Non-Compliance,Low,0.67,2026-07-26 09:50:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000704-2026-01,SUP-000704,Natural Disaster,Medium,0.87,2026-05-14 17:22:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000145-2026-01,SUP-000145,Natural Disaster,High,0.81,2026-02-05 13:36:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000848-2026-01,SUP-000848,Labor Strike,Low,0.66,2026-01-21 12:31:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000290-2026-02,SUP-000290,Geopolitical,Medium,0.83,2026-04-20 16:10:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000998-2026-01,SUP-000998,Natural Disaster,Critical,0.93,2026-07-15 22:44:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000838-2026-01,SUP-000838,Cyber Breach,Low,0.62,2026-02-09 06:27:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000018-2026-01,SUP-000018,Regulatory Non-Compliance,Low,0.67,2026-09-10 12:23:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000282-2026-01,SUP-000282,Labor Strike,Medium,0.83,2026-05-25 18:53:00,National Labor Relations Watch,Active
+RSK-SUP-000640-2026-01,SUP-000640,Financial Distress,Low,0.71,2026-10-01 12:43:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000253-2026-01,SUP-000253,Regulatory Non-Compliance,Medium,0.94,2026-07-10 06:14:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000244-2026-01,SUP-000244,Geopolitical,Medium,0.64,2026-08-25 09:15:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000958-2026-01,SUP-000958,Financial Distress,Medium,0.63,2026-07-29 13:21:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000216-2026-01,SUP-000216,Natural Disaster,Low,0.74,2026-05-09 13:12:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000102-2026-02,SUP-000102,Natural Disaster,Medium,0.99,2026-01-03 12:43:00,National Labor Relations Watch,Active
+RSK-SUP-000539-2026-01,SUP-000539,Labor Strike,Low,0.82,2026-09-23 08:10:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000560-2026-03,SUP-000560,Financial Distress,Critical,0.85,2026-07-19 21:19:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000885-2026-01,SUP-000885,Cyber Breach,Medium,0.77,2026-10-22 22:03:00,Port Authority Congestion Feed,Active
+RSK-SUP-000208-2026-01,SUP-000208,Natural Disaster,Low,0.87,2026-01-29 06:45:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000015-2026-01,SUP-000015,Natural Disaster,Low,0.72,2026-06-02 20:39:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000534-2026-01,SUP-000534,Geopolitical,Medium,0.71,2026-07-18 14:48:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000116-2026-02,SUP-000116,Financial Distress,Low,0.72,2026-08-25 16:55:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000022-2026-01,SUP-000022,Natural Disaster,Medium,0.65,2026-08-15 09:41:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000744-2026-01,SUP-000744,Cyber Breach,Medium,0.9,2026-06-04 17:19:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000476-2026-02,SUP-000476,Regulatory Non-Compliance,Low,0.85,2026-04-05 18:30:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000508-2026-01,SUP-000508,Regulatory Non-Compliance,Medium,0.7,2026-10-13 22:08:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000975-2026-03,SUP-000975,Regulatory Non-Compliance,Low,0.8,,,Mitigated
+RSK-SUP-000382-2026-01,SUP-000382,Financial Distress,Medium,0.65,2026-07-09 22:43:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000597-2026-01,SUP-000597,Natural Disaster,Low,0.87,2026-05-28 09:00:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000528-2026-01,SUP-000528,Regulatory Non-Compliance,Medium,0.61,2026-07-11 09:04:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000016-2026-01,SUP-000016,Regulatory Non-Compliance,Medium,0.83,2026-01-31 21:37:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000499-2026-01,SUP-000499,Cyber Breach,Medium,0.69,2026-08-03 13:01:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000593-2026-01,SUP-000593,Financial Distress,Medium,0.8,2026-02-09 11:44:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000222-2026-01,SUP-000222,Regulatory Non-Compliance,Low,0.62,2026-09-13 22:48:00,National Labor Relations Watch,Active
+RSK-SUP-000479-2026-02,SUP-000479,Natural Disaster,Low,0.9,2026-03-12 14:34:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000621-2026-01,SUP-000621,Financial Distress,Low,0.74,2026-06-12 20:40:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000643-2026-01,SUP-000643,Labor Strike,High,0.92,2026-05-22 18:58:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000778-2026-01,SUP-000778,Natural Disaster,Low,0.8,2026-02-12 08:42:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000761-2026-01,SUP-000761,Natural Disaster,Low,0.7,2026-06-06 15:17:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000750-2026-01,SUP-000750,Labor Strike,Medium,0.8,2026-10-08 16:51:00,Port Authority Congestion Feed,Active
+RSK-SUP-000672-2026-01,SUP-000672,Regulatory Non-Compliance,High,0.89,2026-04-10 13:25:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000087-2026-01,SUP-000087,Natural Disaster,Medium,0.91,2026-05-13 14:19:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000352-2026-01,SUP-000352,Geopolitical,Medium,0.85,2026-09-19 19:41:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000428-2026-01,SUP-000428,Natural Disaster,Low,0.79,2026-09-24 10:15:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000020-2026-01,SUP-000020,Labor Strike,Low,0.82,2026-02-09 18:54:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000572-2026-01,SUP-000572,Cyber Breach,Low,0.73,2026-05-14 22:12:00,National Labor Relations Watch,Active
+RSK-SUP-000866-2026-01,SUP-000866,Financial Distress,Low,0.71,2026-05-25 10:26:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000986-2026-01,SUP-000986,Cyber Breach,Medium,0.73,2026-09-05 08:29:00,National Labor Relations Watch,Active
+RSK-SUP-000131-2026-01,SUP-000131,Cyber Breach,Low,0.74,2026-01-22 18:17:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000398-2026-01,SUP-000398,Cyber Breach,Medium,0.94,2026-07-24 19:38:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000255-2026-01,SUP-000255,Regulatory Non-Compliance,Medium,0.77,2026-09-10 11:32:00,National Labor Relations Watch,Active
+RSK-SUP-000819-2026-01,SUP-000819,Geopolitical,Low,0.78,2026-05-28 13:46:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000409-2026-01,SUP-000409,Regulatory Non-Compliance,Medium,0.61,2026-06-18 13:57:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000084-2026-01,SUP-000084,Regulatory Non-Compliance,Low,0.85,2026-08-18 14:03:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000428-2026-02,SUP-000428,Labor Strike,Low,0.6,2026-09-24 07:02:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000120-2026-01,SUP-000120,Regulatory Non-Compliance,Critical,0.89,2026-09-24 20:08:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000435-2026-01,SUP-000435,Cyber Breach,Low,0.78,2026-03-12 07:24:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000244-2026-02,SUP-000244,Geopolitical,Medium,0.75,2026-01-21 12:29:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000884-2026-02,SUP-000884,Regulatory Non-Compliance,Low,0.82,,,Mitigated
+RSK-SUP-000193-2026-01,SUP-000193,Regulatory Non-Compliance,Medium,0.7,2026-02-16 13:57:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000167-2026-01,SUP-000167,Regulatory Non-Compliance,High,0.85,2026-02-02 20:08:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000520-2026-01,SUP-000520,Labor Strike,Low,0.66,2026-02-16 22:00:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000887-2026-01,SUP-000887,Regulatory Non-Compliance,Medium,0.66,2026-05-29 22:34:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000918-2026-01,SUP-000918,Geopolitical,Low,0.61,2026-04-12 18:34:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000923-2026-01,SUP-000923,Natural Disaster,Low,0.86,2026-07-21 20:17:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000419-2026-01,SUP-000419,Geopolitical,Low,0.84,2026-03-14 22:44:00,Port Authority Congestion Feed,Active
+RSK-SUP-000502-2026-01,SUP-000502,Natural Disaster,Medium,0.69,2026-05-03 10:59:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000950-2026-02,SUP-000950,Labor Strike,Low,0.8,2026-07-26 15:38:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000951-2026-01,SUP-000951,Natural Disaster,Low,0.66,2026-09-10 10:29:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000944-2026-01,SUP-000944,Cyber Breach,Low,0.84,2026-04-28 16:35:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000095-2026-01,SUP-000095,Natural Disaster,Low,0.7,2026-04-27 17:51:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000503-2026-01,SUP-000503,Natural Disaster,Medium,0.71,2026-06-20 09:19:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000062-2026-01,SUP-000062,Labor Strike,Low,0.67,2026-01-16 06:44:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000383-2026-02,SUP-000383,Labor Strike,Low,0.69,2026-02-22 17:17:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000689-2026-01,SUP-000689,Natural Disaster,Medium,0.86,2026-03-24 15:38:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000226-2026-01,SUP-000226,Regulatory Non-Compliance,Low,0.74,2026-07-24 13:53:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000309-2026-01,SUP-000309,Labor Strike,Critical,0.95,2026-07-28 20:27:00,Port Authority Congestion Feed,Active
+RSK-SUP-000126-2026-02,SUP-000126,Natural Disaster,Medium,0.78,2026-07-26 06:29:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000683-2026-01,SUP-000683,Financial Distress,Low,0.88,2026-08-31 21:45:00,National Labor Relations Watch,Active
+RSK-SUP-000630-2026-01,SUP-000630,Natural Disaster,Low,0.66,2026-04-30 08:44:00,National Labor Relations Watch,Active
+RSK-SUP-000862-2026-01,SUP-000862,Regulatory Non-Compliance,Medium,0.68,2026-07-06 12:19:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000300-2026-03,SUP-000300,Natural Disaster,Low,0.75,2026-01-13 19:17:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000232-2026-01,SUP-000232,Financial Distress,Medium,0.86,2026-07-19 22:01:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000978-2026-01,SUP-000978,Financial Distress,Medium,0.68,2026-09-03 18:41:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000865-2026-01,SUP-000865,Labor Strike,Medium,0.65,,,Mitigated
+RSK-SUP-000111-2026-01,SUP-000111,Natural Disaster,Medium,0.86,2026-10-18 15:07:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000342-2026-02,SUP-000342,Natural Disaster,Medium,0.83,2026-09-17 13:12:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000354-2026-01,SUP-000354,Natural Disaster,Medium,0.76,2026-01-12 19:43:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000884-2026-03,SUP-000884,Geopolitical,Medium,0.61,2026-09-29 18:40:00,Port Authority Congestion Feed,Active
+RSK-SUP-000001-2026-01,SUP-000001,Financial Distress,Low,0.72,,,Active
+RSK-SUP-000127-2026-01,SUP-000127,Natural Disaster,Low,0.62,2026-03-19 20:53:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000412-2026-01,SUP-000412,Geopolitical,Medium,0.94,2026-07-19 15:39:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000081-2026-01,SUP-000081,Geopolitical,Low,0.85,2026-07-18 17:03:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000896-2026-01,SUP-000896,Regulatory Non-Compliance,Low,0.7,2026-05-05 12:30:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000081-2026-02,SUP-000081,Cyber Breach,Medium,0.75,2026-10-13 06:12:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000172-2026-01,SUP-000172,Financial Distress,Critical,0.87,2026-04-10 09:24:00,Port Authority Congestion Feed,Active
+RSK-SUP-000943-2026-01,SUP-000943,Regulatory Non-Compliance,Low,0.86,2026-09-17 08:39:00,Port Authority Congestion Feed,Active
+RSK-SUP-000533-2026-01,SUP-000533,Financial Distress,Medium,0.64,2026-02-03 20:27:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000393-2026-02,SUP-000393,Regulatory Non-Compliance,Low,0.86,2026-02-23 15:40:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000145-2026-02,SUP-000145,Financial Distress,Medium,0.8,2026-09-03 20:30:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000008-2026-01,SUP-000008,Regulatory Non-Compliance,Medium,0.76,2026-02-06 18:52:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000363-2026-01,SUP-000363,Regulatory Non-Compliance,Medium,0.67,2026-01-04 10:35:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000615-2026-01,SUP-000615,Financial Distress,Medium,0.67,2026-05-14 06:31:00,Port Authority Congestion Feed,Active
+RSK-SUP-000064-2026-02,SUP-000064,Natural Disaster,Medium,0.76,2026-03-07 10:58:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000328-2026-01,SUP-000328,Regulatory Non-Compliance,Medium,0.61,2026-06-24 22:54:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000765-2026-01,SUP-000765,Regulatory Non-Compliance,Medium,0.73,2026-10-06 18:34:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000617-2026-01,SUP-000617,Geopolitical,Low,0.8,2026-03-13 06:56:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000800-2026-01,SUP-000800,Labor Strike,Low,0.75,2026-10-16 20:41:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000539-2026-02,SUP-000539,Regulatory Non-Compliance,Medium,0.86,2026-09-11 20:21:00,National Labor Relations Watch,Active
+RSK-SUP-000841-2026-01,SUP-000841,Geopolitical,Medium,0.8,2026-04-23 15:07:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000463-2026-01,SUP-000463,Financial Distress,Medium,0.64,2026-06-07 09:44:00,National Labor Relations Watch,Active
+RSK-SUP-000412-2026-02,SUP-000412,Labor Strike,Critical,0.89,2026-10-16 14:03:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000897-2026-01,SUP-000897,Cyber Breach,Low,0.88,2026-04-22 12:39:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000359-2026-01,SUP-000359,Cyber Breach,Low,0.76,2026-09-07 22:40:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000308-2026-01,SUP-000308,Labor Strike,Low,0.85,2026-05-26 14:47:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000957-2026-01,SUP-000957,Financial Distress,Low,0.88,2026-02-23 16:52:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000346-2026-01,SUP-000346,Cyber Breach,Medium,0.62,2026-03-02 21:37:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000764-2026-02,SUP-000764,Financial Distress,Low,0.88,2026-09-30 12:11:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000709-2026-02,SUP-000709,Geopolitical,Low,0.68,2026-02-23 19:53:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000648-2026-01,SUP-000648,Geopolitical,Medium,0.78,2026-03-23 13:10:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000196-2026-02,SUP-000196,Geopolitical,Low,0.62,2026-08-19 17:52:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000146-2026-01,SUP-000146,Financial Distress,Medium,0.81,2026-05-14 15:55:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000395-2026-01,SUP-000395,Geopolitical,Low,0.7,2026-10-06 18:04:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000746-2026-01,SUP-000746,Regulatory Non-Compliance,Low,0.82,2026-07-05 18:09:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000692-2026-01,SUP-000692,Geopolitical,High,0.8,2026-03-15 22:03:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000420-2026-01,SUP-000420,Regulatory Non-Compliance,Low,0.69,2026-07-25 08:37:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000986-2026-02,SUP-000986,Financial Distress,Low,0.7,2026-04-04 07:48:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000435-2026-02,SUP-000435,Regulatory Non-Compliance,Medium,0.72,2026-07-03 16:03:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000926-2026-01,SUP-000926,Geopolitical,Medium,0.61,2026-05-05 08:27:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000879-2026-01,SUP-000879,Labor Strike,High,0.79,2026-08-23 16:12:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000534-2026-02,SUP-000534,Natural Disaster,Medium,0.68,2026-03-04 07:13:00,Port Authority Congestion Feed,Active
+RSK-SUP-000417-2026-01,SUP-000417,Regulatory Non-Compliance,Medium,0.71,2026-07-10 10:10:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000173-2026-01,SUP-000173,Geopolitical,Medium,0.87,2026-02-19 13:39:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000317-2026-01,SUP-000317,Labor Strike,Low,0.7,2026-05-15 18:01:00,Port Authority Congestion Feed,Active
+RSK-SUP-000971-2026-01,SUP-000971,Cyber Breach,Medium,0.71,2026-10-02 08:11:00,Port Authority Congestion Feed,Active
+RSK-SUP-000588-2026-01,SUP-000588,Labor Strike,Medium,0.68,2026-02-08 07:49:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000337-2026-01,SUP-000337,Geopolitical,Medium,0.78,2026-06-03 15:17:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000684-2026-01,SUP-000684,Financial Distress,Low,0.62,2026-04-13 19:36:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000297-2026-01,SUP-000297,Geopolitical,Low,0.75,2026-04-09 08:21:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000994-2026-01,SUP-000994,Natural Disaster,Medium,0.72,2026-04-02 22:05:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000636-2026-01,SUP-000636,Labor Strike,Low,0.88,2026-07-24 13:25:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000811-2026-01,SUP-000811,Cyber Breach,Low,0.76,2026-07-02 08:35:00,National Labor Relations Watch,Active
+RSK-SUP-000058-2026-01,SUP-000058,Financial Distress,Medium,0.63,2026-09-24 16:22:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000568-2026-01,SUP-000568,Regulatory Non-Compliance,Medium,0.73,2026-02-13 08:47:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000950-2026-03,SUP-000950,Geopolitical,Low,0.72,2026-08-17 19:36:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000240-2026-01,SUP-000240,Labor Strike,Medium,0.85,2026-04-18 07:24:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000812-2026-01,SUP-000812,Labor Strike,High,0.99,2026-03-08 20:50:00,Port Authority Congestion Feed,Active
+RSK-SUP-000785-2026-01,SUP-000785,Regulatory Non-Compliance,Low,0.81,2026-08-21 08:11:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000551-2026-01,SUP-000551,Natural Disaster,Low,0.72,2026-07-06 11:11:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000654-2026-02,SUP-000654,Regulatory Non-Compliance,Low,0.76,2026-07-23 22:13:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000035-2026-01,SUP-000035,Labor Strike,Low,0.79,2026-06-19 06:41:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000701-2026-01,SUP-000701,Labor Strike,Low,0.72,2026-01-31 08:53:00,National Labor Relations Watch,Active
+RSK-SUP-000663-2026-01,SUP-000663,Natural Disaster,Low,0.62,2026-04-14 07:26:00,National Labor Relations Watch,Active
+RSK-SUP-000876-2026-01,SUP-000876,Natural Disaster,Low,0.82,2026-07-13 17:31:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000803-2026-02,SUP-000803,Natural Disaster,Critical,0.95,2026-05-26 22:25:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000964-2026-02,SUP-000964,Cyber Breach,High,0.77,2026-09-04 19:18:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000881-2026-01,SUP-000881,Regulatory Non-Compliance,Medium,0.84,2026-03-18 13:08:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000765-2026-02,SUP-000765,Geopolitical,Medium,0.79,2026-07-22 18:35:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000114-2026-01,SUP-000114,Labor Strike,Medium,0.61,,,Active
+RSK-SUP-000502-2026-02,SUP-000502,Geopolitical,Medium,0.75,2026-04-16 09:01:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000323-2026-01,SUP-000323,Natural Disaster,Low,0.81,2026-09-03 18:27:00,Port Authority Congestion Feed,Active
+RSK-SUP-000936-2026-01,SUP-000936,Natural Disaster,Medium,0.74,2026-03-12 22:19:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000430-2026-01,SUP-000430,Regulatory Non-Compliance,Low,0.7,2026-06-02 12:05:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000827-2026-01,SUP-000827,Labor Strike,Low,0.86,2026-08-01 21:36:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000364-2026-01,SUP-000364,Labor Strike,Low,0.6,2026-09-23 19:04:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000757-2026-01,SUP-000757,Regulatory Non-Compliance,Low,0.71,2026-01-20 06:47:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000679-2026-01,SUP-000679,Geopolitical,Medium,0.65,,,Active
+RSK-SUP-000008-2026-02,SUP-000008,Regulatory Non-Compliance,Medium,0.86,2026-07-27 13:57:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000823-2026-01,SUP-000823,Financial Distress,Medium,0.7,2026-02-22 19:38:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000636-2026-02,SUP-000636,Regulatory Non-Compliance,Medium,0.84,2026-10-15 06:49:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000526-2026-01,SUP-000526,Cyber Breach,Medium,0.85,2026-06-07 13:22:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000695-2026-01,SUP-000695,Financial Distress,Medium,0.69,2026-10-11 06:31:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000754-2026-01,SUP-000754,Regulatory Non-Compliance,Low,0.69,2026-04-24 22:59:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000439-2026-02,SUP-000439,Regulatory Non-Compliance,Medium,0.7,2026-01-15 13:37:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000192-2026-02,SUP-000192,Natural Disaster,Low,0.75,2026-01-29 11:56:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000626-2026-01,SUP-000626,Regulatory Non-Compliance,Critical,0.88,2026-08-29 17:40:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000812-2026-02,SUP-000812,Labor Strike,Medium,0.84,2026-04-08 15:11:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000517-2026-01,SUP-000517,Cyber Breach,Low,0.61,2026-01-19 20:18:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000995-2026-02,SUP-000995,Geopolitical,Critical,0.96,2026-10-05 08:26:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000409-2026-02,SUP-000409,Labor Strike,Low,0.86,2026-07-23 14:34:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000671-2026-01,SUP-000671,Natural Disaster,High,0.72,2026-06-26 10:51:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000433-2026-02,SUP-000433,Financial Distress,Critical,0.84,2026-07-29 19:50:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000355-2026-01,SUP-000355,Natural Disaster,Low,0.66,2026-07-11 06:32:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000414-2026-01,SUP-000414,Natural Disaster,Medium,0.61,2026-03-15 10:17:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000295-2026-01,SUP-000295,Natural Disaster,Medium,0.79,2026-09-09 14:19:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000176-2026-01,SUP-000176,Regulatory Non-Compliance,Low,0.62,2026-06-27 17:47:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000023-2026-01,SUP-000023,Regulatory Non-Compliance,Low,0.82,2026-02-01 08:05:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000876-2026-02,SUP-000876,Regulatory Non-Compliance,Low,0.65,,,Active
+RSK-SUP-000252-2026-02,SUP-000252,Financial Distress,Low,0.74,2026-04-27 15:13:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000317-2026-02,SUP-000317,Natural Disaster,Medium,0.72,2026-01-08 21:30:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000869-2026-01,SUP-000869,Financial Distress,Medium,0.78,2026-09-22 19:46:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000769-2026-01,SUP-000769,Regulatory Non-Compliance,Low,0.65,2026-03-24 20:26:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000878-2026-02,SUP-000878,Geopolitical,Medium,0.77,,,Mitigated
+RSK-SUP-000213-2026-01,SUP-000213,Cyber Breach,Low,0.7,2026-10-07 07:57:00,National Labor Relations Watch,Active
+RSK-SUP-000295-2026-02,SUP-000295,Cyber Breach,Medium,0.69,2026-06-04 18:57:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000339-2026-01,SUP-000339,Natural Disaster,Medium,0.78,2026-04-22 22:56:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000207-2026-01,SUP-000207,Cyber Breach,Low,0.75,2026-07-17 10:10:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000480-2026-01,SUP-000480,Financial Distress,Medium,0.8,2026-09-21 14:09:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000428-2026-03,SUP-000428,Labor Strike,Medium,0.69,2026-02-01 14:55:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000343-2026-01,SUP-000343,Natural Disaster,Low,0.77,2026-09-25 20:31:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000860-2026-01,SUP-000860,Geopolitical,Medium,0.93,2026-05-30 19:11:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000950-2026-04,SUP-000950,Financial Distress,Medium,0.82,2026-06-03 11:34:00,Port Authority Congestion Feed,Active
+RSK-SUP-000686-2026-01,SUP-000686,Cyber Breach,Medium,0.77,2026-03-09 18:59:00,Port Authority Congestion Feed,Active
+RSK-SUP-000816-2026-01,SUP-000816,Financial Distress,Low,0.77,2026-08-07 07:13:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000874-2026-02,SUP-000874,Cyber Breach,Low,0.84,2026-03-28 15:11:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000883-2026-01,SUP-000883,Natural Disaster,Medium,0.88,2026-04-15 09:29:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000276-2026-01,SUP-000276,Labor Strike,High,0.93,2026-01-13 11:19:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000190-2026-02,SUP-000190,Natural Disaster,Critical,0.98,2026-09-16 20:08:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000184-2026-01,SUP-000184,Financial Distress,Medium,0.86,2026-01-09 22:16:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000275-2026-03,SUP-000275,Geopolitical,Medium,0.68,2026-06-19 18:32:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000154-2026-01,SUP-000154,Geopolitical,Low,0.69,2026-06-13 21:11:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000213-2026-02,SUP-000213,Labor Strike,Medium,0.74,2026-06-15 15:26:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000416-2026-01,SUP-000416,Natural Disaster,Medium,0.84,2026-05-26 16:26:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000360-2026-01,SUP-000360,Geopolitical,Low,0.77,2026-09-26 14:56:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000574-2026-01,SUP-000574,Labor Strike,Medium,0.76,2026-06-11 14:09:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000818-2026-02,SUP-000818,Cyber Breach,High,0.91,2026-09-08 09:53:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000544-2026-01,SUP-000544,Financial Distress,Low,0.75,2026-03-24 21:08:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000989-2026-02,SUP-000989,Financial Distress,Medium,0.66,2026-03-02 12:25:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000537-2026-01,SUP-000537,Geopolitical,Low,0.93,2026-09-16 21:48:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000124-2026-01,SUP-000124,Financial Distress,Low,0.63,2026-07-03 21:11:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000441-2026-01,SUP-000441,Regulatory Non-Compliance,Medium,0.66,2026-08-13 16:57:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000282-2026-02,SUP-000282,Labor Strike,Low,0.61,2026-06-08 17:54:00,Port Authority Congestion Feed,Active
+RSK-SUP-000056-2026-01,SUP-000056,Labor Strike,Medium,0.65,2026-10-03 20:23:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000915-2026-01,SUP-000915,Labor Strike,Low,0.87,2026-07-21 18:39:00,Port Authority Congestion Feed,Active
+RSK-SUP-000966-2026-01,SUP-000966,Cyber Breach,Low,0.83,2026-02-16 09:15:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000880-2026-01,SUP-000880,Geopolitical,Medium,0.83,2026-07-03 16:28:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000751-2026-01,SUP-000751,Financial Distress,Low,0.73,2026-08-06 08:35:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000650-2026-01,SUP-000650,Cyber Breach,Medium,0.72,2026-06-22 14:47:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000260-2026-01,SUP-000260,Regulatory Non-Compliance,Low,0.79,2026-02-02 08:19:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000418-2026-01,SUP-000418,Labor Strike,Medium,0.77,2026-08-22 13:47:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000318-2026-01,SUP-000318,Natural Disaster,High,0.93,2026-05-22 12:35:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000655-2026-01,SUP-000655,Cyber Breach,Low,0.76,2026-01-22 21:09:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000563-2026-01,SUP-000563,Cyber Breach,Low,0.76,2026-05-26 07:21:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000007-2026-01,SUP-000007,Cyber Breach,Low,0.75,2026-05-02 09:41:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000481-2026-01,SUP-000481,Natural Disaster,Low,0.81,2026-08-24 08:02:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000336-2026-03,SUP-000336,Geopolitical,Low,0.77,2026-04-04 15:22:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000073-2026-01,SUP-000073,Regulatory Non-Compliance,Medium,0.7,2026-05-16 13:39:00,National Labor Relations Watch,Active
+RSK-SUP-000317-2026-03,SUP-000317,Natural Disaster,Low,0.92,2026-07-04 16:44:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000119-2026-01,SUP-000119,Cyber Breach,Medium,0.68,2026-07-29 07:18:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000768-2026-01,SUP-000768,Geopolitical,Low,0.8,2026-05-10 09:13:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000056-2026-02,SUP-000056,Cyber Breach,Low,0.82,2026-08-12 12:33:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000757-2026-02,SUP-000757,Cyber Breach,Low,0.76,2026-02-20 06:19:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000110-2026-01,SUP-000110,Geopolitical,Low,0.8,2026-01-23 20:29:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000175-2026-01,SUP-000175,Geopolitical,Low,0.77,2026-02-05 21:49:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000382-2026-02,SUP-000382,Natural Disaster,Low,0.84,2026-07-16 21:29:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000920-2026-01,SUP-000920,Labor Strike,Low,0.85,2026-09-03 12:55:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000714-2026-01,SUP-000714,Geopolitical,Low,0.85,2026-07-30 16:52:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000823-2026-02,SUP-000823,Financial Distress,Medium,0.75,2026-07-31 08:10:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000365-2026-02,SUP-000365,Geopolitical,Low,0.65,2026-08-11 06:38:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000771-2026-01,SUP-000771,Labor Strike,Low,0.81,2026-03-09 17:08:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000440-2026-01,SUP-000440,Geopolitical,Medium,0.74,2026-05-14 16:31:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000881-2026-02,SUP-000881,Financial Distress,Low,0.78,2026-01-29 14:00:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000470-2026-01,SUP-000470,Regulatory Non-Compliance,Low,0.86,2026-08-06 06:34:00,Port Authority Congestion Feed,Active
+RSK-SUP-000240-2026-02,SUP-000240,Natural Disaster,Low,0.78,2026-10-09 10:51:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000401-2026-01,SUP-000401,Labor Strike,Low,0.66,2026-05-29 08:23:00,National Labor Relations Watch,Active
+RSK-SUP-000242-2026-01,SUP-000242,Regulatory Non-Compliance,Medium,0.96,2026-04-29 15:35:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000842-2026-01,SUP-000842,Financial Distress,High,0.97,2026-04-27 18:19:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000589-2026-01,SUP-000589,Financial Distress,Medium,0.66,2026-06-09 14:32:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000035-2026-02,SUP-000035,Labor Strike,Low,0.69,2026-04-29 14:57:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000460-2026-01,SUP-000460,Financial Distress,Critical,0.83,2026-03-12 18:42:00,Port Authority Congestion Feed,Active
+RSK-SUP-000470-2026-02,SUP-000470,Cyber Breach,Medium,0.67,2026-02-22 21:07:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000751-2026-02,SUP-000751,Regulatory Non-Compliance,High,0.87,2026-06-06 11:32:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000773-2026-01,SUP-000773,Geopolitical,Low,0.76,2026-05-02 18:47:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000550-2026-01,SUP-000550,Regulatory Non-Compliance,Medium,0.85,2026-01-29 15:17:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000963-2026-01,SUP-000963,Financial Distress,Low,0.73,2026-01-18 08:16:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000141-2026-01,SUP-000141,Geopolitical,Low,0.84,2026-07-18 12:09:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000681-2026-01,SUP-000681,Labor Strike,Medium,0.63,2026-08-02 15:36:00,National Labor Relations Watch,Active
+RSK-SUP-000607-2026-01,SUP-000607,Cyber Breach,Medium,0.84,2026-02-16 17:51:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000430-2026-02,SUP-000430,Regulatory Non-Compliance,Medium,0.65,2026-04-15 07:28:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000574-2026-02,SUP-000574,Financial Distress,Low,0.76,2026-10-17 20:34:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000655-2026-02,SUP-000655,Financial Distress,Medium,0.94,2026-10-06 19:14:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000584-2026-01,SUP-000584,Natural Disaster,Medium,0.81,2026-05-14 10:03:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000131-2026-02,SUP-000131,Natural Disaster,Medium,0.79,2026-10-06 10:26:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000729-2026-01,SUP-000729,Natural Disaster,High,0.94,2026-04-28 18:53:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000979-2026-01,SUP-000979,Geopolitical,Low,0.61,2026-06-04 07:46:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000803-2026-03,SUP-000803,Natural Disaster,Critical,0.94,2026-01-29 22:50:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000291-2026-01,SUP-000291,Cyber Breach,Medium,0.91,2026-07-28 17:36:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000218-2026-01,SUP-000218,Cyber Breach,Medium,0.79,2026-04-10 22:31:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000580-2026-01,SUP-000580,Natural Disaster,Medium,0.67,2026-01-28 22:08:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000071-2026-01,SUP-000071,Geopolitical,Low,0.62,2026-10-19 11:26:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000584-2026-02,SUP-000584,Geopolitical,Medium,0.64,2026-01-14 06:04:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000716-2026-01,SUP-000716,Natural Disaster,Medium,0.63,2026-02-12 22:15:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000270-2026-01,SUP-000270,Natural Disaster,Medium,0.7,2026-04-17 09:10:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000382-2026-03,SUP-000382,Regulatory Non-Compliance,Medium,0.73,2026-05-03 06:56:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000790-2026-01,SUP-000790,Natural Disaster,Low,0.87,2026-03-04 14:35:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000958-2026-02,SUP-000958,Labor Strike,Medium,0.86,2026-09-06 21:59:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000393-2026-03,SUP-000393,Cyber Breach,Medium,0.71,2026-01-17 07:32:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000139-2026-01,SUP-000139,Regulatory Non-Compliance,Medium,0.74,2026-04-11 12:49:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000251-2026-01,SUP-000251,Cyber Breach,Medium,0.72,2026-10-20 07:04:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000561-2026-01,SUP-000561,Financial Distress,Low,0.71,2026-02-16 10:58:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000658-2026-01,SUP-000658,Natural Disaster,Low,0.67,2026-04-20 06:22:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000496-2026-01,SUP-000496,Cyber Breach,Medium,0.78,2026-08-05 19:12:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000910-2026-01,SUP-000910,Regulatory Non-Compliance,Low,0.81,2026-04-11 10:46:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000514-2026-01,SUP-000514,Geopolitical,Low,0.66,2026-04-10 20:31:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000649-2026-01,SUP-000649,Geopolitical,Critical,0.88,2026-05-28 17:25:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000451-2026-02,SUP-000451,Geopolitical,Low,0.75,2026-04-08 09:20:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000352-2026-02,SUP-000352,Labor Strike,Low,0.87,2026-06-19 09:49:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000544-2026-02,SUP-000544,Labor Strike,Medium,0.75,2026-07-16 17:27:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000988-2026-01,SUP-000988,Financial Distress,Medium,0.76,2026-04-04 06:53:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000695-2026-02,SUP-000695,Natural Disaster,Medium,0.87,2026-01-04 20:30:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000628-2026-01,SUP-000628,Financial Distress,Critical,0.98,2026-08-05 22:34:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000336-2026-04,SUP-000336,Natural Disaster,Medium,0.76,2026-07-17 09:35:00,Port Authority Congestion Feed,Active
+RSK-SUP-000829-2026-02,SUP-000829,Geopolitical,Low,0.64,2026-09-25 09:05:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000952-2026-01,SUP-000952,Geopolitical,Medium,0.72,2026-09-16 08:32:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000312-2026-01,SUP-000312,Natural Disaster,Low,0.93,2026-03-17 19:57:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000916-2026-02,SUP-000916,Regulatory Non-Compliance,Medium,0.84,2026-09-17 07:29:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000709-2026-03,SUP-000709,Cyber Breach,Low,0.62,2026-08-21 12:42:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000052-2026-01,SUP-000052,Financial Distress,Medium,0.73,2026-08-19 21:07:00,National Labor Relations Watch,Active
+RSK-SUP-000849-2026-01,SUP-000849,Regulatory Non-Compliance,Medium,0.85,2026-08-27 21:17:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000604-2026-01,SUP-000604,Geopolitical,Medium,0.88,2026-01-07 21:22:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000523-2026-01,SUP-000523,Cyber Breach,Critical,0.85,2026-05-18 22:32:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000766-2026-01,SUP-000766,Natural Disaster,Low,0.77,2026-04-27 14:02:00,Port Authority Congestion Feed,Active
+RSK-SUP-000145-2026-03,SUP-000145,Geopolitical,Medium,0.91,2026-05-10 08:38:00,National Labor Relations Watch,Active
+RSK-SUP-000271-2026-01,SUP-000271,Natural Disaster,Medium,0.76,2026-04-15 15:25:00,National Labor Relations Watch,Active
+RSK-SUP-000216-2026-02,SUP-000216,Financial Distress,Medium,0.65,2026-10-04 21:50:00,Port Authority Congestion Feed,Active
+RSK-SUP-000135-2026-01,SUP-000135,Natural Disaster,High,0.83,,,Mitigated
+RSK-SUP-000758-2026-01,SUP-000758,Financial Distress,Medium,0.78,2026-05-17 09:30:00,National Labor Relations Watch,Active
+RSK-SUP-000847-2026-01,SUP-000847,Financial Distress,Low,0.87,2026-03-16 08:54:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000893-2026-01,SUP-000893,Natural Disaster,Medium,0.75,2026-02-09 18:30:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000477-2026-01,SUP-000477,Cyber Breach,Medium,0.7,2026-06-08 07:20:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000709-2026-04,SUP-000709,Labor Strike,Low,0.76,2026-09-22 21:10:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000540-2026-01,SUP-000540,Geopolitical,Medium,0.86,2026-04-28 11:47:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000786-2026-01,SUP-000786,Geopolitical,Low,0.75,2026-10-17 06:25:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000795-2026-01,SUP-000795,Labor Strike,Medium,0.76,2026-04-27 14:42:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000853-2026-02,SUP-000853,Financial Distress,Medium,0.66,2026-09-12 12:04:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000969-2026-01,SUP-000969,Geopolitical,Medium,0.87,2026-10-21 07:12:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000201-2026-01,SUP-000201,Cyber Breach,Medium,0.71,2026-02-28 09:40:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000224-2026-01,SUP-000224,Natural Disaster,Low,0.83,2026-05-08 12:44:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000754-2026-02,SUP-000754,Financial Distress,Medium,0.85,2026-10-14 11:58:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000823-2026-03,SUP-000823,Cyber Breach,Low,0.65,2026-09-13 18:39:00,National Labor Relations Watch,Active
+RSK-SUP-000968-2026-01,SUP-000968,Cyber Breach,Medium,0.81,2026-04-18 12:52:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000791-2026-01,SUP-000791,Labor Strike,Critical,0.85,2026-06-20 07:36:00,National Labor Relations Watch,Active
+RSK-SUP-000687-2026-01,SUP-000687,Labor Strike,Low,0.6,2026-08-11 17:43:00,Port Authority Congestion Feed,Active
+RSK-SUP-000894-2026-01,SUP-000894,Geopolitical,Low,0.79,2026-06-06 11:33:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000510-2026-01,SUP-000510,Labor Strike,Medium,0.74,2026-04-26 16:19:00,National Labor Relations Watch,Active
+RSK-SUP-000594-2026-01,SUP-000594,Natural Disaster,Low,0.83,2026-01-08 07:39:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000303-2026-01,SUP-000303,Geopolitical,Medium,0.62,2026-08-10 10:53:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000505-2026-01,SUP-000505,Cyber Breach,Low,0.73,2026-04-23 11:17:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000472-2026-01,SUP-000472,Cyber Breach,Medium,0.72,2026-01-04 07:30:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000578-2026-01,SUP-000578,Natural Disaster,Medium,0.61,2026-01-10 17:06:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000517-2026-02,SUP-000517,Labor Strike,Medium,0.86,2026-06-19 06:28:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000725-2026-01,SUP-000725,Cyber Breach,Medium,0.86,2026-01-15 13:27:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000093-2026-01,SUP-000093,Financial Distress,Medium,0.73,2026-10-01 06:23:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000957-2026-02,SUP-000957,Natural Disaster,Low,0.84,2026-04-05 17:28:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000661-2026-01,SUP-000661,Geopolitical,Medium,0.83,2026-05-06 16:13:00,Port Authority Congestion Feed,Active
+RSK-SUP-000868-2026-01,SUP-000868,Regulatory Non-Compliance,Low,0.63,2026-08-31 17:16:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000356-2026-01,SUP-000356,Financial Distress,Medium,0.64,2026-04-21 19:16:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000890-2026-01,SUP-000890,Financial Distress,Low,0.73,2026-07-25 07:00:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000461-2026-01,SUP-000461,Geopolitical,Medium,0.86,2026-05-23 06:39:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000103-2026-01,SUP-000103,Financial Distress,Medium,0.68,2026-10-18 21:41:00,National Labor Relations Watch,Active
+RSK-SUP-000449-2026-01,SUP-000449,Labor Strike,Medium,0.74,2026-04-25 22:04:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000356-2026-02,SUP-000356,Geopolitical,Medium,0.6,2026-09-29 12:00:00,Port Authority Congestion Feed,Active
+RSK-SUP-000042-2026-01,SUP-000042,Labor Strike,Medium,0.74,2026-09-06 17:08:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000250-2026-01,SUP-000250,Natural Disaster,Medium,0.62,2026-09-20 17:52:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000116-2026-03,SUP-000116,Regulatory Non-Compliance,Medium,0.61,2026-01-27 07:35:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000711-2026-01,SUP-000711,Natural Disaster,High,0.93,2026-05-07 20:02:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000109-2026-02,SUP-000109,Cyber Breach,Low,0.8,2026-09-13 12:22:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000179-2026-01,SUP-000179,Geopolitical,Low,0.88,2026-06-01 13:13:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000771-2026-02,SUP-000771,Financial Distress,Low,0.81,2026-09-28 06:40:00,National Labor Relations Watch,Active
+RSK-SUP-000302-2026-01,SUP-000302,Labor Strike,Low,0.81,2026-06-10 18:44:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000364-2026-02,SUP-000364,Geopolitical,Low,0.88,2026-03-09 20:44:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000134-2026-02,SUP-000134,Natural Disaster,Medium,0.74,2026-07-17 10:06:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000274-2026-01,SUP-000274,Financial Distress,Medium,0.62,2026-03-05 08:59:00,Port Authority Congestion Feed,Active
+RSK-SUP-000382-2026-04,SUP-000382,Financial Distress,Medium,0.74,2026-08-20 06:33:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000350-2026-02,SUP-000350,Cyber Breach,Medium,0.73,2026-09-27 11:51:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000525-2026-01,SUP-000525,Natural Disaster,Medium,0.79,2026-06-15 19:33:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000212-2026-01,SUP-000212,Natural Disaster,Medium,0.77,2026-08-09 08:36:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000068-2026-02,SUP-000068,Financial Distress,Low,0.6,2026-05-01 21:59:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000358-2026-01,SUP-000358,Geopolitical,High,0.79,2026-06-16 12:46:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000494-2026-01,SUP-000494,Labor Strike,Medium,0.63,2026-01-21 12:11:00,Port Authority Congestion Feed,Active
+RSK-SUP-000755-2026-01,SUP-000755,Cyber Breach,Medium,0.75,2026-01-05 10:15:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000982-2026-02,SUP-000982,Cyber Breach,High,0.83,2026-04-10 18:13:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000366-2026-02,SUP-000366,Regulatory Non-Compliance,Medium,0.68,2026-04-18 13:35:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000948-2026-01,SUP-000948,Labor Strike,Medium,0.86,2026-01-23 07:53:00,National Labor Relations Watch,Active
+RSK-SUP-000062-2026-02,SUP-000062,Cyber Breach,Low,0.78,2026-10-09 11:33:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000884-2026-04,SUP-000884,Financial Distress,Medium,0.81,2026-09-13 14:06:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000069-2026-01,SUP-000069,Natural Disaster,Low,0.63,2026-06-20 13:39:00,National Labor Relations Watch,Active
+RSK-SUP-000497-2026-01,SUP-000497,Labor Strike,High,0.96,2026-01-28 13:34:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000482-2026-01,SUP-000482,Geopolitical,High,0.92,2026-10-22 21:02:00,Port Authority Congestion Feed,Active
+RSK-SUP-000756-2026-01,SUP-000756,Regulatory Non-Compliance,Low,0.71,2026-10-16 22:24:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000878-2026-03,SUP-000878,Labor Strike,Low,0.81,2026-10-08 22:47:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000932-2026-01,SUP-000932,Natural Disaster,High,0.77,2026-01-20 09:06:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000022-2026-02,SUP-000022,Financial Distress,Low,0.71,2026-07-14 22:00:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000235-2026-01,SUP-000235,Regulatory Non-Compliance,High,0.77,2026-01-13 14:44:00,Port Authority Congestion Feed,Active
+RSK-SUP-000014-2026-02,SUP-000014,Cyber Breach,Medium,0.83,2026-02-05 07:43:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000030-2026-01,SUP-000030,Geopolitical,Low,0.88,2026-02-10 22:16:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000297-2026-02,SUP-000297,Geopolitical,Low,0.61,2026-07-08 13:10:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000293-2026-01,SUP-000293,Natural Disaster,Low,0.72,2026-06-13 13:41:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000397-2026-01,SUP-000397,Cyber Breach,Critical,0.8,2026-04-17 10:54:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000223-2026-01,SUP-000223,Labor Strike,Medium,0.87,2026-05-14 12:48:00,National Labor Relations Watch,Active
+RSK-SUP-000066-2026-01,SUP-000066,Labor Strike,Low,0.64,2026-05-12 06:19:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000855-2026-01,SUP-000855,Cyber Breach,Medium,0.76,2026-05-03 21:20:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000106-2026-01,SUP-000106,Geopolitical,Low,0.88,2026-02-12 07:28:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000654-2026-03,SUP-000654,Regulatory Non-Compliance,Medium,0.62,2026-09-21 15:49:00,National Labor Relations Watch,Active
+RSK-SUP-000543-2026-01,SUP-000543,Regulatory Non-Compliance,Medium,0.66,2026-09-21 19:33:00,National Labor Relations Watch,Active
+RSK-SUP-000473-2026-01,SUP-000473,Financial Distress,Medium,0.81,2026-04-11 15:38:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000838-2026-02,SUP-000838,Geopolitical,Low,0.84,2026-10-09 22:53:00,Port Authority Congestion Feed,Active
+RSK-SUP-000142-2026-02,SUP-000142,Geopolitical,Low,0.75,2026-07-06 20:09:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000940-2026-01,SUP-000940,Labor Strike,Critical,0.92,2026-05-05 07:56:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000222-2026-02,SUP-000222,Natural Disaster,Low,0.62,2026-07-07 09:49:00,Port Authority Congestion Feed,Active
+RSK-SUP-000678-2026-01,SUP-000678,Regulatory Non-Compliance,Medium,0.64,2026-08-05 13:31:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000690-2026-02,SUP-000690,Cyber Breach,Medium,0.72,2026-02-02 21:19:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000917-2026-01,SUP-000917,Cyber Breach,Low,0.85,2026-07-04 21:14:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000246-2026-01,SUP-000246,Cyber Breach,Low,0.84,2026-09-26 14:15:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000974-2026-01,SUP-000974,Regulatory Non-Compliance,Medium,0.77,2026-03-04 15:00:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000017-2026-01,SUP-000017,Labor Strike,Low,0.84,2026-09-05 12:02:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000513-2026-02,SUP-000513,Natural Disaster,Medium,0.61,2026-02-26 16:07:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000058-2026-02,SUP-000058,Natural Disaster,Low,0.83,2026-01-31 22:46:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000717-2026-01,SUP-000717,Geopolitical,Low,0.83,2026-07-02 18:26:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000258-2026-01,SUP-000258,Natural Disaster,Medium,0.77,2026-06-22 15:29:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000442-2026-01,SUP-000442,Cyber Breach,Low,0.8,2026-04-26 14:24:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000504-2026-03,SUP-000504,Regulatory Non-Compliance,Medium,0.72,2026-04-29 16:19:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000765-2026-03,SUP-000765,Natural Disaster,Medium,0.67,2026-10-10 07:02:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000599-2026-01,SUP-000599,Natural Disaster,High,0.84,2026-06-09 17:48:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000401-2026-02,SUP-000401,Financial Distress,Low,0.7,2026-04-16 12:04:00,National Labor Relations Watch,Active
+RSK-SUP-000648-2026-02,SUP-000648,Natural Disaster,Low,0.71,2026-01-06 19:34:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000861-2026-01,SUP-000861,Labor Strike,Medium,0.86,2026-01-23 07:39:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000692-2026-02,SUP-000692,Labor Strike,Medium,0.87,2026-01-05 11:53:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000783-2026-01,SUP-000783,Regulatory Non-Compliance,Medium,0.87,2026-02-19 18:03:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000313-2026-02,SUP-000313,Natural Disaster,Low,0.63,2026-07-29 18:23:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000075-2026-01,SUP-000075,Financial Distress,Low,0.84,2026-07-17 15:06:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000052-2026-02,SUP-000052,Labor Strike,Low,0.68,2026-05-25 13:24:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000671-2026-02,SUP-000671,Geopolitical,Medium,0.78,2026-05-20 12:30:00,Port Authority Congestion Feed,Active
+RSK-SUP-000847-2026-02,SUP-000847,Cyber Breach,Medium,0.67,2026-03-23 17:35:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000625-2026-01,SUP-000625,Geopolitical,Medium,0.86,2026-08-09 10:46:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000553-2026-01,SUP-000553,Natural Disaster,Low,0.66,2026-08-07 08:35:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000223-2026-02,SUP-000223,Regulatory Non-Compliance,Low,0.78,2026-07-10 10:11:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000016-2026-02,SUP-000016,Regulatory Non-Compliance,Medium,0.83,2026-05-18 08:44:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000613-2026-01,SUP-000613,Natural Disaster,Medium,0.74,2026-08-09 15:27:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000665-2026-01,SUP-000665,Geopolitical,Medium,0.84,2026-01-16 21:20:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000041-2026-01,SUP-000041,Natural Disaster,Low,0.87,2026-07-06 20:58:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000174-2026-01,SUP-000174,Geopolitical,Low,0.68,2026-09-03 13:52:00,Port Authority Congestion Feed,Active
+RSK-SUP-000260-2026-02,SUP-000260,Natural Disaster,Low,0.62,,,Active
+RSK-SUP-000934-2026-01,SUP-000934,Labor Strike,Low,0.64,2026-05-25 06:29:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000567-2026-01,SUP-000567,Labor Strike,Low,0.67,2026-06-29 12:04:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000804-2026-02,SUP-000804,Geopolitical,Low,0.71,2026-01-20 13:18:00,Port Authority Congestion Feed,Active
+RSK-SUP-000822-2026-01,SUP-000822,Natural Disaster,Medium,0.92,2026-06-03 08:47:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000248-2026-01,SUP-000248,Geopolitical,Low,0.82,2026-01-13 22:58:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000298-2026-02,SUP-000298,Cyber Breach,Medium,0.68,2026-08-14 18:53:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000667-2026-01,SUP-000667,Financial Distress,Medium,0.69,2026-04-24 17:40:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000092-2026-01,SUP-000092,Labor Strike,High,0.83,2026-01-04 16:36:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000994-2026-02,SUP-000994,Geopolitical,Low,0.78,2026-06-15 16:38:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000642-2026-01,SUP-000642,Labor Strike,Medium,0.84,2026-05-14 13:00:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000504-2026-04,SUP-000504,Financial Distress,Low,0.83,2026-10-10 17:49:00,National Labor Relations Watch,Active
+RSK-SUP-000737-2026-02,SUP-000737,Cyber Breach,Medium,0.66,2026-08-05 07:43:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000429-2026-01,SUP-000429,Labor Strike,Low,0.64,2026-03-12 07:26:00,National Labor Relations Watch,Active
+RSK-SUP-000921-2026-01,SUP-000921,Labor Strike,Medium,0.77,2026-09-03 18:22:00,National Labor Relations Watch,Active
+RSK-SUP-000388-2026-01,SUP-000388,Regulatory Non-Compliance,Medium,0.76,2026-01-23 12:32:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000103-2026-02,SUP-000103,Geopolitical,Low,0.68,2026-05-08 18:54:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000566-2026-02,SUP-000566,Cyber Breach,Medium,0.65,,,Mitigated
+RSK-SUP-000157-2026-01,SUP-000157,Financial Distress,Low,0.78,2026-09-14 21:17:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000340-2026-01,SUP-000340,Cyber Breach,Medium,0.73,2026-08-14 22:38:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000804-2026-03,SUP-000804,Natural Disaster,Medium,0.88,2026-07-11 16:34:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000660-2026-01,SUP-000660,Natural Disaster,Low,0.69,2026-08-18 16:52:00,National Labor Relations Watch,Active
+RSK-SUP-000581-2026-01,SUP-000581,Cyber Breach,Low,0.79,2026-04-12 17:14:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000709-2026-05,SUP-000709,Financial Distress,Medium,0.76,2026-08-13 12:14:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000191-2026-01,SUP-000191,Natural Disaster,Low,0.85,2026-07-25 18:49:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000811-2026-02,SUP-000811,Cyber Breach,Low,0.68,2026-03-31 14:45:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000045-2026-01,SUP-000045,Natural Disaster,Critical,0.86,2026-02-04 17:20:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000667-2026-02,SUP-000667,Natural Disaster,Medium,0.68,2026-04-01 11:44:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000123-2026-01,SUP-000123,Geopolitical,High,0.99,2026-08-27 13:55:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000408-2026-01,SUP-000408,Geopolitical,Medium,0.81,2026-05-01 15:14:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000088-2026-01,SUP-000088,Cyber Breach,Critical,0.92,2026-02-04 06:00:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000802-2026-01,SUP-000802,Geopolitical,Low,0.85,2026-03-20 12:27:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000958-2026-03,SUP-000958,Labor Strike,Low,0.73,2026-02-07 14:34:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000137-2026-03,SUP-000137,Geopolitical,Medium,0.62,2026-02-13 07:49:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000241-2026-01,SUP-000241,Financial Distress,Low,0.85,2026-02-04 21:21:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000422-2026-01,SUP-000422,Regulatory Non-Compliance,Low,0.8,2026-07-21 13:55:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000740-2026-02,SUP-000740,Natural Disaster,Medium,0.67,2026-03-03 07:11:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000616-2026-02,SUP-000616,Natural Disaster,Medium,0.63,2026-01-13 20:30:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000433-2026-03,SUP-000433,Geopolitical,High,0.78,2026-10-01 11:54:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000673-2026-01,SUP-000673,Natural Disaster,Medium,0.95,2026-04-22 20:49:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000593-2026-02,SUP-000593,Geopolitical,Critical,0.8,2026-01-22 09:37:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000735-2026-01,SUP-000735,Cyber Breach,Low,0.88,2026-06-16 12:01:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000032-2026-02,SUP-000032,Geopolitical,Medium,0.86,2026-05-27 21:18:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000745-2026-01,SUP-000745,Cyber Breach,Medium,0.96,2026-01-22 16:08:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000914-2026-01,SUP-000914,Labor Strike,Medium,0.79,2026-03-26 17:28:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000166-2026-01,SUP-000166,Regulatory Non-Compliance,Medium,0.67,2026-06-04 10:05:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000316-2026-01,SUP-000316,Natural Disaster,Critical,0.86,2026-04-03 10:42:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000045-2026-02,SUP-000045,Financial Distress,Critical,0.99,2026-03-23 19:46:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000876-2026-03,SUP-000876,Regulatory Non-Compliance,Low,0.87,2026-10-19 08:09:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000392-2026-01,SUP-000392,Labor Strike,High,0.76,2026-01-24 10:44:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000364-2026-03,SUP-000364,Regulatory Non-Compliance,Low,0.63,2026-09-28 12:31:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000303-2026-02,SUP-000303,Natural Disaster,Low,0.63,2026-07-23 18:42:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000904-2026-01,SUP-000904,Geopolitical,Low,0.85,2026-06-05 22:47:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000255-2026-02,SUP-000255,Natural Disaster,Medium,0.87,2026-10-07 22:54:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000998-2026-02,SUP-000998,Cyber Breach,Medium,0.81,2026-04-05 22:01:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000414-2026-02,SUP-000414,Cyber Breach,Low,0.77,2026-01-01 13:07:00,National Labor Relations Watch,Active
+RSK-SUP-000542-2026-01,SUP-000542,Labor Strike,Low,0.68,2026-09-15 22:42:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000988-2026-02,SUP-000988,Natural Disaster,Low,0.86,2026-05-01 18:27:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000954-2026-01,SUP-000954,Regulatory Non-Compliance,Critical,0.89,2026-01-24 19:14:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000377-2026-01,SUP-000377,Labor Strike,Low,0.87,2026-07-27 20:09:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000970-2026-01,SUP-000970,Labor Strike,Medium,0.62,2026-07-09 07:14:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000402-2026-01,SUP-000402,Regulatory Non-Compliance,Critical,0.9,2026-10-05 09:48:00,National Labor Relations Watch,Active
+RSK-SUP-000157-2026-02,SUP-000157,Cyber Breach,Low,0.83,2026-07-18 11:51:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000958-2026-04,SUP-000958,Cyber Breach,Low,0.7,2026-09-12 14:24:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000292-2026-01,SUP-000292,Regulatory Non-Compliance,Medium,0.7,2026-02-17 17:20:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000480-2026-02,SUP-000480,Financial Distress,Low,0.73,2026-08-06 06:01:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000186-2026-01,SUP-000186,Geopolitical,Low,0.85,2026-05-22 22:15:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000261-2026-01,SUP-000261,Natural Disaster,Low,0.74,2026-05-18 20:06:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000724-2026-01,SUP-000724,Cyber Breach,Medium,0.65,2026-04-23 09:51:00,National Labor Relations Watch,Active
+RSK-SUP-000849-2026-02,SUP-000849,Labor Strike,Critical,0.95,2026-09-09 13:32:00,National Labor Relations Watch,Active
+RSK-SUP-000985-2026-01,SUP-000985,Cyber Breach,Medium,0.87,2026-09-13 19:12:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000765-2026-04,SUP-000765,Regulatory Non-Compliance,Low,0.76,2026-01-25 22:16:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000852-2026-01,SUP-000852,Natural Disaster,Low,0.68,2026-06-17 08:28:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000316-2026-02,SUP-000316,Geopolitical,Critical,0.78,2026-03-31 08:28:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000022-2026-03,SUP-000022,Natural Disaster,Medium,0.83,2026-03-04 11:36:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000022-2026-04,SUP-000022,Regulatory Non-Compliance,Medium,0.83,2026-04-13 07:42:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000155-2026-01,SUP-000155,Natural Disaster,Medium,0.88,2026-06-07 06:26:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000475-2026-01,SUP-000475,Regulatory Non-Compliance,Low,0.7,2026-07-25 15:42:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000736-2026-01,SUP-000736,Financial Distress,Medium,0.69,2026-06-25 10:36:00,National Labor Relations Watch,Active
+RSK-SUP-000921-2026-02,SUP-000921,Labor Strike,Low,0.68,2026-05-05 21:27:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000213-2026-03,SUP-000213,Labor Strike,Medium,0.79,2026-07-26 12:03:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000318-2026-02,SUP-000318,Natural Disaster,Low,0.84,2026-02-28 13:29:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000695-2026-03,SUP-000695,Cyber Breach,Low,0.71,2026-01-10 11:32:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000413-2026-01,SUP-000413,Financial Distress,Low,0.8,2026-03-25 06:59:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000574-2026-03,SUP-000574,Natural Disaster,Low,0.64,2026-03-01 13:11:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000159-2026-01,SUP-000159,Financial Distress,Medium,0.85,2026-08-27 12:40:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000885-2026-02,SUP-000885,Natural Disaster,Low,0.7,2026-01-14 12:40:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000553-2026-02,SUP-000553,Labor Strike,Low,0.7,2026-04-25 19:57:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000589-2026-02,SUP-000589,Cyber Breach,Medium,0.61,2026-04-26 16:13:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000521-2026-01,SUP-000521,Financial Distress,Medium,0.81,2026-01-03 06:23:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000083-2026-01,SUP-000083,Financial Distress,Low,0.72,2026-02-12 08:12:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000606-2026-01,SUP-000606,Geopolitical,Medium,0.86,2026-08-08 06:39:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000675-2026-02,SUP-000675,Regulatory Non-Compliance,Low,0.63,2026-04-01 13:28:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000115-2026-02,SUP-000115,Cyber Breach,Medium,0.67,2026-05-13 21:04:00,National Labor Relations Watch,Active
+RSK-SUP-000270-2026-02,SUP-000270,Geopolitical,Medium,0.64,2026-08-11 14:18:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000579-2026-01,SUP-000579,Regulatory Non-Compliance,Medium,0.93,2026-05-23 07:14:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000760-2026-01,SUP-000760,Cyber Breach,Low,0.69,2026-02-21 10:17:00,Port Authority Congestion Feed,Active
+RSK-SUP-000426-2026-01,SUP-000426,Geopolitical,Low,0.85,2026-02-24 19:50:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000114-2026-02,SUP-000114,Regulatory Non-Compliance,Low,0.83,2026-09-10 21:33:00,National Labor Relations Watch,Active
+RSK-SUP-000954-2026-02,SUP-000954,Financial Distress,High,0.9,2026-07-08 06:32:00,National Labor Relations Watch,Active
+RSK-SUP-000089-2026-01,SUP-000089,Regulatory Non-Compliance,Critical,0.79,2026-01-28 16:08:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000333-2026-01,SUP-000333,Regulatory Non-Compliance,Medium,0.75,2026-02-27 19:58:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000866-2026-02,SUP-000866,Financial Distress,Low,0.71,2026-01-20 13:29:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000757-2026-03,SUP-000757,Regulatory Non-Compliance,Medium,0.83,2026-01-19 16:32:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000898-2026-01,SUP-000898,Cyber Breach,Medium,0.72,2026-09-16 21:29:00,National Labor Relations Watch,Active
+RSK-SUP-000826-2026-02,SUP-000826,Financial Distress,Low,0.84,2026-10-05 18:51:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000203-2026-01,SUP-000203,Financial Distress,Medium,0.67,2026-02-08 13:50:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000610-2026-01,SUP-000610,Geopolitical,Medium,0.78,2026-01-24 20:31:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000259-2026-01,SUP-000259,Regulatory Non-Compliance,High,0.78,2026-09-21 12:31:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000087-2026-02,SUP-000087,Natural Disaster,High,0.82,2026-09-27 06:25:00,Port Authority Congestion Feed,Active
+RSK-SUP-000322-2026-01,SUP-000322,Geopolitical,Medium,0.77,2026-09-15 06:41:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000771-2026-03,SUP-000771,Regulatory Non-Compliance,Low,0.6,2026-02-02 06:57:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000180-2026-02,SUP-000180,Regulatory Non-Compliance,Low,0.62,2026-04-29 10:11:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000628-2026-02,SUP-000628,Cyber Breach,High,0.84,2026-02-23 18:14:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000839-2026-01,SUP-000839,Cyber Breach,Medium,0.72,2026-02-17 22:03:00,National Labor Relations Watch,Active
+RSK-SUP-000287-2026-02,SUP-000287,Cyber Breach,Low,0.65,2026-04-10 19:24:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000634-2026-01,SUP-000634,Financial Distress,High,0.92,2026-01-02 06:26:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000326-2026-01,SUP-000326,Cyber Breach,Low,0.76,2026-07-20 11:38:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000253-2026-02,SUP-000253,Labor Strike,Medium,0.88,2026-06-29 14:09:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000477-2026-02,SUP-000477,Labor Strike,Medium,0.84,2026-07-07 09:28:00,Port Authority Congestion Feed,Active
+RSK-SUP-000646-2026-01,SUP-000646,Natural Disaster,Low,0.78,2026-05-04 08:51:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000854-2026-01,SUP-000854,Financial Distress,Low,0.75,2026-07-16 09:55:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000905-2026-01,SUP-000905,Natural Disaster,Low,0.7,2026-06-15 12:46:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000361-2026-01,SUP-000361,Cyber Breach,Low,0.85,2026-04-15 18:11:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000227-2026-01,SUP-000227,Cyber Breach,Medium,0.76,2026-02-22 06:43:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000750-2026-02,SUP-000750,Natural Disaster,Low,0.81,2026-07-12 07:13:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000012-2026-02,SUP-000012,Cyber Breach,Critical,0.91,2026-02-22 16:04:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000503-2026-02,SUP-000503,Financial Distress,Medium,0.78,2026-07-07 22:27:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000288-2026-01,SUP-000288,Natural Disaster,Low,0.68,2026-02-15 06:44:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000192-2026-03,SUP-000192,Cyber Breach,Low,0.84,2026-05-30 08:50:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000583-2026-01,SUP-000583,Natural Disaster,Low,0.88,2026-10-22 20:54:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000072-2026-01,SUP-000072,Natural Disaster,Medium,0.61,2026-04-30 10:58:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000450-2026-01,SUP-000450,Cyber Breach,Medium,0.6,2026-01-12 13:16:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000176-2026-02,SUP-000176,Natural Disaster,Medium,0.83,2026-01-03 08:23:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000056-2026-03,SUP-000056,Geopolitical,Low,0.87,2026-04-25 07:35:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000442-2026-02,SUP-000442,Labor Strike,Medium,0.61,2026-10-12 20:30:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000421-2026-01,SUP-000421,Regulatory Non-Compliance,Low,0.83,2026-05-21 10:03:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000780-2026-01,SUP-000780,Labor Strike,Low,0.95,2026-02-09 17:37:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000354-2026-02,SUP-000354,Cyber Breach,Medium,0.86,2026-04-18 08:52:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000993-2026-01,SUP-000993,Financial Distress,Medium,0.83,2026-05-30 17:06:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000866-2026-03,SUP-000866,Geopolitical,Low,0.61,2026-02-13 11:08:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000035-2026-03,SUP-000035,Labor Strike,Medium,0.79,2026-02-24 15:03:00,Port Authority Congestion Feed,Active
+RSK-SUP-000845-2026-01,SUP-000845,Labor Strike,Low,0.67,2026-08-15 06:11:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000351-2026-01,SUP-000351,Financial Distress,Medium,0.71,2026-08-12 17:56:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000537-2026-02,SUP-000537,Natural Disaster,Medium,0.85,2026-03-30 12:04:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000968-2026-02,SUP-000968,Labor Strike,Medium,0.64,2026-10-21 15:43:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000389-2026-03,SUP-000389,Natural Disaster,Low,0.67,2026-06-09 08:02:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000776-2026-01,SUP-000776,Natural Disaster,Medium,0.74,2026-03-15 18:28:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000624-2026-01,SUP-000624,Geopolitical,Low,0.69,2026-08-21 07:56:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000044-2026-01,SUP-000044,Labor Strike,High,0.77,2026-03-13 17:30:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000237-2026-01,SUP-000237,Financial Distress,Medium,0.93,2026-01-15 12:27:00,NOAA Severe Weather Alert,Mitigated
+RSK-SUP-000987-2026-01,SUP-000987,Cyber Breach,Low,0.78,2026-02-22 09:14:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000894-2026-02,SUP-000894,Natural Disaster,Medium,0.69,2026-10-16 13:19:00,National Labor Relations Watch,Active
+RSK-SUP-000583-2026-02,SUP-000583,Financial Distress,Low,0.8,2026-06-04 06:24:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000991-2026-02,SUP-000991,Geopolitical,Medium,0.77,2026-03-19 21:00:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000978-2026-02,SUP-000978,Labor Strike,Low,0.65,2026-01-14 15:41:00,Port Authority Congestion Feed,Active
+RSK-SUP-000015-2026-02,SUP-000015,Cyber Breach,Low,0.88,2026-03-03 06:23:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000386-2026-01,SUP-000386,Labor Strike,Low,0.77,2026-01-02 07:33:00,Port Authority Congestion Feed,Active
+RSK-SUP-000461-2026-02,SUP-000461,Natural Disaster,Low,0.63,2026-09-03 07:53:00,National Labor Relations Watch,Active
+RSK-SUP-000815-2026-02,SUP-000815,Geopolitical,Medium,0.72,2026-03-23 11:27:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000974-2026-02,SUP-000974,Regulatory Non-Compliance,High,0.85,2026-07-09 19:04:00,Reuters Supply Chain Monitor,Mitigated
+RSK-SUP-000506-2026-01,SUP-000506,Cyber Breach,Medium,0.86,2026-08-27 13:12:00,Reuters Supply Chain Monitor,Active
+RSK-SUP-000295-2026-03,SUP-000295,Financial Distress,Low,0.77,2026-09-22 08:31:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000670-2026-01,SUP-000670,Natural Disaster,Medium,0.62,2026-08-04 16:14:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000126-2026-03,SUP-000126,Regulatory Non-Compliance,Low,0.83,2026-08-15 17:37:00,ISO Audit Regulatory Body,Mitigated
+RSK-SUP-000413-2026-02,SUP-000413,Natural Disaster,Low,0.86,2026-08-11 21:25:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000119-2026-02,SUP-000119,Regulatory Non-Compliance,Low,0.86,2026-08-22 09:57:00,Global Cybersecurity Alert Hub,Active
+RSK-SUP-000711-2026-02,SUP-000711,Cyber Breach,High,0.89,2026-03-04 10:39:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000774-2026-01,SUP-000774,Cyber Breach,Low,0.61,2026-09-01 09:29:00,Dun & Bradstreet Risk Analytics,Active
+RSK-SUP-000176-2026-03,SUP-000176,Regulatory Non-Compliance,Low,0.68,2026-01-26 21:27:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000206-2026-01,SUP-000206,Natural Disaster,Low,0.62,2026-06-15 21:36:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000388-2026-02,SUP-000388,Natural Disaster,Low,0.86,2026-08-03 20:50:00,Port Authority Congestion Feed,Mitigated
+RSK-SUP-000386-2026-02,SUP-000386,Geopolitical,Medium,0.78,2026-04-23 20:27:00,Dun & Bradstreet Risk Analytics,Mitigated
+RSK-SUP-000046-2026-01,SUP-000046,Financial Distress,Medium,0.87,2026-03-24 20:03:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000310-2026-02,SUP-000310,Geopolitical,Low,0.69,2026-01-16 15:41:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000591-2026-01,SUP-000591,Cyber Breach,Low,0.73,2026-03-17 20:16:00,Port Authority Congestion Feed,Active
+RSK-SUP-000553-2026-03,SUP-000553,Financial Distress,Medium,0.73,2026-03-01 06:04:00,NOAA Severe Weather Alert,Active
+RSK-SUP-000360-2026-02,SUP-000360,Natural Disaster,Medium,0.65,2026-02-09 21:36:00,Global Cybersecurity Alert Hub,Mitigated
+RSK-SUP-000081-2026-03,SUP-000081,Cyber Breach,Low,0.64,2026-07-14 21:46:00,Port Authority Congestion Feed,Active
+RSK-SUP-000887-2026-02,SUP-000887,Cyber Breach,Medium,0.83,2026-03-25 15:22:00,ISO Audit Regulatory Body,Active
+RSK-SUP-000666-2026-01,SUP-000666,Labor Strike,Low,0.78,2026-06-02 07:51:00,National Labor Relations Watch,Mitigated
+RSK-SUP-000476-2026-03,SUP-000476,Geopolitical,Medium,0.74,2026-07-16 16:32:00,NOAA Severe Weather Alert,Active

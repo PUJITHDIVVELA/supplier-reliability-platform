@@ -1,0 +1,152 @@
+{
+  "project": "Supplier Reliability Scoring Platform",
+  "version": "1.0.0",
+  "scale": "full",
+  "seed": 20261022,
+  "generated_at": "2026-10-26T15:54:30.400225",
+  "lawful_provenance": "100% synthetic deterministic data generated without proprietary/confidential PII under lawful use.",
+  "row_counts": {
+    "suppliers": 1000,
+    "sites": 1634,
+    "contracts": 1256,
+    "purchase_orders": 10000,
+    "po_lines": 20044,
+    "shipments": 15000,
+    "delivery_events": 45000,
+    "inspections": 20000,
+    "invoices": 10000,
+    "risk_signals": 800,
+    "supplier_scores": 1000,
+    "ground_truth_anomalies": 70
+  },
+  "files": {
+    "csv/suppliers.csv": {
+      "rows": 1000,
+      "sha256": "5aa47d619578461f5c39af7acb96c3324e81d1c28b21f7b26cc802d26717d5e5",
+      "bytes": 102713
+    },
+    "csv/sites.csv": {
+      "rows": 1634,
+      "sha256": "d6db9d3204d0a96c8e81cfdb130f0d304d3572377e8a6c09eabab61e16682f2e",
+      "bytes": 320247
+    },
+    "csv/contracts.csv": {
+      "rows": 1256,
+      "sha256": "05d60b7ad3e73b7ea042dd60c1badab36abf57691265cf9cc4734acb2c74205c",
+      "bytes": 121892
+    },
+    "csv/purchase_orders.csv": {
+      "rows": 10000,
+      "sha256": "8d546cffdd6b2ec49c6025a69791af201c66a00f257e66a4ce19c2a1ed74f5f4",
+      "bytes": 1444158
+    },
+    "csv/po_lines.csv": {
+      "rows": 20044,
+      "sha256": "40a708b7d03a17da231da3c001fc990d24f7db0746d090049f48a924c982a390",
+      "bytes": 2620837
+    },
+    "csv/shipments.csv": {
+      "rows": 15000,
+      "sha256": "353ede661eaaef9d203ccb965d24c7cecf52052178be7ff72fb252c7d2dfeff0",
+      "bytes": 1927030
+    },
+    "csv/delivery_events.csv": {
+      "rows": 45000,
+      "sha256": "71f85c4187612ed05218bc1367c56003e2c1a46b5aff7faf48288f0c62b0dd3b",
+      "bytes": 6349354
+    },
+    "csv/inspections.csv": {
+      "rows": 20000,
+      "sha256": "983ebfacfc11450ce42b57d257add009266b0b9e6cf754363063de7769299505",
+      "bytes": 2114003
+    },
+    "csv/invoices.csv": {
+      "rows": 10000,
+      "sha256": "8f95726daaf528cce3f3ddeeee715ee6c35abaf244d2dca5a5efc77246663651",
+      "bytes": 963758
+    },
+    "csv/risk_signals.csv": {
+      "rows": 800,
+      "sha256": "b5ad947347b4c22bb5a45c94f6b56f68a55b70f223ed12eb30ccc10b66c0ef85",
+      "bytes": 94633
+    },
+    "csv/supplier_scores.csv": {
+      "rows": 1000,
+      "sha256": "cf72e815f9f6e5f461ebdd2d93bc270c2de9d9b9cb63b66ab222e465e233f503",
+      "bytes": 1174891
+    },
+    "csv/ground_truth.csv": {
+      "rows": 70,
+      "sha256": "d3c31835a7df53a90cafea516bc3732b5325aba83138f0025e1a596149528647",
+      "bytes": 20088
+    },
+    "json/suppliers.json": {
+      "rows": 1000,
+      "sha256": "c30f3ab54e3de3106bb7db1529b3a4e81d8f4a02bafd63d6e1a89f4d596caf6f",
+      "bytes": 290618
+    },
+    "json/sites.json": {
+      "rows": 1634,
+      "sha256": "b5ec058e4d88f2f78777a7ef4ccd3af7f846ec1aa56920057cf39afc1909f9e3",
+      "bytes": 738717
+    },
+    "json/contracts.json": {
+      "rows": 1256,
+      "sha256": "60b02ea161cf49b9f39c2e1d50463062607ea7f7bef6c14e4ebe7bf0d6db0587",
+      "bytes": 452077
+    },
+    "json/purchase_orders.json": {
+      "rows": 10000,
+      "sha256": "d88bb404bdfa932a8ffced6a535f3e843afce44af841974d4a98c4a16084bc9c",
+      "bytes": 3974042
+    },
+    "json/po_lines.json": {
+      "rows": 20044,
+      "sha256": "8d81489478f86716a720cd0ef9a58caac42cc205a7a7a769005dcef3e7d1a5c5",
+      "bytes": 7210796
+    },
+    "json/shipments.json": {
+      "rows": 15000,
+      "sha256": "ec8ee7a3d064db56911da943d48eeb628fd10e1ba1d9c236d8ed383323afde05",
+      "bytes": 5931926
+    },
+    "json/delivery_events.json": {
+      "rows": 45000,
+      "sha256": "5f5a21e818bad424e47b6c3015373d988cd2dca73780294fb33046c132de23ff",
+      "bytes": 15364248
+    },
+    "json/inspections.json": {
+      "rows": 20000,
+      "sha256": "3f04c91152b742a6bee04469cf99d54dd7be55ea6ecb1db4eaeeda435e2e621d",
+      "bytes": 7713846
+    },
+    "json/invoices.json": {
+      "rows": 10000,
+      "sha256": "b7869b0faf9b77782849a232ab65124e823bf199b0d5a29035655aad63e56a78",
+      "bytes": 3483794
+    },
+    "json/risk_signals.json": {
+      "rows": 800,
+      "sha256": "7b29be4888bdd2de22562b7c88b1cf59cee5656f623612db0bf6aaca1a8dae9d",
+      "bytes": 228949
+    },
+    "json/supplier_scores.json": {
+      "rows": 1000,
+      "sha256": "09d1288a18ac5b74cae88f82eb929b6701e97e1e74a275c1eb21ac29c3b76428",
+      "bytes": 1622609
+    },
+    "json/ground_truth.json": {
+      "rows": 70,
+      "sha256": "381505767892db26795149ae94075d7f032d4653d4e4cace3b24398934a87899",
+      "bytes": 35087
+    },
+    "sqlite/supplier_reliability.db": {
+      "sha256": "e08b5c297b08f65a3bb25b608144349a2df821559b7627a91f28609547e413c8",
+      "bytes": 18370560
+    },
+    "sql/schema.sql": {
+      "sha256": "ac876daba76bdb0db0cce3252395c5c4b95a479ddd263c65e8b6bb2a3e600ed5",
+      "bytes": 6234
+    }
+  }
+}
